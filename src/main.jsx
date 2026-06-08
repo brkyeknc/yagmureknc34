@@ -12,15 +12,17 @@ const DATASETS = {
     icon: '📚',
     questions: tarihQuestions,
   },
+
   din: {
     label: 'Din Kültürü',
     icon: '☪️',
     questions: dinQuestions,
   },
+
   edebiyat: {
     label: 'Edebiyat',
     icon: '📖',
-    questions: edebiyatQuestions,
+    questions: [...edebiyatQuestions, ...edebiyatLakaplar],
   },
 };
 
