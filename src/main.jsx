@@ -3,6 +3,7 @@ import { createRoot } from 'react-dom/client';
 import tarihQuestions from './tarih_questions.json';
 import dinQuestions from './din_questions.json';
 import edebiyatQuestions from './edebiyat_questions.json';
+import edebiyatLakaplar from "./edebiyat_lakaplar.json";
 import './style.css';
 
 const DATASETS = {
