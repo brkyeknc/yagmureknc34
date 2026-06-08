@@ -1,0 +1,5269 @@
+[
+  {
+    "id": "edebiyat_bati_edebiyatindaki_akimlar_001",
+    "topic": "Batı Edebiyatındaki Akımlar",
+    "subtopic": "",
+    "question": "İnsanın ve ____________ ön planda olduğu, diğer adıyla \"İnsancıllık\" olan akıma ____________ denir.",
+    "answers": [
+      "hoşgörünün",
+      "Hümanizm"
+    ],
+    "source_file": "BATI EDEBİYATINDAKİ AKIMLAR(1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_bati_edebiyatindaki_akimlar_002",
+    "topic": "Batı Edebiyatındaki Akımlar",
+    "subtopic": "",
+    "question": "Diğer adı \"Kuralcılık\" olan, kurucusunun ____________ olduğu akımın anahtar kelimeleri ____________, sağduyu ve evrensel insan doğasıdır; bu akıma ____________ denir.",
+    "answers": [
+      "Boileau",
+      "akıl",
+      "Klasisizm"
+    ],
+    "source_file": "BATI EDEBİYATINDAKİ AKIMLAR(1).txt",
+    "blank_count": 3
+  },
+  {
+    "id": "edebiyat_bati_edebiyatindaki_akimlar_003",
+    "topic": "Batı Edebiyatındaki Akımlar",
+    "subtopic": "",
+    "question": "Duygusallık veya coşkunluk olarak da bilinen; duygu, ____________ ve yazarın eserlerinde ____________ anahtar kelimeleriyle öne çıkan akıma ____________ denir.",
+    "answers": [
+      "hayal",
+      "kişiliğini gizlememesi",
+      "Romantizm"
+    ],
+    "source_file": "BATI EDEBİYATINDAKİ AKIMLAR(1).txt",
+    "blank_count": 3
+  },
+  {
+    "id": "edebiyat_bati_edebiyatindaki_akimlar_004",
+    "topic": "Batı Edebiyatındaki Akımlar",
+    "subtopic": "",
+    "question": "____________ tepki olarak ortaya çıkan, kurucusu \"Madame Bovary\" adlı öncü eseriyle ____________ olan akıma ____________ (Gerçekçilik) denir; bu akımın anahtar kelimeleri ____________, belge ve kanıttır.",
+    "answers": [
+      "Romantizme",
+      "Gustave Flaubert",
+      "Realizm",
+      "gözlem"
+    ],
+    "source_file": "BATI EDEBİYATINDAKİ AKIMLAR(1).txt",
+    "blank_count": 4
+  },
+  {
+    "id": "edebiyat_bati_edebiyatindaki_akimlar_005",
+    "topic": "Batı Edebiyatındaki Akımlar",
+    "subtopic": "",
+    "question": "Gerçekçiliğin ileri bir aşaması olan ve kuruculuğunu ____________'nın yaptığı \"Doğalcılık\" akımına ____________ denir; insanların kaderinin önceden belli olduğu inancına dayanan ____________ ile deney ve ____________ kavramları bu akımın anahtar kelimeleridir.",
+    "answers": [
+      "Emile Zola",
+      "Natüralizm",
+      "soya çekim",
+      "laboratuvar"
+    ],
+    "source_file": "BATI EDEBİYATINDAKİ AKIMLAR(1).txt",
+    "blank_count": 4
+  },
+  {
+    "id": "edebiyat_bati_edebiyatindaki_akimlar_006",
+    "topic": "Batı Edebiyatındaki Akımlar",
+    "subtopic": "",
+    "question": "Realizmin ____________ hâli olan akıma ____________ denir.",
+    "answers": [
+      "şiirdeki",
+      "Parnasizm"
+    ],
+    "source_file": "BATI EDEBİYATINDAKİ AKIMLAR(1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_bati_edebiyatindaki_akimlar_007",
+    "topic": "Batı Edebiyatındaki Akımlar",
+    "subtopic": "",
+    "question": "Simgecilik olarak da bilinen; kapalı anlatım ve anlatımın ____________ ile yapıldığı akıma ____________ denir.",
+    "answers": [
+      "simgeler",
+      "Sembolizm"
+    ],
+    "source_file": "BATI EDEBİYATINDAKİ AKIMLAR(1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_bati_edebiyatindaki_akimlar_008",
+    "topic": "Batı Edebiyatındaki Akımlar",
+    "subtopic": "",
+    "question": "Görünen gerçekliğin özgün olmadığına, nesnenin anlamının ____________ arkasında olduğuna inanan akıma ____________ denir.",
+    "answers": [
+      "görüntüsünün",
+      "Ekspresyonizm"
+    ],
+    "source_file": "BATI EDEBİYATINDAKİ AKIMLAR(1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_bati_edebiyatindaki_akimlar_009",
+    "topic": "Batı Edebiyatındaki Akımlar",
+    "subtopic": "",
+    "question": "Dış dünyanın olduğu gibi yansıtılmadığı, yazarın edindiği ____________ önemli olduğu akıma ____________ denir.",
+    "answers": [
+      "izlenimlerin",
+      "Empresyonizm"
+    ],
+    "source_file": "BATI EDEBİYATINDAKİ AKIMLAR(1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_bati_edebiyatindaki_akimlar_010",
+    "topic": "Batı Edebiyatındaki Akımlar",
+    "subtopic": "",
+    "question": "Şiirde ____________ işaretinin kullanılmaması ile öne çıkan akıma ____________ denir.",
+    "answers": [
+      "noktalama",
+      "Kübizm"
+    ],
+    "source_file": "BATI EDEBİYATINDAKİ AKIMLAR(1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_bati_edebiyatindaki_akimlar_011",
+    "topic": "Batı Edebiyatındaki Akımlar",
+    "subtopic": "",
+    "question": "Hız, ____________, dinamizm, değişim ve ____________ anahtar kelimeleriyle tanımlanan akıma ____________ denir.",
+    "answers": [
+      "makine",
+      "materyalizm",
+      "Fütürizm"
+    ],
+    "source_file": "BATI EDEBİYATINDAKİ AKIMLAR(1).txt",
+    "blank_count": 3
+  },
+  {
+    "id": "edebiyat_bati_edebiyatindaki_akimlar_012",
+    "topic": "Batı Edebiyatındaki Akımlar",
+    "subtopic": "",
+    "question": "Dünyada ____________ önemli bir şeyin olmadığını savunan akıma ____________ denir.",
+    "answers": [
+      "harflerden",
+      "Letrizm"
+    ],
+    "source_file": "BATI EDEBİYATINDAKİ AKIMLAR(1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_bati_edebiyatindaki_akimlar_013",
+    "topic": "Batı Edebiyatındaki Akımlar",
+    "subtopic": "",
+    "question": "Anahtar kelimeleri ____________, rüya ve ____________ olan akıma ____________ denir.",
+    "answers": [
+      "bilinçaltı",
+      "hipnoz",
+      "Sürrealizm"
+    ],
+    "source_file": "BATI EDEBİYATINDAKİ AKIMLAR(1).txt",
+    "blank_count": 3
+  },
+  {
+    "id": "edebiyat_bati_edebiyatindaki_akimlar_014",
+    "topic": "Batı Edebiyatındaki Akımlar",
+    "subtopic": "",
+    "question": "Bireyin önemli olduğu; ____________ ve içe bakış kavramlarını merkeze alan akıma ____________ denir.",
+    "answers": [
+      "varoluş",
+      "Egsiztansiyalizm"
+    ],
+    "source_file": "BATI EDEBİYATINDAKİ AKIMLAR(1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_bati_edebiyatindaki_akimlar_015",
+    "topic": "Batı Edebiyatındaki Akımlar",
+    "subtopic": "",
+    "question": "Anahtar kelimeleri ____________ ve hayatın ____________ olması olan akıma ____________ denir.",
+    "answers": [
+      "kuralsızlık",
+      "saçma",
+      "Dadaizm"
+    ],
+    "source_file": "BATI EDEBİYATINDAKİ AKIMLAR(1).txt",
+    "blank_count": 3
+  },
+  {
+    "id": "edebiyat_cumhuriyet_donemi_001",
+    "topic": "Cumhuriyet Dönemi",
+    "subtopic": "",
+    "question": "____________ döneminde, ____________ yöneliş başlamış, ____________ yoğunlukla işlenmiş ve ____________ başarıya ulaşmıştır.",
+    "answers": [
+      "Cumhuriyet",
+      "Anadolu’ya",
+      "Atatürk ilke ve inkılapları",
+      "dilde sadeleşme"
+    ],
+    "source_file": "CUMHURİYET DÖNEMİ (1).txt",
+    "blank_count": 4
+  },
+  {
+    "id": "edebiyat_cumhuriyet_donemi_002",
+    "topic": "Cumhuriyet Dönemi",
+    "subtopic": "",
+    "question": "Bu dönemde ____________ ile ____________ işlenmiş ve edebiyat dünyasında birçok ____________ çıkarılmıştır.",
+    "answers": [
+      "Anadolu halkı",
+      "yurt güzellikleri",
+      "dergi"
+    ],
+    "source_file": "CUMHURİYET DÖNEMİ (1).txt",
+    "blank_count": 3
+  },
+  {
+    "id": "edebiyat_cumhuriyet_donemi_003",
+    "topic": "Cumhuriyet Dönemi",
+    "subtopic": "",
+    "question": "Cumhuriyet Dönemi şiirinde ____________ sağlandı, yeni ____________ ortaya çıktı ve ____________ yerini ____________ aldı.",
+    "answers": [
+      "biçim serbestliği",
+      "şiir grupları",
+      "aruzun",
+      "hece ölçüsü"
+    ],
+    "source_file": "CUMHURİYET DÖNEMİ (1).txt",
+    "blank_count": 4
+  },
+  {
+    "id": "edebiyat_cumhuriyet_donemi_004",
+    "topic": "Cumhuriyet Dönemi",
+    "subtopic": "",
+    "question": "Bu dönemde Devlet tiyatroları ile ____________ kurulmuş ve tiyatro ____________ .",
+    "answers": [
+      "şehir tiyatroları",
+      "kurumsallaşmıştır"
+    ],
+    "source_file": "CUMHURİYET DÖNEMİ (1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_cumhuriyet_donemi_005",
+    "topic": "Cumhuriyet Dönemi",
+    "subtopic": "",
+    "question": "Cumhuriyet dönemi şiir topluluklarından ____________ şiirlerinde Anadolu'dan bahsederken; ____________ daha çok sanatla ilgili görüşlerini yazmışlardır.",
+    "answers": [
+      "Beş Hececiler",
+      "Hisarcılar"
+    ],
+    "source_file": "CUMHURİYET DÖNEMİ (1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_cumhuriyet_donemi_006",
+    "topic": "Cumhuriyet Dönemi",
+    "subtopic": "",
+    "question": "Dönem topluluklarından ____________ Memleket Edebiyatına tepki konusunu işlerken; ____________ anlayışını benimseyenler biçim mükemmelliğine önem vermişlerdir.",
+    "answers": [
+      "Yedi Meşaleciler",
+      "Saf Şiir"
+    ],
+    "source_file": "CUMHURİYET DÖNEMİ (1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_cumhuriyet_donemi_007",
+    "topic": "Cumhuriyet Dönemi",
+    "subtopic": "",
+    "question": "Şiirlerinde basit olayları ve günlük dili kullanan topluluk ____________ akımı iken; şiirlerinde gerçeküstü unsurlara yer veren topluluk ____________'dir.",
+    "answers": [
+      "Garip",
+      "II. Yeni"
+    ],
+    "source_file": "CUMHURİYET DÖNEMİ (1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_cumhuriyet_donemi_008",
+    "topic": "Cumhuriyet Dönemi",
+    "subtopic": "",
+    "question": "Cumhuriyet dönemi şiir topluluklarından ____________ ideolojik şiire karşı çıkmışlardır.",
+    "answers": [
+      "Maviciler"
+    ],
+    "source_file": "CUMHURİYET DÖNEMİ (1).txt",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_cumhuriyet_donemi_009",
+    "topic": "Cumhuriyet Dönemi",
+    "subtopic": "",
+    "question": "Beş Hececiler topluluğunda yer alan Enis Behiç \"____________\", Yusuf Ziya \"____________\", Halit Fahri \"____________\" adlı eserleriyle tanınır.",
+    "answers": [
+      "Güneşin Ölümü",
+      "Akından Akına",
+      "Aruza Veda"
+    ],
+    "source_file": "CUMHURİYET DÖNEMİ (1).txt",
+    "blank_count": 3
+  },
+  {
+    "id": "edebiyat_cumhuriyet_donemi_010",
+    "topic": "Cumhuriyet Dönemi",
+    "subtopic": "",
+    "question": "Beş Hececilerden Orhan Seyfi \"____________\" ve Faruk Nafiz \"____________\" adlı eserlerin sahibidir.",
+    "answers": [
+      "Fırtına ve Kar",
+      "Çoban Çeşmesi"
+    ],
+    "source_file": "CUMHURİYET DÖNEMİ (1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_cumhuriyet_donemi_011",
+    "topic": "Cumhuriyet Dönemi",
+    "subtopic": "",
+    "question": "Hisarcılar topluluğundan İlhan Geçer \"____________\", Bekir Sıtkı ise \"____________\" adlı eseri kaleme almıştır.",
+    "answers": [
+      "Büyüyen Eller",
+      "50.Yıl Marşı"
+    ],
+    "source_file": "CUMHURİYET DÖNEMİ (1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_cumhuriyet_donemi_012",
+    "topic": "Cumhuriyet Dönemi",
+    "subtopic": "",
+    "question": "Yedi Meşalecilerden Ziya Osman \"____________\", Sabri Esat \"____________\" ve Vasfi Mahir \"____________\" adlı eserleriyle bilinir.",
+    "answers": [
+      "Sebil ve Güvercinler",
+      "Odalar ve Sofalar",
+      "Tunç Sesleri"
+    ],
+    "source_file": "CUMHURİYET DÖNEMİ (1).txt",
+    "blank_count": 3
+  },
+  {
+    "id": "edebiyat_cumhuriyet_donemi_013",
+    "topic": "Cumhuriyet Dönemi",
+    "subtopic": "",
+    "question": "Yedi Meşaleciler topluluğundan Cevdet Kudret \"____________\", Yaşar Nabi \"____________\", Muammer Lütfi \"____________\" ve Kenan Hulusi \"____________\" adlı eseri kaleme almıştır.",
+    "answers": [
+      "Birinci Perde",
+      "Onar Mısra",
+      "İlk Kurşun",
+      "Bir Yudum Su"
+    ],
+    "source_file": "CUMHURİYET DÖNEMİ (1).txt",
+    "blank_count": 4
+  },
+  {
+    "id": "edebiyat_cumhuriyet_donemi_014",
+    "topic": "Cumhuriyet Dönemi",
+    "subtopic": "",
+    "question": "Saf Şiir anlayışının temsilcilerinden Ahmet Hamdi \"____________\", Ahmet Muhip \"____________\" ve Fazıl Hüsnü \"____________\" adlı eserleriyle tanınır.",
+    "answers": [
+      "Bursa'da Zaman",
+      "Olvido",
+      "Çocuk ve Allah"
+    ],
+    "source_file": "CUMHURİYET DÖNEMİ (1).txt",
+    "blank_count": 3
+  },
+  {
+    "id": "edebiyat_cumhuriyet_donemi_015",
+    "topic": "Cumhuriyet Dönemi",
+    "subtopic": "",
+    "question": "Saf Şiircilerden Necip Fazıl \"____________\", Cahit Sıtkı \"____________\", Behçet Necatigil \"____________\" ve Asaf Halet \"____________\" adlı eserlerin sahibidir.",
+    "answers": [
+      "Kaldırımlar",
+      "Otuz Beş Yaş",
+      "Evler",
+      "He"
+    ],
+    "source_file": "CUMHURİYET DÖNEMİ (1).txt",
+    "blank_count": 4
+  },
+  {
+    "id": "edebiyat_cumhuriyet_donemi_016",
+    "topic": "Cumhuriyet Dönemi",
+    "subtopic": "",
+    "question": "Garip Akımı sanatçılarından Orhan Veli \"____________\", Melih Cevdet \"____________\" ve Oktay Rifat \"____________\" adlı eserleri yazmıştır.",
+    "answers": [
+      "Vazgeçemediğim",
+      "Rahatı Kaçan Ağaç",
+      "Yaşayıp Ölmek"
+    ],
+    "source_file": "CUMHURİYET DÖNEMİ (1).txt",
+    "blank_count": 3
+  },
+  {
+    "id": "edebiyat_cumhuriyet_donemi_017",
+    "topic": "Cumhuriyet Dönemi",
+    "subtopic": "",
+    "question": "II. Yenicilerden İlhan Berk \"____________\", Turgut Uyar \"____________\", Edip Cansever \"____________\" ve Cemal Süreya \"____________\" adlı eseri kaleme almıştır.",
+    "answers": [
+      "Güneşi Yakanların Selamı",
+      "Arz-ı Hal",
+      "İkindi Üstü",
+      "Üvercinka"
+    ],
+    "source_file": "CUMHURİYET DÖNEMİ (1).txt",
+    "blank_count": 4
+  },
+  {
+    "id": "edebiyat_cumhuriyet_donemi_018",
+    "topic": "Cumhuriyet Dönemi",
+    "subtopic": "",
+    "question": "II. Yeniciler topluluğunda yer alan Ece Ayhan \"____________\", Ülkü Tamer \"____________\" ve Sezai Karakoç \"____________\" adlı eserin yazarıdır.",
+    "answers": [
+      "Kınar Hanım'ın Denizleri",
+      "Soğuk Otların Altında",
+      "Körfez"
+    ],
+    "source_file": "CUMHURİYET DÖNEMİ (1).txt",
+    "blank_count": 3
+  },
+  {
+    "id": "edebiyat_cumhuriyet_donemi_019",
+    "topic": "Cumhuriyet Dönemi",
+    "subtopic": "",
+    "question": "Mavicilerden Attila İlhan \"____________\", Ahmet Oktay \"____________\" ve Ferit Edgü \"____________\" adlı eserin sahibidir.",
+    "answers": [
+      "Duvar",
+      "Her Yüz Bir Öykü Yazar",
+      "Ah Minel Aşk"
+    ],
+    "source_file": "CUMHURİYET DÖNEMİ (1).txt",
+    "blank_count": 3
+  },
+  {
+    "id": "edebiyat_cumhuriyet_donemi_020",
+    "topic": "Cumhuriyet Dönemi",
+    "subtopic": "",
+    "question": "Cumhuriyet dönemi romanında ____________ sorunları işlenmiş ve eserlerde ____________ karakterlere yer verilmiştir.",
+    "answers": [
+      "halkın",
+      "her kesimden"
+    ],
+    "source_file": "CUMHURİYET DÖNEMİ (1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_cumhuriyet_donemi_021",
+    "topic": "Cumhuriyet Dönemi",
+    "subtopic": "",
+    "question": "Bu dönemde toplumcu gerçekçiler ____________ ve ____________ yönelirken; modernizmi ele alanlar ____________ ve ____________ konularını işlediler.",
+    "answers": [
+      "köy",
+      "köylüye",
+      "yabancılaşma",
+      "yalnızlığı"
+    ],
+    "source_file": "CUMHURİYET DÖNEMİ (1).txt",
+    "blank_count": 4
+  },
+  {
+    "id": "edebiyat_cumhuriyet_donemi_022",
+    "topic": "Cumhuriyet Dönemi",
+    "subtopic": "",
+    "question": "Cumhuriyet dönemi romanında Kemal Bilbaşar \"____________\", Samim Kocagöz \"____________\", Cevat Şakir Kabaağaçlı \"____________\" ve Necati Cumalı \"____________\" adlı eserleri yazmıştır.",
+    "answers": [
+      "Denizin Çağırışı",
+      "Sam Amca",
+      "Aganta Burina Burinata",
+      "Susuz Yaz"
+    ],
+    "source_file": "CUMHURİYET DÖNEMİ (1).txt",
+    "blank_count": 4
+  },
+  {
+    "id": "edebiyat_cumhuriyet_donemi_023",
+    "topic": "Cumhuriyet Dönemi",
+    "subtopic": "",
+    "question": "Bu dönem yazarlarından Rıfat Ilgaz \"____________\", Fakir Baykurt \"____________\", Talip Apaydın \"____________\" ve Abbas Sayar \"____________\" adlı romanları kaleme almıştır.",
+    "answers": [
+      "Hababam Sınıfı",
+      "Yılanların Öcü",
+      "Sarı Traktör",
+      "Yılkı Atı"
+    ],
+    "source_file": "CUMHURİYET DÖNEMİ (1).txt",
+    "blank_count": 4
+  },
+  {
+    "id": "edebiyat_cumhuriyet_donemi_024",
+    "topic": "Cumhuriyet Dönemi",
+    "subtopic": "",
+    "question": "Cumhuriyet döneminde Peyami Safa \"____________\", Samiha Ayverdi \"____________\", Abdülhak Şinasi Hisar \"____________\" ve Ahmet Hamdi \"____________\" adlı eserleriyle tanınır.",
+    "answers": [
+      "Sözde Kızlar",
+      "Aşk Budur",
+      "Fahim Bey ve Biz",
+      "Huzur"
+    ],
+    "source_file": "CUMHURİYET DÖNEMİ (1).txt",
+    "blank_count": 4
+  },
+  {
+    "id": "edebiyat_cumhuriyet_donemi_025",
+    "topic": "Cumhuriyet Dönemi",
+    "subtopic": "",
+    "question": "Dönem romancılarından Tarık Buğra \"____________\", Oktay Akbal \"____________\", Nezihe Meriç ise \"____________\" adlı eserlerin sahibidir.",
+    "answers": [
+      "Küçük Ağa",
+      "Garipler Sokağı",
+      "Korsan Çıkmazı"
+    ],
+    "source_file": "CUMHURİYET DÖNEMİ (1).txt",
+    "blank_count": 3
+  },
+  {
+    "id": "edebiyat_cumhuriyet_donemi_026",
+    "topic": "Cumhuriyet Dönemi",
+    "subtopic": "",
+    "question": "Roman yazarlarından Yusuf Atılgan \"____________\", Bilge Karasu \"____________\", Ferit Edgü \"____________\" ve Selim İleri \"____________\" adlı eserleri yazmıştır.",
+    "answers": [
+      "Aylak Adam",
+      "Gece",
+      "Kimse",
+      "Her Gece Bodrum"
+    ],
+    "source_file": "CUMHURİYET DÖNEMİ (1).txt",
+    "blank_count": 4
+  },
+  {
+    "id": "edebiyat_cumhuriyet_donemi_027",
+    "topic": "Cumhuriyet Dönemi",
+    "subtopic": "",
+    "question": "Cumhuriyet dönemi yazarlarından Alev Alatlı \"____________\", Nazlı Eray ise \"____________\" adlı eseri kaleme almıştır.",
+    "answers": [
+      "Yaseminler Tüter mi Hala?",
+      "Pasifik Günleri"
+    ],
+    "source_file": "CUMHURİYET DÖNEMİ (1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_cumhuriyet_donemi_028",
+    "topic": "Cumhuriyet Dönemi",
+    "subtopic": "",
+    "question": "Modern-postmodern romanda anlatıcı sürekli \"____________\" der; olaylardan ziyade ____________ anlatılır.",
+    "answers": [
+      "ben",
+      "yaşam zorlukları"
+    ],
+    "source_file": "CUMHURİYET DÖNEMİ (1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_cumhuriyet_donemi_029",
+    "topic": "Cumhuriyet Dönemi",
+    "subtopic": "",
+    "question": "Modern ve postmodern romanlarda ağırlıklı olarak yabancılaşma, ____________, ____________ ve ____________ konuları işlenir.",
+    "answers": [
+      "yalnızlık",
+      "iletişimsizlik",
+      "uyumsuzluk"
+    ],
+    "source_file": "CUMHURİYET DÖNEMİ (1).txt",
+    "blank_count": 3
+  },
+  {
+    "id": "edebiyat_divan_edebiyati_001",
+    "topic": "Divan Edebiyatı",
+    "subtopic": "",
+    "question": "İslamiyet'in etkisindeki Türk edebiyatı Anadolu sahasında \"____________\" ve \"____________\" olmak üzere iki koldan gelişmiştir.",
+    "answers": [
+      "yüksek zümre edebiyatı",
+      "halk edebiyatı"
+    ],
+    "source_file": "DİVAN EDEBİYATI(1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_divan_edebiyati_002",
+    "topic": "Divan Edebiyatı",
+    "subtopic": "",
+    "question": "Eldeki bilgilere göre, ilk divan şairi ____________ kabul edilmektedir.",
+    "answers": [
+      "Hoca Dehhânî"
+    ],
+    "source_file": "DİVAN EDEBİYATI(1).txt",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_divan_edebiyati_003",
+    "topic": "Divan Edebiyatı",
+    "subtopic": "",
+    "question": "Başlangıçta belli bir konu üzerine düzenlenmiş şiirlerin toplandığı esere, sonraları ise bir şairin şiirlerini topladığı eserlere \"____________\" denmiştir.",
+    "answers": [
+      "divan"
+    ],
+    "source_file": "DİVAN EDEBİYATI(1).txt",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_divan_edebiyati_004",
+    "topic": "Divan Edebiyatı",
+    "subtopic": "",
+    "question": "Divan şiirinde asıl anlamı dolaylı olarak anlatan, mecaza dayalı olan ve duygu düşünceleri yansıtan kalıplaşmış hazır benzetmelere \"____________\" adı verilir.",
+    "answers": [
+      "mazmunlar"
+    ],
+    "source_file": "DİVAN EDEBİYATI(1).txt",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_divan_edebiyati_005",
+    "topic": "Divan Edebiyatı",
+    "subtopic": "",
+    "question": "Divan şiiri kalıplaşmış benzetmelerinde; saçlar gece kadar karanlık, kıyamet kadar uzun, misk/amber/sümbül kokulu veya ____________; gözler ise nergis, ____________ veya badem olarak tasavvur edilir.",
+    "answers": [
+      "yılan",
+      "ahu"
+    ],
+    "source_file": "DİVAN EDEBİYATI(1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_divan_edebiyati_006",
+    "topic": "Divan Edebiyatı",
+    "subtopic": "",
+    "question": "Kalıplaşmış benzetmelerde kaşlar ____________, keman veya yay; ağız ise gonca veya ____________ olarak benzetilmiştir.",
+    "answers": [
+      "hilal",
+      "nokta"
+    ],
+    "source_file": "DİVAN EDEBİYATI(1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_divan_edebiyati_007",
+    "topic": "Divan Edebiyatı",
+    "subtopic": "",
+    "question": "Divan şiirinde dudak lal, akik, ____________; dişler ise ____________ olarak imgelenmiştir.",
+    "answers": [
+      "yakut",
+      "inci"
+    ],
+    "source_file": "DİVAN EDEBİYATI(1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_divan_edebiyati_008",
+    "topic": "Divan Edebiyatı",
+    "subtopic": "",
+    "question": "Kalıplaşmış benzetmelerde boy servi, ____________ veya arar ağaçları olarak düşünülmüş; yürüyen sevgiliye \"____________\", salınarak yürüyen sevgiliye ise \"____________\" denmiştir.",
+    "answers": [
+      "şimşad",
+      "serv-i revan",
+      "serv-i hıraman"
+    ],
+    "source_file": "DİVAN EDEBİYATI(1).txt",
+    "blank_count": 3
+  },
+  {
+    "id": "edebiyat_divan_edebiyati_009",
+    "topic": "Divan Edebiyatı",
+    "subtopic": "",
+    "question": "Divan şiirindeki mazmunlara göre kirpikler ____________; bakışlar kılıç; bel ____________ olarak tasvir edilmiştir.",
+    "answers": [
+      "ok",
+      "kıl"
+    ],
+    "source_file": "DİVAN EDEBİYATI(1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_divan_edebiyati_010",
+    "topic": "Divan Edebiyatı",
+    "subtopic": "",
+    "question": "Kalıplaşmış benzetmelerde aşk ____________ (andelib); sevgili ise ____________ olarak sembolize edilmiştir.",
+    "answers": [
+      "bülbül",
+      "gül"
+    ],
+    "source_file": "DİVAN EDEBİYATI(1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_divan_edebiyati_011",
+    "topic": "Divan Edebiyatı",
+    "subtopic": "",
+    "question": "Bir şairin başka bir şairden etkilenerek aynı ölçü ve kafiye/redif ile yazdığı şiirlere ____________ denir.",
+    "answers": [
+      "nazire"
+    ],
+    "source_file": "DİVAN EDEBİYATI(1).txt",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_divan_edebiyati_012",
+    "topic": "Divan Edebiyatı",
+    "subtopic": "",
+    "question": "Aşk, kadın, şarap, tasavvuf, hikmet, rintlik, neşe gibi konuların işlendiği, nazım birimi beyit olan ve beyit sayısı 5-15 arasında değişen nazım şekline ____________ denir; halk şiirindeki karşılığı ise \"____________\"dır.",
+    "answers": [
+      "gazel",
+      "koşma"
+    ],
+    "source_file": "DİVAN EDEBİYATI(1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_divan_edebiyati_013",
+    "topic": "Divan Edebiyatı",
+    "subtopic": "",
+    "question": "Gazelin kafiye örgüsü \"____________\" şeklindedir.",
+    "answers": [
+      "aa-xa-xa..."
+    ],
+    "source_file": "DİVAN EDEBİYATI(1).txt",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_divan_edebiyati_014",
+    "topic": "Divan Edebiyatı",
+    "subtopic": "",
+    "question": "Aşkın anlatıldığı ve en önemli temsilcisi Fuzûlî olan gazel türüne \"____________\"; dünya zevklerinin anlatıldığı ve en önemli temsilcisi Bâkî olan gazel türüne ise \"____________\" denir.",
+    "answers": [
+      "Âşıkâne gazel",
+      "Rindâne gazel"
+    ],
+    "source_file": "DİVAN EDEBİYATI(1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_divan_edebiyati_015",
+    "topic": "Divan Edebiyatı",
+    "subtopic": "",
+    "question": "Sevgilinin güzelliğinin ve ona duyulan arzunun anlatıldığı, \"Nedîmâne gazel\" de denilen tür \"____________\"; ahlaki ve felsefi konuların işlendiği, öncüsü Nâbî olan tür ise \"____________\" (\"Hikemî tarz\") olarak adlandırılır.",
+    "answers": [
+      "Şûhâne gazel",
+      "Hikemî gazel"
+    ],
+    "source_file": "DİVAN EDEBİYATI(1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_divan_edebiyati_016",
+    "topic": "Divan Edebiyatı",
+    "subtopic": "",
+    "question": "Gazelin ilk beytine ____________, son beytine ____________, matladan bir sonraki beyte ____________, maktadan bir önceki beyte ise ____________ adı verilir.",
+    "answers": [
+      "matla",
+      "makta",
+      "hüsn-i matla",
+      "hüsn-i makta"
+    ],
+    "source_file": "DİVAN EDEBİYATI(1).txt",
+    "blank_count": 4
+  },
+  {
+    "id": "edebiyat_divan_edebiyati_017",
+    "topic": "Divan Edebiyatı",
+    "subtopic": "",
+    "question": "Şairin mahlasının bulunduğu beyte mahlas beyti veya ____________ denirken, gazelin en güzel beytine beytü'l gazel veya ____________ denir.",
+    "answers": [
+      "mahlas hane",
+      "şah beyit"
+    ],
+    "source_file": "DİVAN EDEBİYATI(1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_divan_edebiyati_018",
+    "topic": "Divan Edebiyatı",
+    "subtopic": "",
+    "question": "Aralarında konu birliği bulunan gazele ____________, her beyti aynı güzellikte olan gazele ise ____________ adı verilir.",
+    "answers": [
+      "yek ahenk gazel",
+      "yek avaz gazel"
+    ],
+    "source_file": "DİVAN EDEBİYATI(1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_divan_edebiyati_019",
+    "topic": "Divan Edebiyatı",
+    "subtopic": "",
+    "question": "Dize ortaları uyaklı olan, ikiye bölünüp dörtlük yapılabilen gazele ____________; 15 beyitten fazla olan gazellere ise ____________ veya mutavvel gazel denir.",
+    "answers": [
+      "musammat gazel",
+      "müzeyyel gazel"
+    ],
+    "source_file": "DİVAN EDEBİYATI(1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_divan_edebiyati_020",
+    "topic": "Divan Edebiyatı",
+    "subtopic": "",
+    "question": "Matla beytinin dizelerinin kendi aralarında uyaklı olmasına ____________ denir. Gazelleri makamla okuyan kişilere ____________, gazel yazan usta şairlere ise ____________ adı verilir.",
+    "answers": [
+      "musarra",
+      "gazelhan",
+      "gazelsera"
+    ],
+    "source_file": "DİVAN EDEBİYATI(1).txt",
+    "blank_count": 3
+  },
+  {
+    "id": "edebiyat_divan_edebiyati_021",
+    "topic": "Divan Edebiyatı",
+    "subtopic": "",
+    "question": "Din veya devlet büyüklerini övmek veya yermek amacıyla yazılan, beyit sayısı 33-99 arasında değişen ve kafiye örgüsü \"aa-xa-xa ...\" şeklinde olan nazım biçimine ____________ denir.",
+    "answers": [
+      "kaside"
+    ],
+    "source_file": "DİVAN EDEBİYATI(1).txt",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_divan_edebiyati_022",
+    "topic": "Divan Edebiyatı",
+    "subtopic": "",
+    "question": "Kasidenin giriş bölümüne ____________ denir; bu bölümde bahar, kış gibi mevsim/doğa betimlemeleri yapılırsa \"____________\", diğer durumların betimlemeleri yapılırsa \"____________\" adını alır.",
+    "answers": [
+      "teşbib/nesib",
+      "teşbib",
+      "nesib"
+    ],
+    "source_file": "DİVAN EDEBİYATI(1).txt",
+    "blank_count": 3
+  },
+  {
+    "id": "edebiyat_divan_edebiyati_023",
+    "topic": "Divan Edebiyatı",
+    "subtopic": "",
+    "question": "Kasidede asıl konuya/övgüye geçileceğini haber veren bir beyitten oluşan bölüme ____________; kasidenin yazılma nedeni olan kişinin övüldüğü bölüme ise ____________ denir.",
+    "answers": [
+      "girizgâh",
+      "methiye"
+    ],
+    "source_file": "DİVAN EDEBİYATI(1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_divan_edebiyati_024",
+    "topic": "Divan Edebiyatı",
+    "subtopic": "",
+    "question": "Kasidenin içindeki gazel bölümüne ____________; şairin genellikle mahlasına yer verip kendisini ve sanatını övdüğü bölüme ____________, övülen kişiye dua edilen bölüme ise ____________ denir.",
+    "answers": [
+      "tegazzül",
+      "fahriye",
+      "dua"
+    ],
+    "source_file": "DİVAN EDEBİYATI(1).txt",
+    "blank_count": 3
+  },
+  {
+    "id": "edebiyat_divan_edebiyati_025",
+    "topic": "Divan Edebiyatı",
+    "subtopic": "",
+    "question": "Kasidenin ilk beytine ____________, son beytine makta, en güzel beytine ____________, şairin mahlasının bulunduğu beyte ise ____________ adı verilir.",
+    "answers": [
+      "matla",
+      "beytü'l kasid",
+      "taç beyit"
+    ],
+    "source_file": "DİVAN EDEBİYATI(1).txt",
+    "blank_count": 3
+  },
+  {
+    "id": "edebiyat_divan_edebiyati_026",
+    "topic": "Divan Edebiyatı",
+    "subtopic": "",
+    "question": "Konularına göre kasidelerde; Allah'ın birliği ve ululuğunun anlatıldığına ____________, Allah'a yalvarılıp yakarılana ____________, Hz. Muhammed'in övülüp vasıflarının anlatıldığına ise ____________ denir.",
+    "answers": [
+      "tevhit",
+      "münacat",
+      "naat"
+    ],
+    "source_file": "DİVAN EDEBİYATI(1).txt",
+    "blank_count": 3
+  },
+  {
+    "id": "edebiyat_divan_edebiyati_027",
+    "topic": "Divan Edebiyatı",
+    "subtopic": "",
+    "question": "Bir kimsenin mizah da içerecek şekilde yerildiği kasidelere ____________, bir devlet veya din büyüğünün övüldüğüne ____________, şairin kendini övdüğüne ise ____________ denir.",
+    "answers": [
+      "hicviye",
+      "methiye",
+      "fahriye"
+    ],
+    "source_file": "DİVAN EDEBİYATI(1).txt",
+    "blank_count": 3
+  },
+  {
+    "id": "edebiyat_divan_edebiyati_028",
+    "topic": "Divan Edebiyatı",
+    "subtopic": "",
+    "question": "Ölen kişi için yazılan yas/ağıt kasidelerine ____________, padişahın tahta çıkışının kutlandığı kasidelere ise ____________ denir.",
+    "answers": [
+      "mersiye",
+      "cülusiye"
+    ],
+    "source_file": "DİVAN EDEBİYATI(1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_divan_edebiyati_029",
+    "topic": "Divan Edebiyatı",
+    "subtopic": "",
+    "question": "Kasideler kafiye harfi \"râ\" ise \"____________\", \"mîm\" ise \"mîmiyye\", \"tâ\" ise \"tâiyye\" olarak da adlandırılabilir.",
+    "answers": [
+      "râiyye"
+    ],
+    "source_file": "DİVAN EDEBİYATI(1).txt",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_divan_edebiyati_030",
+    "topic": "Divan Edebiyatı",
+    "subtopic": "",
+    "question": "Nesibde işlenen konulara göre kış mevsimini anlatan kasidelere ____________, bayramları anlatanlara ____________, atı betimleyenlere ise ____________ denir.",
+    "answers": [
+      "şitâiyye",
+      "îdiyye/îydiyye",
+      "rahşiyye"
+    ],
+    "source_file": "DİVAN EDEBİYATI(1).txt",
+    "blank_count": 3
+  },
+  {
+    "id": "edebiyat_divan_edebiyati_031",
+    "topic": "Divan Edebiyatı",
+    "subtopic": "",
+    "question": "Tevhit, münacat, methiye ve hicviye genellikle kaside ve ____________ biçiminde yazılırken; mersiye genellikle ____________ biçiminde yazılır.",
+    "answers": [
+      "gazel",
+      "terkibibent"
+    ],
+    "source_file": "DİVAN EDEBİYATI(1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_divan_edebiyati_032",
+    "topic": "Divan Edebiyatı",
+    "subtopic": "",
+    "question": "Hayat görüşü, nükte ve yergi gibi konuların işlendiği; en az iki beyitten oluşan, beyitleri arasında anlam birliği olan, matla ve makta beyti bulunmayan mahlassız nazım şekline ____________ denir.",
+    "answers": [
+      "kıta"
+    ],
+    "source_file": "DİVAN EDEBİYATI(1).txt",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_divan_edebiyati_033",
+    "topic": "Divan Edebiyatı",
+    "subtopic": "",
+    "question": "Kıta nazım şekli \"____________\" şeklinde kafiyelenir; beyit sayısı ikiden fazla olan kıt'alara ise \"____________\" denir.",
+    "answers": [
+      "xa-xa",
+      "kıt'a-i kebir"
+    ],
+    "source_file": "DİVAN EDEBİYATI(1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_divan_edebiyati_034",
+    "topic": "Divan Edebiyatı",
+    "subtopic": "",
+    "question": "Divan edebiyatında bir uzun bir kısa dizeden meydana gelen nazım şekline ____________ denir.",
+    "answers": [
+      "müstezat"
+    ],
+    "source_file": "DİVAN EDEBİYATI(1).txt",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_divan_edebiyati_035",
+    "topic": "Divan Edebiyatı",
+    "subtopic": "",
+    "question": "Tek dörtlükten oluşan ve kafiye düzeni \"aaxa\" şeklinde olan nazım biçimine ____________ denir.",
+    "answers": [
+      "rubai"
+    ],
+    "source_file": "DİVAN EDEBİYATI(1).txt",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_divan_edebiyati_036",
+    "topic": "Divan Edebiyatı",
+    "subtopic": "",
+    "question": "Kafiye düzeni \"aaxa\" veya \"aaaa\" şeklinde olup tek dörtlükten oluşan nazım biçimine ____________ denir.",
+    "answers": [
+      "tuyuğ"
+    ],
+    "source_file": "DİVAN EDEBİYATI(1).txt",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_divan_edebiyati_037",
+    "topic": "Divan Edebiyatı",
+    "subtopic": "",
+    "question": "Yapı olarak birebir aynı olan tuyuğ ve rubaiyi ayırt etmek için hece ölçüsü sayılır; sabit 11'li hece ölçüsü varsa o şiir ____________, 11-12-13 gibi değişiyorsa ____________ olarak kabul edilir.",
+    "answers": [
+      "tuyuğ",
+      "rubai"
+    ],
+    "source_file": "DİVAN EDEBİYATI(1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_divan_edebiyati_038",
+    "topic": "Divan Edebiyatı",
+    "subtopic": "",
+    "question": "Her bendin üçüncü dizesinin \"____________\", her bendin sonunda tekrarlanan dizenin ise \"____________\" olduğu; aaaa-bbba-ccca gibi kafiye düzenlerine sahip nazım şekline şarkı denir.",
+    "answers": [
+      "miyan",
+      "nakarat"
+    ],
+    "source_file": "DİVAN EDEBİYATI(1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_divan_edebiyati_039",
+    "topic": "Divan Edebiyatı",
+    "subtopic": "",
+    "question": "Dörder dizeli bentlerden oluşan, bentlerdeki son dizelerin kendi arasında kafiyeli olduğu veya tekrarlandığı nazım biçimine ____________ denir.",
+    "answers": [
+      "murabba"
+    ],
+    "source_file": "DİVAN EDEBİYATI(1).txt",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_divan_edebiyati_040",
+    "topic": "Divan Edebiyatı",
+    "subtopic": "",
+    "question": "En az 3 bentten meydana gelen, bentleri birleştiren beyitlerine \"vasıta\" veya \"____________\" denilen nazım şekli terkibibenttir; terkibibentte vasıta beyti her bendin sonunda ____________, dolayısıyla konu da değişir.",
+    "answers": [
+      "bendiye",
+      "değişir"
+    ],
+    "source_file": "DİVAN EDEBİYATI(1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_divan_edebiyati_041",
+    "topic": "Divan Edebiyatı",
+    "subtopic": "",
+    "question": "En az 3 bentten meydana gelen tercibentte de bentleri birleştiren beyitlere vasıta veya bendiye denir ancak terkibibentten farkı vasıta beytinin ____________ edilmesidir.",
+    "answers": [
+      "aynen tekrar"
+    ],
+    "source_file": "DİVAN EDEBİYATI(1).txt",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_divan_edebiyati_042",
+    "topic": "Divan Edebiyatı",
+    "subtopic": "",
+    "question": "Bugünkü roman ve öykünün yerini tutan, aşk ve tasavvuf gibi konuların işlendiği, her beyti kendi içinde \"aa, bb, cc...\" şeklinde kafiyeli olan nazım biçimine ____________ denir.",
+    "answers": [
+      "mesnevi"
+    ],
+    "source_file": "DİVAN EDEBİYATI(1).txt",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_divan_edebiyati_043",
+    "topic": "Divan Edebiyatı",
+    "subtopic": "",
+    "question": "Divan edebiyatında beş mesnevinin bir araya toplanmasından oluşan esere ____________ denir.",
+    "answers": [
+      "hamse"
+    ],
+    "source_file": "DİVAN EDEBİYATI(1).txt",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_divan_edebiyati_044",
+    "topic": "Divan Edebiyatı",
+    "subtopic": "",
+    "question": "Dünya edebiyatında ilk hamse sahibi sanatçı ____________ iken, Türk edebiyatında hamse sahibi olan ilk sanatçı ____________; Anadolu'da hamse yazan ilk şair ise ____________ olarak bilinir.",
+    "answers": [
+      "Nizami",
+      "Ali Şir Nevâî",
+      "Hamdullah Hamdi"
+    ],
+    "source_file": "DİVAN EDEBİYATI(1).txt",
+    "blank_count": 3
+  },
+  {
+    "id": "edebiyat_divan_edebiyati_045",
+    "topic": "Divan Edebiyatı",
+    "subtopic": "",
+    "question": "Mesnevinin bölümleri arasında ön söz anlamına gelen ____________, eserin yazılış sebebi anlamına gelen ____________ ve konuya başlangıç anlamına gelen ____________ yer alır.",
+    "answers": [
+      "Dibâce",
+      "Sebeb-i te'lîf",
+      "Âgâz-ı Dâstân"
+    ],
+    "source_file": "DİVAN EDEBİYATI(1).txt",
+    "blank_count": 3
+  },
+  {
+    "id": "edebiyat_divan_edebiyati_046",
+    "topic": "Divan Edebiyatı",
+    "subtopic": "",
+    "question": "Kaynağını kutsal kitaplardan alan, gömlek, kuyu, buğday ve rüya tabirleri gibi simgesel unsurlar içeren eser ____________ mesnevisidir.",
+    "answers": [
+      "Yûsuf u Züleyhâ"
+    ],
+    "source_file": "DİVAN EDEBİYATI(1).txt",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_divan_edebiyati_047",
+    "topic": "Divan Edebiyatı",
+    "subtopic": "",
+    "question": "Türkçenin hor görüldüğü bir devirde Türk milleti için ____________ tarafından kaleme alınan, ince tasavvufi konuları dahi Türkçe anlatmasıyla önemli olan eser ____________ adlı mesnevidir.",
+    "answers": [
+      "Âşık Paşa",
+      "Garibnâme"
+    ],
+    "source_file": "DİVAN EDEBİYATI(1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_divan_edebiyati_048",
+    "topic": "Divan Edebiyatı",
+    "subtopic": "",
+    "question": "Türk edebiyatındaki ilk fabl örneği olan, yergi türünün şaheserlerinden sayılan ve bir eşeğin öküze özenmesini anlatan eser ____________'dir.",
+    "answers": [
+      "Harnâme"
+    ],
+    "source_file": "DİVAN EDEBİYATI(1).txt",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_divan_edebiyati_049",
+    "topic": "Divan Edebiyatı",
+    "subtopic": "",
+    "question": "Arap edebiyatı kökenli bir aşk hikâyesi olan ve Kays ile Leyli arasındaki dünyevi aşktan ilahi aşka geçiş temasını işleyen mesnevinin en başarılı örneğini Fuzûlî \"____________\" adıyla yazmıştır.",
+    "answers": [
+      "Leylâ vü Mecnûn"
+    ],
+    "source_file": "DİVAN EDEBİYATI(1).txt",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_divan_edebiyati_050",
+    "topic": "Divan Edebiyatı",
+    "subtopic": "",
+    "question": "Adı \"Kurtuluş Vesilesi\" anlamına gelen, Hz. Peygamber sevgisinin anlatılıp üstünlüğünün vurgulandığı eser ____________ / ____________'dir.",
+    "answers": [
+      "Vesîletü'n-Necât",
+      "Mevlid"
+    ],
+    "source_file": "DİVAN EDEBİYATI(1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_divan_edebiyati_051",
+    "topic": "Divan Edebiyatı",
+    "subtopic": "",
+    "question": "Tasavvufi anlamda ilahi aşkın ve o yolda katlanılması gereken çilenin anlatıldığı; Aşk ile Hüsn'ün başkişiler olduğu, ateş denizi ve mumdan gemi gibi sembolik unsurlar barındıran eser ____________'tür.",
+    "answers": [
+      "Hüsn ü Aşk"
+    ],
+    "source_file": "DİVAN EDEBİYATI(1).txt",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_divan_edebiyati_052",
+    "topic": "Divan Edebiyatı",
+    "subtopic": "",
+    "question": "Yaymak, saçmak, dağıtmak anlamlarına gelip düzyazı demek olan kavrama ____________; nesir ustasına ____________; nesir tarzında ortaya konmuş esere ____________ denir.",
+    "answers": [
+      "nesir",
+      "nasir",
+      "mensur (mensure)"
+    ],
+    "source_file": "DİVAN EDEBİYATI(1).txt",
+    "blank_count": 3
+  },
+  {
+    "id": "edebiyat_divan_edebiyati_053",
+    "topic": "Divan Edebiyatı",
+    "subtopic": "",
+    "question": "Edebî değeri olan nesre ____________, edebî nesir kaleme alan kişiye ____________ ve edebî nesirlerin toplandığı eserlere ____________ adı verilir. Divan edebiyatında devletin resmî yazıcılarına ise ____________ denirdi.",
+    "answers": [
+      "inşa",
+      "münşi",
+      "münşeat",
+      "nişancı"
+    ],
+    "source_file": "DİVAN EDEBİYATI(1).txt",
+    "blank_count": 4
+  },
+  {
+    "id": "edebiyat_divan_edebiyati_054",
+    "topic": "Divan Edebiyatı",
+    "subtopic": "",
+    "question": "Halkı bilgilendirmek amacıyla konuşma diline yakın bir dille yazılan nesre ____________; hem öğreticilik hem sanat yapma amacıyla sanatlı ama anlaşılır dille yazılan nesre ise ____________ denir.",
+    "answers": [
+      "sade nesir",
+      "orta nesir"
+    ],
+    "source_file": "DİVAN EDEBİYATI(1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_divan_edebiyati_055",
+    "topic": "Divan Edebiyatı",
+    "subtopic": "",
+    "question": "Hüner gösterme amacı taşıyan, konunun değil söyleyiş güzelliğinin öne çıkarıldığı sanatlı nesre ____________ nesir denir; bunun ilk örneği ise ____________'nın ____________ adlı eseridir.",
+    "answers": [
+      "süslü (sanatlı)",
+      "Sinan Paşa",
+      "Tazarrunâme"
+    ],
+    "source_file": "DİVAN EDEBİYATI(1).txt",
+    "blank_count": 3
+  },
+  {
+    "id": "edebiyat_divan_edebiyati_056",
+    "topic": "Divan Edebiyatı",
+    "subtopic": "",
+    "question": "Çağatay Türkçesiyle yazılmış olan ve Türk edebiyatındaki ilk tezkire sayılan eser ____________'dir.",
+    "answers": [
+      "Mecâlisü'n-Nefâis"
+    ],
+    "source_file": "DİVAN EDEBİYATI(1).txt",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_divan_edebiyati_057",
+    "topic": "Divan Edebiyatı",
+    "subtopic": "",
+    "question": "Ali Şir Nevâî'nin tezkiresinin örnek alındığı, Anadolu sahasındaki ilk tezkire ____________ adlı eserdir.",
+    "answers": [
+      "Heşt Behişt"
+    ],
+    "source_file": "DİVAN EDEBİYATI(1).txt",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_divan_edebiyati_058",
+    "topic": "Divan Edebiyatı",
+    "subtopic": "",
+    "question": "Latifi tarafından yazılan ve Anadolu sahasında yazılan ikinci tezkire olan \"____________\", daha öncekilerin aksine kronolojik değil, Türk edebiyatında ____________ sıraya göre yapılandırılmış ilk tezkiredir.",
+    "answers": [
+      "Tezkiretü'ş-Şuarâ",
+      "alfabetik"
+    ],
+    "source_file": "DİVAN EDEBİYATI(1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_divan_edebiyati_059",
+    "topic": "Divan Edebiyatı",
+    "subtopic": "",
+    "question": "Divan edebiyatında önemli kişilerin, özellikle şairlerin hayatlarının anlatıldığı ve şiirlerinden alıntılara yer verildiği, eleştirilerin kısa olduğu yazı türüne ____________ denir.",
+    "answers": [
+      "tezkire"
+    ],
+    "source_file": "DİVAN EDEBİYATI(1).txt",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_divan_edebiyati_060",
+    "topic": "Divan Edebiyatı",
+    "subtopic": "",
+    "question": "Tezkirenin giriş bölümü olan ____________'de eserin sunulduğu kişi övülür; asıl metinde şairlerin sosyal çevresi ve eserlerinden örnekler yer alır; ____________ bölümünde ise dönemin padişahına dua edilip kusurlar için af istenir.",
+    "answers": [
+      "mukaddime",
+      "hâtime"
+    ],
+    "source_file": "DİVAN EDEBİYATI(1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_divan_edebiyati_061",
+    "topic": "Divan Edebiyatı",
+    "subtopic": "",
+    "question": "Divan edebiyatında gezi yazılarına ____________, gezginlere de ____________ denmiştir; Türk edebiyatında gezi yazısı türünün ilk örneği ____________'in ____________ adlı eseridir.",
+    "answers": [
+      "seyahatname",
+      "seyyah",
+      "Seydi Ali Reis",
+      "Mir'âtü'l-Memâlik"
+    ],
+    "source_file": "DİVAN EDEBİYATI(1).txt",
+    "blank_count": 4
+  },
+  {
+    "id": "edebiyat_divan_edebiyati_062",
+    "topic": "Divan Edebiyatı",
+    "subtopic": "",
+    "question": "Seyahatname türünün en tanınmış eserlerinden biri Evliya Çelebi'nin ____________'si iken; Pîrî Reis'in ____________ ve Kâtip Çelebi'nin ____________ adlı eserlerinde de seyahatname unsurlarına rastlanır.",
+    "answers": [
+      "Seyahatnâme",
+      "Kitâb-ı Bahriye",
+      "Cihânnûma"
+    ],
+    "source_file": "DİVAN EDEBİYATI(1).txt",
+    "blank_count": 3
+  },
+  {
+    "id": "edebiyat_divan_edebiyati_063",
+    "topic": "Divan Edebiyatı",
+    "subtopic": "",
+    "question": "Sevgi ve aşka dair yazılmış mektup için \"____________\" sözü kullanılmış, mektup yazanlara münşi, mektupların toplandığı eserlere de münşeat denmiştir; Türk edebiyatında bilinen ilk edebî mektup örneği mizahi unsurlar da içeren Fuzûlî'nin \"____________\"sidir.",
+    "answers": [
+      "name",
+      "Şikâyetnâme"
+    ],
+    "source_file": "DİVAN EDEBİYATI(1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_divan_edebiyati_064",
+    "topic": "Divan Edebiyatı",
+    "subtopic": "",
+    "question": "Elçi olarak bir ülkeye gönderilen kişilerin elçilikleri sırasındaki gözlemlerini dile getirdikleri, seyahatname ve günlük (____________) türlerinden izler taşıyan eserlere ____________ denir.",
+    "answers": [
+      "ruzname",
+      "sefaretname"
+    ],
+    "source_file": "DİVAN EDEBİYATI(1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_divan_edebiyati_065",
+    "topic": "Divan Edebiyatı",
+    "subtopic": "",
+    "question": "Saray çevresindeki sünnet, evlenme, tahta çıkma gibi nedenlerle yapılan törenleri ve şenlikleri anlatan eserlere ____________ denir.",
+    "answers": [
+      "surname"
+    ],
+    "source_file": "DİVAN EDEBİYATI(1).txt",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_divan_edebiyati_066",
+    "topic": "Divan Edebiyatı",
+    "subtopic": "",
+    "question": "Devlet adamlarına yöneticilik sanatına ilişkin bilgiler veren edebî eserlere ____________ denir; Türk edebiyatındaki ilk örneği Yusuf Has Hacip'in ____________ adlı eseriyken, Anadolu sahasındaki ilk örneği Şeyhoğlu Mustafa'nın yazdığı ____________ adlı eserdir.",
+    "answers": [
+      "siyasetname",
+      "Kutadgu Bilig",
+      "Kenzü'l-Kübera"
+    ],
+    "source_file": "DİVAN EDEBİYATI(1).txt",
+    "blank_count": 3
+  },
+  {
+    "id": "edebiyat_divan_edebiyati_067",
+    "topic": "Divan Edebiyatı",
+    "subtopic": "",
+    "question": "Eskiden fetihleri veya savaşları anlatanlara fetihname ya da zafername denirken, sonraları din uğruna yapılan savaşları ve fetihleri işleyen eserlerin tümüne ____________ denmiştir.",
+    "answers": [
+      "gazavatname"
+    ],
+    "source_file": "DİVAN EDEBİYATI(1).txt",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_divan_edebiyati_068",
+    "topic": "Divan Edebiyatı",
+    "subtopic": "",
+    "question": "Dinî ve mesleki bir teşkilat olan fütüvvet birliğinin esaslarını işleyen eserlere ____________, Hz. Muhammed'in hayatını anlatan eserlere ____________, din büyüklerinin veya kahramanların hayatlarını ve kerametlerini anlatanlara ise ____________ denir.",
+    "answers": [
+      "fütüvvetname",
+      "siyer",
+      "menakıpname"
+    ],
+    "source_file": "DİVAN EDEBİYATI(1).txt",
+    "blank_count": 3
+  },
+  {
+    "id": "edebiyat_divan_edebiyati_069",
+    "topic": "Divan Edebiyatı",
+    "subtopic": "",
+    "question": "Tasavvufu konu edinen Tazarrunâme adlı eserin yazarı ____________ iken, tasavvufi özellikler taşıyan Kabusnâme adlı eserin yazarı ____________'tir.",
+    "answers": [
+      "Sinan Paşa",
+      "Mercimek Ahmet"
+    ],
+    "source_file": "DİVAN EDEBİYATI(1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_edebiyata_giris_001",
+    "topic": "Edebiyata Giriş",
+    "subtopic": "",
+    "question": "Nazım biçiminde yazılmış eserlere \"____________\", kısa nazım parçalarına ise \"____________\" denir; her şiir bir ____________ ancak her ____________ eser, şiir değildir.",
+    "answers": [
+      "manzum eser",
+      "manzume",
+      "manzumedir",
+      "manzum"
+    ],
+    "source_file": "EDEBİYATA GİRİŞ(1).txt",
+    "blank_count": 4
+  },
+  {
+    "id": "edebiyat_edebiyata_giris_002",
+    "topic": "Edebiyata Giriş",
+    "subtopic": "",
+    "question": "Şiirde konuşan, şairin sesini ve söyleyişini emanet ettiği kişiye/varlığa \"____________\" denir ve bu varlık şairin kendisi değil, şair tarafından kurgulanmış ____________ olup görevi ve varlığı o şiir metnini ____________ ibarettir.",
+    "answers": [
+      "söyleyici",
+      "kişi/öznedir",
+      "söylemekten"
+    ],
+    "source_file": "EDEBİYATA GİRİŞ(1).txt",
+    "blank_count": 3
+  },
+  {
+    "id": "edebiyat_edebiyata_giris_003",
+    "topic": "Edebiyata Giriş",
+    "subtopic": "",
+    "question": "Divan şiirinde şairlerin kullandığı takma ada \"____________\" denir ve bu isim genellikle ____________ yer alır.",
+    "answers": [
+      "mahlas",
+      "son beyitte"
+    ],
+    "source_file": "EDEBİYATA GİRİŞ(1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_edebiyata_giris_004",
+    "topic": "Edebiyata Giriş",
+    "subtopic": "",
+    "question": "Halk şiirinde âşıkların mahlas almalarına, adlarını veya mahlaslarını kullanmalarına verilen ada \"____________\" denir ve bu da genellikle ____________ yer alır.",
+    "answers": [
+      "tapşırma",
+      "son dörtlükte"
+    ],
+    "source_file": "EDEBİYATA GİRİŞ(1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_edebiyata_giris_005",
+    "topic": "Edebiyata Giriş",
+    "subtopic": "",
+    "question": "Modern şiir geleneğinde \"____________\", divan şiiri geleneğinde \"____________\", halk şiiri geleneğinde ise \"____________\" nazım birimi egemendir.",
+    "answers": [
+      "dize",
+      "beyit/bent",
+      "dörtlük"
+    ],
+    "source_file": "EDEBİYATA GİRİŞ(1).txt",
+    "blank_count": 3
+  },
+  {
+    "id": "edebiyat_edebiyata_giris_006",
+    "topic": "Edebiyata Giriş",
+    "subtopic": "",
+    "question": "Şiirdeki her bir satıra, yani en küçük nazım birimine \"____________\" adı verilirken; iki dizeden oluşan ve anlam bütünlüğü barındıran birime \"____________\", dört dizeden oluşan ve anlam bütünlüğü barındıran birime \"____________\", üç veya daha fazla dizeden oluşan birime ise \"____________\" denir.",
+    "answers": [
+      "dize (mısra)",
+      "beyit",
+      "dörtlük",
+      "bent"
+    ],
+    "source_file": "EDEBİYATA GİRİŞ(1).txt",
+    "blank_count": 4
+  },
+  {
+    "id": "edebiyat_edebiyata_giris_007",
+    "topic": "Edebiyata Giriş",
+    "subtopic": "",
+    "question": "Bir şiirde ____________ belirlenirken nazım birimi, ____________ ve ölçü gibi unsurlar dikkate alınır.",
+    "answers": [
+      "nazım biçimi",
+      "kafiye düzeni"
+    ],
+    "source_file": "EDEBİYATA GİRİŞ(1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_edebiyata_giris_008",
+    "topic": "Edebiyata Giriş",
+    "subtopic": "",
+    "question": "Hece ölçüsünde en çok ____________ kalıpları kullanılır; ölçü kalıpları içindeki durma yerlerine ise \"____________\" denir, bu yerlerde kelimeler ____________ ancak durulan yerler ayrılır (örneğin 4+4+3=11'li hece ölçüsündeki gibi).",
+    "answers": [
+      "7'li, 8'li, 11'li",
+      "durak",
+      "bölünmez"
+    ],
+    "source_file": "EDEBİYATA GİRİŞ(1).txt",
+    "blank_count": 3
+  },
+  {
+    "id": "edebiyat_edebiyata_giris_009",
+    "topic": "Edebiyata Giriş",
+    "subtopic": "",
+    "question": "Hecelerin açık ve kapalı olmasına dayanan \"____________\" ölçüsünde, ünlüyle biten heceler ____________ kabul edilir ve \"____________\" işareti ile gösterilir.",
+    "answers": [
+      "aruz",
+      "açıktır",
+      "nokta (.)"
+    ],
+    "source_file": "EDEBİYATA GİRİŞ(1).txt",
+    "blank_count": 3
+  },
+  {
+    "id": "edebiyat_edebiyata_giris_010",
+    "topic": "Edebiyata Giriş",
+    "subtopic": "",
+    "question": "Aruz ölçüsüyle yazılmış bir şiirde dizeleri aruz kalıplarına göre bölme ve ölçüye uygun olarak okuma işine \"____________\" denir; hece ölçüsündeki duraklardan farklı olarak bu işlem sırasında sözcükler ____________ .",
+    "answers": [
+      "takti",
+      "bölünebilir"
+    ],
+    "source_file": "EDEBİYATA GİRİŞ(1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_edebiyata_giris_011",
+    "topic": "Edebiyata Giriş",
+    "subtopic": "",
+    "question": "Aruz kusurlarından; kısa heceyi uzun okumaya \"____________\", uzun heceyi kısa okumaya \"____________\", heceleri asıl değerlerinden uzun okumaya \"____________\", uzun heceyi hafifletme veya inceltmeye \"____________\", ünsüzle biten heceyi ünlüyle başlayan heceyle birleştirmeye ise \"____________\" adı verilir.",
+    "answers": [
+      "imale (çekme)",
+      "zihaf (kısma)",
+      "med (uzatma)",
+      "kasr (kesme)",
+      "vasl (ulama)"
+    ],
+    "source_file": "EDEBİYATA GİRİŞ(1).txt",
+    "blank_count": 5
+  },
+  {
+    "id": "edebiyat_edebiyata_giris_012",
+    "topic": "Edebiyata Giriş",
+    "subtopic": "",
+    "question": "Serbest tarzda yazılmış şiirlerde ahenk; ____________ gibi unsurlarla sağlanır.",
+    "answers": [
+      "vurgu, tonlama, aliterasyon, asonans"
+    ],
+    "source_file": "EDEBİYATA GİRİŞ(1).txt",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_edebiyata_giris_013",
+    "topic": "Edebiyata Giriş",
+    "subtopic": "",
+    "question": "Türk şiirinde \"ölçüsüz ve kafiyesiz şiir\" yazılabileceğinden ilk olarak ____________ ile ____________ söz etmiştir.",
+    "answers": [
+      "Ahmet Mithat Efendi",
+      "Recaizade Mahmut Ekrem"
+    ],
+    "source_file": "EDEBİYATA GİRİŞ(1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_edebiyata_giris_014",
+    "topic": "Edebiyata Giriş",
+    "subtopic": "",
+    "question": "Biçimin serbest olduğu ama ölçü ve kafiyenin bulunduğu \"____________\" nazım biçimini Servetifünuncular geliştirmiş; tam bir serbest tarzın gelişip yaygınlaşması ise ____________ öncülüğündeki \"____________\"nın bütün eski ahenk unsurlarına karşı çıkmasıyla gerçekleşmiştir.",
+    "answers": [
+      "serbest müstezat",
+      "Orhan Veli",
+      "Garip akımı"
+    ],
+    "source_file": "EDEBİYATA GİRİŞ(1).txt",
+    "blank_count": 3
+  },
+  {
+    "id": "edebiyat_edebiyata_giris_015",
+    "topic": "Edebiyata Giriş",
+    "subtopic": "",
+    "question": "Dize sonlarında aranıp, aynı harflerden oluşan, aynı ____________ ve anlamdaki eklerin, kelimelerin veya kelime gruplarının tekrarlanmasına \"____________\" denir ve türleri ____________ olmak üzere üçe ayrılır. Bu unsurun oluşabilmesi için tekrarlanan eklerin aynı işlevde olması gerekir.",
+    "answers": [
+      "görev",
+      "redif",
+      "ek hâlinde, sözcük hâlinde, ek ve sözcük hâlinde"
+    ],
+    "source_file": "EDEBİYATA GİRİŞ(1).txt",
+    "blank_count": 3
+  },
+  {
+    "id": "edebiyat_edebiyata_giris_016",
+    "topic": "Edebiyata Giriş",
+    "subtopic": "",
+    "question": "Şiirde iki veya daha çok dize arasındaki ____________ anlam ve görevdeki seslerin, kelimelerin benzerliğine \"____________\" denir ve bu unsur dize sonlarında ve genellikle kelimelerin ____________ aranır.",
+    "answers": [
+      "farklı",
+      "kafiye (uyak)",
+      "köklerinde"
+    ],
+    "source_file": "EDEBİYATA GİRİŞ(1).txt",
+    "blank_count": 3
+  },
+  {
+    "id": "edebiyat_edebiyata_giris_017",
+    "topic": "Edebiyata Giriş",
+    "subtopic": "",
+    "question": "Şiirde ahenk unsurlarından, aynı ünlü seslerin (sesli harflerin) ahenk sağlayacak şekilde sıkça tekrarlanmasına \"____________\", aynı ünsüz seslerin (sessiz harflerin) sıkça tekrarlanmasına \"____________\" denir.",
+    "answers": [
+      "asonans",
+      "aliterasyon"
+    ],
+    "source_file": "EDEBİYATA GİRİŞ(1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_edebiyata_giris_018",
+    "topic": "Edebiyata Giriş",
+    "subtopic": "",
+    "question": "Şiiri oluşturan bölümlerin (üçlük, dörtlük vb.) her birinin sonunda aynen tekrarlanan dizelere \"____________\" adı verilir ve ahenk ayrıca bazı ____________ tekrarlanmasıyla da sağlanabilir.",
+    "answers": [
+      "nakarat",
+      "kelime ve kelime gruplarının"
+    ],
+    "source_file": "EDEBİYATA GİRİŞ(1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_edebiyata_giris_019",
+    "topic": "Edebiyata Giriş",
+    "subtopic": "",
+    "question": "Savaş, kahramanlık, cesaret, yiğitlik gibi konuları ____________ bir anlatımla işleyen epik şiirlere; Türk şiirindeki ____________ gibi nazım biçimleri ve türleri örnek teşkil eder.",
+    "answers": [
+      "coşkulu",
+      "destan, varsağı, koçaklama"
+    ],
+    "source_file": "EDEBİYATA GİRİŞ(1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_edebiyata_giris_020",
+    "topic": "Edebiyata Giriş",
+    "subtopic": "",
+    "question": "Sevgi, aşk, özlem, gurbet, ölüm gibi konularda duyguların dile getirildiği ____________ şiirlere; halk şiirindeki ____________ ve divan şiirindeki ____________ gibi nazım şekilleri ve türleri örnektir.",
+    "answers": [
+      "lirik",
+      "koşma, güzelleme, semai, varsağı, ağıt, ilahi",
+      "mersiye, gazel, şarkı, münacat"
+    ],
+    "source_file": "EDEBİYATA GİRİŞ(1).txt",
+    "blank_count": 3
+  },
+  {
+    "id": "edebiyat_edebiyata_giris_021",
+    "topic": "Edebiyata Giriş",
+    "subtopic": "",
+    "question": "Bir düşünceyi aktarmayı, bir konuda öğüt, bilgi ve ders vermeyi amaçlayan öğretici şiir türüne \"____________\" şiir denir; ____________ ve ____________ bu türe özgü özellikler gösterir.",
+    "answers": [
+      "didaktik",
+      "manzum hikâyeler",
+      "fabllar"
+    ],
+    "source_file": "EDEBİYATA GİRİŞ(1).txt",
+    "blank_count": 3
+  },
+  {
+    "id": "edebiyat_edebiyata_giris_022",
+    "topic": "Edebiyata Giriş",
+    "subtopic": "",
+    "question": "____________ kullanılan bir şiir türü olan dramatik şiirin kökeni, oyuncuların sahnede söyleyecekleri sözlerin şiir hâline getirilip onlara ezberletildiği ____________ dayanır.",
+    "answers": [
+      "Tiyatroda",
+      "Eski Yunan edebiyatına"
+    ],
+    "source_file": "EDEBİYATA GİRİŞ(1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_edebiyata_giris_023",
+    "topic": "Edebiyata Giriş",
+    "subtopic": "",
+    "question": "Tabiat güzelliklerini, kır ve çoban hayatını anlatan \"____________\" şiir türünün ____________ şeklinde olanlarına idil, ____________ şeklinde olanlarına ise eglog adı verilirken; çobanların ölümünden sonra söylenen ağıtlara ise \"____________\" denir.",
+    "answers": [
+      "pastoral",
+      "monolog",
+      "diyalog",
+      "eleji"
+    ],
+    "source_file": "EDEBİYATA GİRİŞ(1).txt",
+    "blank_count": 4
+  },
+  {
+    "id": "edebiyat_edebiyata_giris_024",
+    "topic": "Edebiyata Giriş",
+    "subtopic": "",
+    "question": "Kişilerin ve toplumun aksayan yönlerini ____________ şekilde ele alan satirik şiirler; halk şiirinde \"____________\", divan şiirinde \"____________\", Batı etkisindeki Türk şiirinde ise \"____________\" kavramlarıyla karşılanır.",
+    "answers": [
+      "eleştirel",
+      "taşlama",
+      "hicviye (hiciv)",
+      "yergi"
+    ],
+    "source_file": "EDEBİYATA GİRİŞ(1).txt",
+    "blank_count": 4
+  },
+  {
+    "id": "edebiyat_fecriati_001",
+    "topic": "Fecriati",
+    "subtopic": "",
+    "question": "Türk edebiyatında ilk kez bir \"____________\" yayımlandığı, edebiyatımıza yenilik getiremeyen ve ____________ tekrarı denilebilecek döneme ____________ Dönemi denir.",
+    "answers": [
+      "edebî bildirinin",
+      "Servetifünun'un",
+      "Fecriati"
+    ],
+    "source_file": "FECRİATİ(1).txt",
+    "blank_count": 3
+  },
+  {
+    "id": "edebiyat_fecriati_002",
+    "topic": "Fecriati",
+    "subtopic": "",
+    "question": "Fecriaticilere göre edebiyat \"____________\", bunun da ____________ gerekmektedir.",
+    "answers": [
+      "ciddi bir iştir",
+      "halka aktarılması"
+    ],
+    "source_file": "FECRİATİ(1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_fecriati_003",
+    "topic": "Fecriati",
+    "subtopic": "",
+    "question": "Fecriaticiler edebiyatta \"____________\" anlayışını savunmuşlardır.",
+    "answers": [
+      "Sanat şahsi ve muhteremdir"
+    ],
+    "source_file": "FECRİATİ(1).txt",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_fecriati_004",
+    "topic": "Fecriati",
+    "subtopic": "",
+    "question": "Fecriati Dönemi'nde şiirlerde başlıca ____________ ve ____________ konuları işlenmiştir.",
+    "answers": [
+      "tabiat",
+      "aşk"
+    ],
+    "source_file": "FECRİATİ(1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_fecriati_005",
+    "topic": "Fecriati",
+    "subtopic": "",
+    "question": "Ömrünün sonuna kadar ____________ anlayışını sürdüren tek isim ____________'dir.",
+    "answers": [
+      "Fecriati",
+      "Ahmet Haşim"
+    ],
+    "source_file": "FECRİATİ(1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_fecriati_006",
+    "topic": "Fecriati",
+    "subtopic": "",
+    "question": "Yakup Kadri, ____________, Ali Canip, Celal Sahir, ____________ ve Mehmet Fuat gibi isimler ____________ ayrılarak ____________ geçmişlerdir.",
+    "answers": [
+      "Refik Halit",
+      "Hamdullah Suphi",
+      "Fecriati'den",
+      "Millî edebiyata"
+    ],
+    "source_file": "FECRİATİ(1).txt",
+    "blank_count": 4
+  },
+  {
+    "id": "edebiyat_gecis_donemi_001",
+    "topic": "Geçiş Dönemi",
+    "subtopic": "",
+    "question": "Karahanlı hükümdarı ____________ (924-955), 932'de Müslüman olup ____________ adını almıştır.",
+    "answers": [
+      "Satuk Buğra Han",
+      "Abdülkerim"
+    ],
+    "source_file": "Geçiş dönemi(1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_gecis_donemi_002",
+    "topic": "Geçiş Dönemi",
+    "subtopic": "",
+    "question": "XI ve XII. yüzyıllarda yazılan ilk eserlerde hem ____________ hem de ____________ edebiyatın özelliklerine rastlanmaktadır.",
+    "answers": [
+      "İslam öncesi",
+      "sonrası"
+    ],
+    "source_file": "Geçiş dönemi(1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_gecis_donemi_003",
+    "topic": "Geçiş Dönemi",
+    "subtopic": "",
+    "question": "Geçiş Dönemi eserleri ____________ Türkçesi (____________ Türkçesi) ile yazılmış olup, eserlerde Uygur alfabesi yanında ____________ alfabesi de kullanılmıştır.",
+    "answers": [
+      "Hakaniye",
+      "Karahanlı",
+      "Arap"
+    ],
+    "source_file": "Geçiş dönemi(1).txt",
+    "blank_count": 3
+  },
+  {
+    "id": "edebiyat_gecis_donemi_004",
+    "topic": "Geçiş Dönemi",
+    "subtopic": "",
+    "question": "Genel itibarıyla ____________ nitelikte olan Geçiş Dönemi eserlerinin temel amacı, Türklere ____________ öğretmektir.",
+    "answers": [
+      "didaktik",
+      "İslâmiyet'in güzelliklerini"
+    ],
+    "source_file": "Geçiş dönemi(1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_gecis_donemi_005",
+    "topic": "Geçiş Dönemi",
+    "subtopic": "",
+    "question": "İslâmiyet'in kabulünden önceki ve sonraki dönemlerin özellikleri birlikte görüldüğü bu dönemde dile ____________ sözcükler girmeye başlamıştır.",
+    "answers": [
+      "Arapça ve Farsça"
+    ],
+    "source_file": "Geçiş dönemi(1).txt",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_gecis_donemi_006",
+    "topic": "Geçiş Dönemi",
+    "subtopic": "",
+    "question": "Geçiş Dönemi'nde hece ölçüsünün yanında ____________ ölçüsü de kullanılmaya başlanmış, Arap ve Fars edebiyatlarından yeni ____________ alınmıştır.",
+    "answers": [
+      "aruz",
+      "nazım şekilleri"
+    ],
+    "source_file": "Geçiş dönemi(1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_gecis_donemi_007",
+    "topic": "Geçiş Dönemi",
+    "subtopic": "",
+    "question": "Nazım birimi olarak dörtlüğün yanında ____________ nazım birimi de kullanılmaya başlanmış ve ____________ tabakaya hitap eden edebiyat anlayışı gelişmeye başlamıştır.",
+    "answers": [
+      "beyit",
+      "yüksek"
+    ],
+    "source_file": "Geçiş dönemi(1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_gecis_donemi_008",
+    "topic": "Geçiş Dönemi",
+    "subtopic": "",
+    "question": "____________ tarafından 1069'da yazılan ve adı \"____________\" anlamına gelen Kutadgu Bilig, ____________ ve ____________ niteliklerine sahiptir.",
+    "answers": [
+      "Yusuf Has Hacip",
+      "mutluluk veren bilgi",
+      "siyasetname",
+      "nasihatname"
+    ],
+    "source_file": "Geçiş dönemi(1).txt",
+    "blank_count": 4
+  },
+  {
+    "id": "edebiyat_gecis_donemi_009",
+    "topic": "Geçiş Dönemi",
+    "subtopic": "",
+    "question": "____________ nazım şekliyle yazılan Kutadgu Bilig'de dünya ve ahiret saadetinin yolları anlatılırken, insanın ve devletin karşılıklı görevleri konu edilir ve asıl konu ____________ olarak işlenir.",
+    "answers": [
+      "Mesnevi",
+      "ideal insan"
+    ],
+    "source_file": "Geçiş dönemi(1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_gecis_donemi_010",
+    "topic": "Geçiş Dönemi",
+    "subtopic": "",
+    "question": "Kutadgu Bilig; İslami Türk edebiyatının ilk ____________ eseri, ____________ ölçüsünün ve ____________ nazım biçiminin kullanıldığı ilk eser ile edebiyatımızdaki ilk siyasetname ve ilk ____________ olma özelliklerini taşır.",
+    "answers": [
+      "manzum",
+      "aruz",
+      "mesnevi",
+      "nasihatname/pendname"
+    ],
+    "source_file": "Geçiş dönemi(1).txt",
+    "blank_count": 4
+  },
+  {
+    "id": "edebiyat_gecis_donemi_011",
+    "topic": "Geçiş Dönemi",
+    "subtopic": "",
+    "question": "Karahanlı sarayında haciplik (____________) yapan Yusuf Has Hacip, eserini Karahanlı hükümdarlarından ____________'a sunmuştur.",
+    "answers": [
+      "protokol müdürlüğü",
+      "Tabgaç Uluğ Buğra Han"
+    ],
+    "source_file": "Geçiş dönemi(1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_gecis_donemi_012",
+    "topic": "Geçiş Dönemi",
+    "subtopic": "",
+    "question": "Kutadgu Bilig'de \"Gündoğdu\" anlamına gelen ve \"hükümdar\" konumunda olup \"adalet (hukuk, kanun)\" kavramını temsil eden kişi ____________'dır.",
+    "answers": [
+      "Kün Togdı"
+    ],
+    "source_file": "Geçiş dönemi(1).txt",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_gecis_donemi_013",
+    "topic": "Geçiş Dönemi",
+    "subtopic": "",
+    "question": "Kutadgu Bilig'de \"Dolunay\" anlamına gelen, \"vezir\" konumunda olup \"mutluluk (saadet)\" kavramını temsil eden kişi ____________'dır.",
+    "answers": [
+      "Ay Toldı"
+    ],
+    "source_file": "Geçiş dönemi(1).txt",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_gecis_donemi_014",
+    "topic": "Geçiş Dönemi",
+    "subtopic": "",
+    "question": "Kutadgu Bilig'de \"Övülmüş\" anlamına gelen, vezirin oğlu olarak \"bilge\" konumunda olup \"akıl ve anlayış\" kavramını temsil eden kişi ____________'tir.",
+    "answers": [
+      "Ögdülmiş"
+    ],
+    "source_file": "Geçiş dönemi(1).txt",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_gecis_donemi_015",
+    "topic": "Geçiş Dönemi",
+    "subtopic": "",
+    "question": "Kutadgu Bilig'de \"Uyanmış\" anlamına gelen, vezirin kardeşi olarak \"derviş\" konumunda olup \"akıbet (hayatın sonu), kanaat\" kavramını temsil eden kişi ____________'tır.",
+    "answers": [
+      "Odgurmış"
+    ],
+    "source_file": "Geçiş dönemi(1).txt",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_gecis_donemi_016",
+    "topic": "Geçiş Dönemi",
+    "subtopic": "",
+    "question": "Adı \"____________\" anlamına gelen Divânu Lugâti't-Türk, Türkçe kelimelerin ____________ karşılıklarının verildiği bir sözlük niteliğindedir.",
+    "answers": [
+      "Türk dillerinin sözlüğü",
+      "Arapça"
+    ],
+    "source_file": "Geçiş dönemi(1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_gecis_donemi_017",
+    "topic": "Geçiş Dönemi",
+    "subtopic": "",
+    "question": "Divânu Lugâti't-Türk, Araplara ____________ ve ____________ göstermek için yazılmıştır.",
+    "answers": [
+      "Türkçeyi öğretmek",
+      "Türkçenin zenginliğini"
+    ],
+    "source_file": "Geçiş dönemi(1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_gecis_donemi_018",
+    "topic": "Geçiş Dönemi",
+    "subtopic": "",
+    "question": "Adı \"____________\" anlamına gelen Atabetü'l Hakayık'ta bilginin faydası, cehaletin zararları, ____________, cimrilik, iyi ve kötü huylar anlatılmıştır.",
+    "answers": [
+      "hakikatlerin eşiği",
+      "cömertlik"
+    ],
+    "source_file": "Geçiş dönemi(1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_gecis_donemi_019",
+    "topic": "Geçiş Dönemi",
+    "subtopic": "",
+    "question": "Hem ____________ hem de ____________ harfleriyle yazılmış nüshaları bulunan Atabetü'l Hakayık'ın yazarı ____________'dir.",
+    "answers": [
+      "Uygur",
+      "Arap",
+      "Edip Ahmet Yükneki"
+    ],
+    "source_file": "Geçiş dönemi(1).txt",
+    "blank_count": 3
+  },
+  {
+    "id": "edebiyat_gecis_donemi_020",
+    "topic": "Geçiş Dönemi",
+    "subtopic": "",
+    "question": "XII. yüzyılda yaşayan, din adamı, şair ve bilgin olup Türkçenin yanında Arapça ile Farsça bilen Edip Ahmet Yükneki, eserini ____________'a sunmuştur.",
+    "answers": [
+      "Emir Muhammed Dâd Sipehsalar"
+    ],
+    "source_file": "Geçiş dönemi(1).txt",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_gecis_donemi_021",
+    "topic": "Geçiş Dönemi",
+    "subtopic": "",
+    "question": "Orijinal adı \"____________\" olan Dede Korkut Hikâyeleri, bir ön sözle ____________ hikâyeden oluşur ve içinde çoğu aynı kahramanların maceralarının anlatıldığı bağımsız hikâyeler yer alır.",
+    "answers": [
+      "Kitâb-ı Dedem Korkud Alâ Lisân-ı Tâife-i Oğuzân",
+      "on üç"
+    ],
+    "source_file": "Geçiş dönemi(1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_gecis_donemi_022",
+    "topic": "Geçiş Dönemi",
+    "subtopic": "",
+    "question": "IX-XI. yüzyıllar arasında oluşan Dede Korkut Hikâyeleri, ____________ egemen olduğu ____________ Bölgesi'nde derlenmiş ve XV. yüzyıl başlarında yazıya geçirilmiştir.",
+    "answers": [
+      "Akkoyunluların",
+      "Kuzeydoğu Anadolu"
+    ],
+    "source_file": "Geçiş dönemi(1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_gecis_donemi_023",
+    "topic": "Geçiş Dönemi",
+    "subtopic": "",
+    "question": "Dede Korkut Hikâyeleri, ____________ geleneğinden ____________ geçişin ilk örneklerindendir; sanatçısı belli olmayıp ____________ malıdır.",
+    "answers": [
+      "destan (epope)",
+      "halk hikâyeciliğine",
+      "halkın ortak"
+    ],
+    "source_file": "Geçiş dönemi(1).txt",
+    "blank_count": 3
+  },
+  {
+    "id": "edebiyat_gecis_donemi_024",
+    "topic": "Geçiş Dönemi",
+    "subtopic": "",
+    "question": "____________ geleneği içinde oluşan Dede Korkut Hikâyeleri, ____________ önce oluşturulmuş ancak sonrasında İslami söyleyiş özellikleri de eklenmiştir.",
+    "answers": [
+      "Sözlü edebiyat",
+      "İslamiyet'in kabulünden"
+    ],
+    "source_file": "Geçiş dönemi(1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_gecis_donemi_025",
+    "topic": "Geçiş Dönemi",
+    "subtopic": "",
+    "question": "Dili XIV ve XV. yüzyıl ____________ Türkçesi olan Dede Korkut Hikâyeleri'nde ____________ anlatım iç içedir.",
+    "answers": [
+      "konuşma",
+      "manzum ve mensur"
+    ],
+    "source_file": "Geçiş dönemi(1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_gecis_donemi_026",
+    "topic": "Geçiş Dönemi",
+    "subtopic": "",
+    "question": "Türklerin yaşamının tarihsel, kültürel ve toplumsal bakımdan anlatıldığı eserlerde, ____________ sosyokültürel hayatı, komşularıyla veya ____________ mücadeleleri konu edinilir.",
+    "answers": [
+      "Oğuzların",
+      "insanüstü varlıklarla"
+    ],
+    "source_file": "Geçiş dönemi(1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_gecis_donemi_027",
+    "topic": "Geçiş Dönemi",
+    "subtopic": "",
+    "question": "Aşk, kahramanlık, töreler ve değerlerin işlendiği Dede Korkut Hikâyelerindeki olaylar, ____________ ve ____________ bölgelerinde geçer.",
+    "answers": [
+      "Kafkasya",
+      "Azerbaycan"
+    ],
+    "source_file": "Geçiş dönemi(1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_gecis_donemi_028",
+    "topic": "Geçiş Dönemi",
+    "subtopic": "",
+    "question": "\"Dede Korkut Kitabı\"nın ____________ ile başlayan giriş yazısında adı geçen Dede Korkut (Korkut Ata), \"____________\" kültürünün Geçiş Dönemi'ndeki temsilcisi olup bilge bir ____________ olduğu düşünülmektedir.",
+    "answers": [
+      "besmele",
+      "Şaman",
+      "ozan"
+    ],
+    "source_file": "Geçiş dönemi(1).txt",
+    "blank_count": 3
+  },
+  {
+    "id": "edebiyat_gecis_donemi_029",
+    "topic": "Geçiş Dönemi",
+    "subtopic": "",
+    "question": "Dede Korkut, hikâyelerin ____________ değil, aksine hikâyelerin ____________ ve anlatıcısı olan ozandır.",
+    "answers": [
+      "yazarı",
+      "ortak kahramanı"
+    ],
+    "source_file": "Geçiş dönemi(1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_gecis_donemi_030",
+    "topic": "Geçiş Dönemi",
+    "subtopic": "",
+    "question": "Türk töresini ve ____________ temsil eden Dede Korkut, her hikâyede ortaya çıkar ve her hikâyenin ____________ söz alır.",
+    "answers": [
+      "kültürünü",
+      "sonunda"
+    ],
+    "source_file": "Geçiş dönemi(1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_gecis_donemi_031",
+    "topic": "Geçiş Dönemi",
+    "subtopic": "",
+    "question": "Dede Korkut olaylardan ders çıkarıp ____________ verir, \"____________\"a dua eder ve sözü bitirir.",
+    "answers": [
+      "öğütler",
+      "Han"
+    ],
+    "source_file": "Geçiş dönemi(1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_halk_edebiyati_001",
+    "topic": "Halk Edebiyatı",
+    "subtopic": "",
+    "question": "Halk edebiyatında şiirler, saz şairlerinin kendilerinin veya başkalarının şiirlerini derledikleri \"____________\" adı verilen defterlerde toplanmıştır; uzunlamasına açılan ve deri kaplı olan bu defterlere \"____________\" de denir.",
+    "answers": [
+      "cönk",
+      "sığırdili"
+    ],
+    "source_file": "HALK EDEBİYATI(1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_halk_edebiyati_002",
+    "topic": "Halk Edebiyatı",
+    "subtopic": "",
+    "question": "Sözlü geleneğin ürünü olup ____________ özellik taşıyan, halk şiirindeki en kısa nazım biçimi olan mâni, genellikle ____________ hece ölçüsüyle söylenir.",
+    "answers": [
+      "anonim",
+      "7'li"
+    ],
+    "source_file": "HALK EDEBİYATI(1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_halk_edebiyati_003",
+    "topic": "Halk Edebiyatı",
+    "subtopic": "",
+    "question": "Genellikle tek dörtlükten oluşan ve kafiye düzeni \"____________\" şeklinde olan mânide ilk iki dize hazırlık niteliğinde olup, asıl anlatılmak istenen duygu ya da düşünce ____________ dizede bulunur.",
+    "answers": [
+      "aaxa (aaba)",
+      "son iki"
+    ],
+    "source_file": "HALK EDEBİYATI(1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_halk_edebiyati_004",
+    "topic": "Halk Edebiyatı",
+    "subtopic": "",
+    "question": "Dört dizeden oluşan, 7'li hece ölçüsünün kullanıldığı ve kafiye düzeninin \"aaxa (aaba)\" şeklinde olduğu mâni türüne ____________ denir.",
+    "answers": [
+      "düz mâni"
+    ],
+    "source_file": "HALK EDEBİYATI(1).txt",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_halk_edebiyati_005",
+    "topic": "Halk Edebiyatı",
+    "subtopic": "",
+    "question": "Genelde 4-5 dizeden oluşan, ilk dizesi ____________ az olan, diğer dizeleri ise 7 heceli olup ____________ kafiye kullanılan mâni türüne \"cinaslı / kesik mâni\" denir.",
+    "answers": [
+      "7 heceden",
+      "cinaslı"
+    ],
+    "source_file": "HALK EDEBİYATI(1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_halk_edebiyati_006",
+    "topic": "Halk Edebiyatı",
+    "subtopic": "",
+    "question": "4-5 dizeden fazla olan ve içinde cinas bulunmayan mâni türüne \"____________\" mâni denir.",
+    "answers": [
+      "yedekli / artık"
+    ],
+    "source_file": "HALK EDEBİYATI(1).txt",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_halk_edebiyati_007",
+    "topic": "Halk Edebiyatı",
+    "subtopic": "",
+    "question": "Âşık tarzı halk şiirinde \"____________\" gibi nazım şekilleri bulunur.",
+    "answers": [
+      "Koşma, Semai, Varsağı, Destan"
+    ],
+    "source_file": "HALK EDEBİYATI(1).txt",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_halk_edebiyati_008",
+    "topic": "Halk Edebiyatı",
+    "subtopic": "",
+    "question": "Âşık Ömer, Kâtibî, Gevherî, Dertli, Bayburtlu Zihni, Erzurumlu Emrah, Ruhsatî, Seyranî ve Kul Nesîmî gibi âşıklar halk şiirinde hem ____________ ölçüsünü hem de ____________ ölçüsünü kullanmıştır.",
+    "answers": [
+      "hece",
+      "aruz"
+    ],
+    "source_file": "HALK EDEBİYATI(1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_halk_edebiyati_009",
+    "topic": "Halk Edebiyatı",
+    "subtopic": "",
+    "question": "Halk edebiyatında bazı âşıkların aruz ölçüsünü de kullanmasıyla; ____________ gibi nazım şekilleri oluşmuştur.",
+    "answers": [
+      "divan, kalenderi, semai, selis, satranç, vezniaher"
+    ],
+    "source_file": "HALK EDEBİYATI(1).txt",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_halk_edebiyati_010",
+    "topic": "Halk Edebiyatı",
+    "subtopic": "",
+    "question": "Usta-çırak ilişkisine dayalı olan âşıklık geleneğinde usta âşık yeteneği olan birini ____________ edinir; geleneğin ikinci adımı ise \"____________\"dir.",
+    "answers": [
+      "çırak",
+      "mahlas edinme"
+    ],
+    "source_file": "HALK EDEBİYATI(1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_halk_edebiyati_011",
+    "topic": "Halk Edebiyatı",
+    "subtopic": "",
+    "question": "Kişinin âşık olması için mutlaka ____________ gerekir ve âşık olduğunun en önemli göstergesi \"____________\" veya \"____________\"dir.",
+    "answers": [
+      "saz çalması",
+      "bade içme",
+      "rüya görme"
+    ],
+    "source_file": "HALK EDEBİYATI(1).txt",
+    "blank_count": 3
+  },
+  {
+    "id": "edebiyat_halk_edebiyati_012",
+    "topic": "Halk Edebiyatı",
+    "subtopic": "",
+    "question": "Âşıkların bazıları rüyalarında ____________ görüp saz çalıp şiir söylemeye başlarken; bazıları da rüyalarında \"____________\" içerler ve pirin gösterdiği sevgilinin yüzüne âşık olurlar.",
+    "answers": [
+      "Hızır aleyhisselamı",
+      "pir elinden bade"
+    ],
+    "source_file": "HALK EDEBİYATI(1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_halk_edebiyati_013",
+    "topic": "Halk Edebiyatı",
+    "subtopic": "",
+    "question": "Ercişli Emrah, Dertli, Sümmanî, Seyranî ve Âşık Murat Çobanoğlu gibi isimler ____________ âşıklar grubuna dâhildir.",
+    "answers": [
+      "badeli"
+    ],
+    "source_file": "HALK EDEBİYATI(1).txt",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_halk_edebiyati_014",
+    "topic": "Halk Edebiyatı",
+    "subtopic": "",
+    "question": "Âşıkların yeteneklerini gösterdikleri, iki âşığın karşı karşıya geldiği âşık atışmaları; âşıklardan birinin uyak veya anahtar kelime anlamına gelen \"____________\" vermesiyle başlar, uygun dörtlük söylenemediği anda atışma biter.",
+    "answers": [
+      "ayak"
+    ],
+    "source_file": "HALK EDEBİYATI(1).txt",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_halk_edebiyati_015",
+    "topic": "Halk Edebiyatı",
+    "subtopic": "",
+    "question": "Genellikle ____________ hece ölçüsünün kullanıldığı koşmanın kafiye düzeni \"aaab / abab / xaxa (abcb) - dddb...\" şeklindedir ve bu türün İslam öncesi edebiyattaki karşılığı \"____________\", divan edebiyatındaki karşılığı ise \"____________\"dir.",
+    "answers": [
+      "11'li",
+      "koşuk",
+      "gazel"
+    ],
+    "source_file": "HALK EDEBİYATI(1).txt",
+    "blank_count": 3
+  },
+  {
+    "id": "edebiyat_halk_edebiyati_016",
+    "topic": "Halk Edebiyatı",
+    "subtopic": "",
+    "question": "Sevgili, güzellik, doğa (dağ, yayla, at...) gibi bireysel temaları işleyen koşmalara ____________ denir ve en önemli temsilcisi ____________'dır.",
+    "answers": [
+      "güzelleme",
+      "Karacaoğlan"
+    ],
+    "source_file": "HALK EDEBİYATI(1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_halk_edebiyati_017",
+    "topic": "Halk Edebiyatı",
+    "subtopic": "",
+    "question": "Yiğitlik, kahramanlık konularını işleyen koşmalara ____________ denir ve en önemli temsilcileri ____________ ile ____________'dur.",
+    "answers": [
+      "koçaklama",
+      "Köroğlu",
+      "Dadaloğlu"
+    ],
+    "source_file": "HALK EDEBİYATI(1).txt",
+    "blank_count": 3
+  },
+  {
+    "id": "edebiyat_halk_edebiyati_018",
+    "topic": "Halk Edebiyatı",
+    "subtopic": "",
+    "question": "İnsanların ya da toplumların aksayan yönlerini konu edinen koşmalara ____________ denir; divan şiirindeki karşılığı \"____________\" olan bu türün en önemli temsilcileri ____________ ve ____________'dir.",
+    "answers": [
+      "taşlama",
+      "hiciv",
+      "Seyranî",
+      "Bayburtlu Zihni"
+    ],
+    "source_file": "HALK EDEBİYATI(1).txt",
+    "blank_count": 4
+  },
+  {
+    "id": "edebiyat_halk_edebiyati_019",
+    "topic": "Halk Edebiyatı",
+    "subtopic": "",
+    "question": "Ölen bir kişinin ardından duyulan üzüntüyü dile getiren, anonim halk şiirinde de kullanılan koşmalara ____________ denir ve divan şiirindeki karşılığı \"____________\"dir.",
+    "answers": [
+      "ağıt",
+      "mersiye"
+    ],
+    "source_file": "HALK EDEBİYATI(1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_halk_edebiyati_020",
+    "topic": "Halk Edebiyatı",
+    "subtopic": "",
+    "question": "____________ hece ölçüsünün kullanıldığı ve kafiye düzeni koşmayla aynı olan \"____________\" nazım biçiminin en önemli temsilcileri Karacaoğlan ve ____________'tır.",
+    "answers": [
+      "8'li",
+      "semai",
+      "Erzurumlu Emrah"
+    ],
+    "source_file": "HALK EDEBİYATI(1).txt",
+    "blank_count": 3
+  },
+  {
+    "id": "edebiyat_halk_edebiyati_021",
+    "topic": "Halk Edebiyatı",
+    "subtopic": "",
+    "question": "İçerisinde \"Aman, bre, hey, be hey, hey gidi\" gibi ünlem nitelikli sözlerin kullanıldığı nazım biçimine ____________ denir.",
+    "answers": [
+      "varsağı"
+    ],
+    "source_file": "HALK EDEBİYATI(1).txt",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_halk_edebiyati_022",
+    "topic": "Halk Edebiyatı",
+    "subtopic": "",
+    "question": "Toplumla ilgili savaş, deprem, yangın, kuraklık, kıtlık veya gülünç olaylarla kişileri konu edinen şiirlere ____________ denir.",
+    "answers": [
+      "destan"
+    ],
+    "source_file": "HALK EDEBİYATI(1).txt",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_halk_edebiyati_023",
+    "topic": "Halk Edebiyatı",
+    "subtopic": "",
+    "question": "Tasavvufla uğraşan, tasavvuf ehli kişilere mutasavvıf veya ____________ denir; tasavvuf edebiyatı XII. yüzyılda Türkistan'da ____________ ile başlamıştır.",
+    "answers": [
+      "sufi",
+      "Ahmet Yesevi"
+    ],
+    "source_file": "HALK EDEBİYATI(1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_halk_edebiyati_024",
+    "topic": "Halk Edebiyatı",
+    "subtopic": "",
+    "question": "Allah'ı övmek ve Allah'a yalvarmak amacıyla oluşturulan şiirlere ____________ denir ve bu türün Türk edebiyatındaki en önemli temsilcisi ____________'dir.",
+    "answers": [
+      "ilahi",
+      "Yunus Emre"
+    ],
+    "source_file": "HALK EDEBİYATI(1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_halk_edebiyati_025",
+    "topic": "Halk Edebiyatı",
+    "subtopic": "",
+    "question": "İlahiye; Yeseviler \"____________\", Mevleviler \"____________\", Gülşeniler \"____________\", Halvetiler ise \"____________\" adını verirken; diğer tarikatlar cumhur veya ilahi der; Alevi-Bektaşi dergâhlarında ise ____________ veya ____________ adı verilir.",
+    "answers": [
+      "hikmet",
+      "âyin",
+      "tapuğ",
+      "durak",
+      "nefes",
+      "deme (deyiş)"
+    ],
+    "source_file": "HALK EDEBİYATI(1).txt",
+    "blank_count": 6
+  },
+  {
+    "id": "edebiyat_halk_edebiyati_026",
+    "topic": "Halk Edebiyatı",
+    "subtopic": "",
+    "question": "Tarikata yeni girenlere tarikat adabını öğretmek amacıyla yazılan şiirlere ____________ denir.",
+    "answers": [
+      "nutuk"
+    ],
+    "source_file": "HALK EDEBİYATI(1).txt",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_halk_edebiyati_027",
+    "topic": "Halk Edebiyatı",
+    "subtopic": "",
+    "question": "Dinî konuları iğneleyici ve alaycı bir üslupla anlatır gibi işleyen derin anlamlı şiirlere ____________ denir ve en önemli temsilcisi ____________'dur.",
+    "answers": [
+      "şathiye",
+      "Kaygusuz Abdal"
+    ],
+    "source_file": "HALK EDEBİYATI(1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_halk_edebiyati_028",
+    "topic": "Halk Edebiyatı",
+    "subtopic": "",
+    "question": "Bektaşi şairlerince yazılan, cemlerde saz eşliğinde okunması gelenek hâlini alan; vahdetivücut, Hz. Muhammed ve Hz. Ali konularının işlendiği tasavvufi şiirlere ____________ denir.",
+    "answers": [
+      "nefes"
+    ],
+    "source_file": "HALK EDEBİYATI(1).txt",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_halk_edebiyati_029",
+    "topic": "Halk Edebiyatı",
+    "subtopic": "",
+    "question": "İlahinin Bektaşilerdeki karşılığı olan ve en önemli temsilcilerinin ____________ ile ____________ olduğu bu tür; aynı zamanda Bektaşi âşıklarınca söylenmiş naat ve ____________ methiyelerini de kapsar.",
+    "answers": [
+      "Pir Sultan Abdal",
+      "Kaygusuz Abdal",
+      "Hz. Ali"
+    ],
+    "source_file": "HALK EDEBİYATI(1).txt",
+    "blank_count": 3
+  },
+  {
+    "id": "edebiyat_halk_edebiyati_030",
+    "topic": "Halk Edebiyatı",
+    "subtopic": "",
+    "question": "Hayatın başlangıcını, insanın ulaştığı makamı ve asıl âleme varışını anlatan; tasavvuftaki inme (____________) ve yükselme (____________) döngüsünü işleyen şiirlere ____________ denir.",
+    "answers": [
+      "nüzul",
+      "urûc",
+      "devriye"
+    ],
+    "source_file": "HALK EDEBİYATI(1).txt",
+    "blank_count": 3
+  },
+  {
+    "id": "edebiyat_halk_edebiyati_031",
+    "topic": "Halk Edebiyatı",
+    "subtopic": "",
+    "question": "Tasavvufta nefsi olgunlaştırmak için yaşanan sıkıntı ve zorluklara \"____________\" denirken; dünyadan el çekip Allah'a yönelmeye \"____________\", günaha girmemek için toplumdan ayrı yaşamaya \"____________\" denir.",
+    "answers": [
+      "çile",
+      "halvet",
+      "uzlet"
+    ],
+    "source_file": "HALK EDEBİYATI(1).txt",
+    "blank_count": 3
+  },
+  {
+    "id": "edebiyat_halk_edebiyati_032",
+    "topic": "Halk Edebiyatı",
+    "subtopic": "",
+    "question": "Hz. Muhammed ve onun ailesine \"____________\", nefsini yenerek olgunlaşmış kişiye \"____________\", Allah'a varma yolundaki engele ve dürtülere ise \"____________\" denir.",
+    "answers": [
+      "ehl-i beyt",
+      "insan-ı kâmil",
+      "nefis"
+    ],
+    "source_file": "HALK EDEBİYATI(1).txt",
+    "blank_count": 3
+  },
+  {
+    "id": "edebiyat_halk_edebiyati_033",
+    "topic": "Halk Edebiyatı",
+    "subtopic": "",
+    "question": "Tasavvufta kişinin Allah'la bütünleşmesine \"____________\", Allah'ın varlığı içinde yok olmaya \"____________\" denir.",
+    "answers": [
+      "enelhak",
+      "fenâfillah"
+    ],
+    "source_file": "HALK EDEBİYATI(1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_halk_edebiyati_034",
+    "topic": "Halk Edebiyatı",
+    "subtopic": "",
+    "question": "Vahdetin zıddı olup çokluk anlamına gelen kavrama \"____________\", tekke cemaatinin toplanılan yerine \"____________\", bir tarikat kurucusuna ise \"____________\" denir.",
+    "answers": [
+      "kesret",
+      "meclis",
+      "pir"
+    ],
+    "source_file": "HALK EDEBİYATI(1).txt",
+    "blank_count": 3
+  },
+  {
+    "id": "edebiyat_halk_edebiyati_035",
+    "topic": "Halk Edebiyatı",
+    "subtopic": "",
+    "question": "Sûfinin sezgi yoluyla edindiği ilahî bilgiye \"____________\", kulun kendini sürekli kontrol etmesine \"____________\", kulun kastı olmadan kalbine gelen ve onu kendinden geçiren his durumuna ise \"____________\" denir.",
+    "answers": [
+      "mârifet",
+      "murakabe",
+      "vecd"
+    ],
+    "source_file": "HALK EDEBİYATI(1).txt",
+    "blank_count": 3
+  },
+  {
+    "id": "edebiyat_halk_edebiyati_036",
+    "topic": "Halk Edebiyatı",
+    "subtopic": "",
+    "question": "Allah'la içten ve kişisel bir bağ kurma arayışına \"____________\", dinin yasak ettiği şeylerden sakınan kimseye \"____________\", Allah'a ulaşmak için dünyadan yüz çevirmeye ise \"____________\" denir.",
+    "answers": [
+      "mistisizm",
+      "zahit",
+      "zühd"
+    ],
+    "source_file": "HALK EDEBİYATI(1).txt",
+    "blank_count": 3
+  },
+  {
+    "id": "edebiyat_halk_edebiyati_037",
+    "topic": "Halk Edebiyatı",
+    "subtopic": "",
+    "question": "Allah'a yalvarılan yakarış şiirlerine \"____________\", Hz. Muhammed'in övüldüğü şiirlere \"____________\", Allah'ın tek varlık olduğu anlayışına ise \"____________\" denir.",
+    "answers": [
+      "münacat",
+      "naat",
+      "vahdetivücut"
+    ],
+    "source_file": "HALK EDEBİYATI(1).txt",
+    "blank_count": 3
+  },
+  {
+    "id": "edebiyat_halk_edebiyati_038",
+    "topic": "Halk Edebiyatı",
+    "subtopic": "",
+    "question": "Allah'ın niteliğini varlık birliği anlayışıyla açıklayan akıma \"____________\", mesafelerin hızla alınmasına ise \"____________\" denir.",
+    "answers": [
+      "tasavvuf",
+      "tayy-i zaman tayy-i mekân"
+    ],
+    "source_file": "HALK EDEBİYATI(1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_halk_edebiyati_039",
+    "topic": "Halk Edebiyatı",
+    "subtopic": "",
+    "question": "Gerçek ya da gerçeğe yakın olayların anlatıldığı uzun anlatım türü olan halk hikâyelerinde; dinleyiciyi hazırlamak için okunan bölüm \"____________\", kişilerin ve mekânların tanıtıldığı bölüm \"____________\" adını alır.",
+    "answers": [
+      "fasıl",
+      "döşeme"
+    ],
+    "source_file": "HALK EDEBİYATI(1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_halk_edebiyati_040",
+    "topic": "Halk Edebiyatı",
+    "subtopic": "",
+    "question": "Halk hikâyelerinde asıl kahramanların olay öncesindeki yaşamıyla başlanan bölüme \"____________\", olayların genellikle vuslatın öbür dünyaya kaldığı şekilde sonuçlandığı bölüme ise \"____________\" denir.",
+    "answers": [
+      "asıl konu",
+      "sonuç ve dua"
+    ],
+    "source_file": "HALK EDEBİYATI(1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_halk_edebiyati_041",
+    "topic": "Halk Edebiyatı",
+    "subtopic": "",
+    "question": "Halk hikâyelerinin ____________ bölümünde sevgililerin mezarlarında iki gül veya iki kavak ağacı bitmesi gibi olağanüstülükler anlatılır.",
+    "answers": [
+      "efsane"
+    ],
+    "source_file": "HALK EDEBİYATI(1).txt",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_halk_edebiyati_042",
+    "topic": "Halk Edebiyatı",
+    "subtopic": "",
+    "question": "Kerem ile Aslı, Tahir ile Zühre, Arzu ile Kamber, Ercişli Emrah ile Selvihan ve Âşık Garip; konularına göre ____________ konulu halk hikâyeleridir.",
+    "answers": [
+      "aşk"
+    ],
+    "source_file": "HALK EDEBİYATI(1).txt",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_halk_edebiyati_043",
+    "topic": "Halk Edebiyatı",
+    "subtopic": "",
+    "question": "Köroğlu ile Hz. Ali Cenknameleri konularına göre ____________ konulu iken; Kirman Şah, Yaralı Mahmut ve Şah İsmail konularına göre hem ____________ hem ____________ konulu halk hikâyeleridir.",
+    "answers": [
+      "kahramanlık",
+      "aşk",
+      "kahramanlık"
+    ],
+    "source_file": "HALK EDEBİYATI(1).txt",
+    "blank_count": 3
+  },
+  {
+    "id": "edebiyat_halk_edebiyati_044",
+    "topic": "Halk Edebiyatı",
+    "subtopic": "",
+    "question": "Kerem ile Aslı, Arzu ile Kamber, Tahir ile Zühre hikâyeleri ____________ sonla biten hikâyelerdir.",
+    "answers": [
+      "mutsuz"
+    ],
+    "source_file": "HALK EDEBİYATI(1).txt",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_halk_edebiyati_045",
+    "topic": "Halk Edebiyatı",
+    "subtopic": "",
+    "question": "Türk kaynaklı halk hikâyeleri arasında Tahir ile Zühre, Kerem ile Aslı, Ercişli Emrah ile Selvihan ve ____________ yer alırken; Yusuf u Züleyha ve Leyla ile Mecnun ____________ kaynaklıdır; Ferhat ile Şirin ise ____________ kaynaklıdır.",
+    "answers": [
+      "Âşık Garip",
+      "Arap-İslam",
+      "Hint-İran"
+    ],
+    "source_file": "HALK EDEBİYATI(1).txt",
+    "blank_count": 3
+  },
+  {
+    "id": "edebiyat_halk_edebiyati_046",
+    "topic": "Halk Edebiyatı",
+    "subtopic": "",
+    "question": "Ercişli Emrah ile Selvihan, Âşık Garip, Karacaoğlan ile İsmikan Sultan, Hurşit ile Mahmihri, Derdiyok ile Zülfüsiyah ve Şah İsmail hikâyeleri ____________ sonla biten hikâyelerdir.",
+    "answers": [
+      "mutlu"
+    ],
+    "source_file": "HALK EDEBİYATI(1).txt",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_halk_edebiyati_047",
+    "topic": "Halk Edebiyatı",
+    "subtopic": "",
+    "question": "Din adına yapılan savaşlardaki kahramanlıkları konu alan hikâyelere \"____________\" denir.",
+    "answers": [
+      "cenkname"
+    ],
+    "source_file": "HALK EDEBİYATI(1).txt",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_halk_edebiyati_048",
+    "topic": "Halk Edebiyatı",
+    "subtopic": "",
+    "question": "Tebe boyuna mensup bir Türkmen kahramanı olan halk hikâyesi ____________ iken; rüya ve beddua ile başlayan hikâye ____________ ile İsmikan Sultan'dır.",
+    "answers": [
+      "Köroğlu",
+      "Karacaoğlan"
+    ],
+    "source_file": "HALK EDEBİYATI(1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_halk_edebiyati_049",
+    "topic": "Halk Edebiyatı",
+    "subtopic": "",
+    "question": "Bir resimdeki kıza âşık olma üzerine kurgulu alegorik hikâye ____________ iken; bade içirilen kahramanın Gülizar'a âşık olup devlerle mücadele ettiği hikâye ____________'dir.",
+    "answers": [
+      "Hurşit ile Mahmihri",
+      "Şah İsmail"
+    ],
+    "source_file": "HALK EDEBİYATI(1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_halk_edebiyati_050",
+    "topic": "Halk Edebiyatı",
+    "subtopic": "",
+    "question": "Kaynağı Binbir Gece Masalları olan hikâye ____________ iken; Çamçırak taşlarının İstanbul'a getirilmesini ve bir evladın başından geçenleri anlatan hikâye ____________'dur.",
+    "answers": [
+      "Kirmanşah",
+      "Yaralı Mahmut"
+    ],
+    "source_file": "HALK EDEBİYATI(1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_halk_edebiyati_051",
+    "topic": "Halk Edebiyatı",
+    "subtopic": "",
+    "question": "Din ve kültür farkı nedeniyle kavuşamayıp yanarak can veren aşıkların hikâyesi ____________ iken; göçebe hayatın izlerini taşıyan ve mâni formunda manzum kısımları olan hikâye ____________'dir.",
+    "answers": [
+      "Kerem ile Aslı",
+      "Arzu ile Kamber"
+    ],
+    "source_file": "HALK EDEBİYATI(1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_halk_edebiyati_052",
+    "topic": "Halk Edebiyatı",
+    "subtopic": "",
+    "question": "Karaçalılar yüzünden kavuşamayıp ölen iki aşığın hikâyesi ____________ iken; rüyada bade içen kahramanın Şahsenem ile başlık parası sonrası kavuşmasını anlatan hikâye ____________'tir.",
+    "answers": [
+      "Tahir ile Zühre",
+      "Âşık Garip"
+    ],
+    "source_file": "HALK EDEBİYATI(1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_halk_edebiyati_053",
+    "topic": "Halk Edebiyatı",
+    "subtopic": "",
+    "question": "Ercişli Emrah'ın Selvihan'a kavuşmak için çektiği çileleri anlatan hikâye ____________ olarak adlandırılır.",
+    "answers": [
+      "Ercişli Emrah ile Selvihan"
+    ],
+    "source_file": "HALK EDEBİYATI(1).txt",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_halk_edebiyati_054",
+    "topic": "Halk Edebiyatı",
+    "subtopic": "",
+    "question": "Türk halk masallarında ____________ tanınmış bir kahramandır, masallar mutlu sonla biter, gökten ____________ düşer ve masal sonunda oturulan sedir anlamına gelen mutlu son göndermesine \"____________\" denir.",
+    "answers": [
+      "Keloğlan",
+      "üç elma",
+      "Kerevet"
+    ],
+    "source_file": "HALK EDEBİYATI(1).txt",
+    "blank_count": 3
+  },
+  {
+    "id": "edebiyat_halk_edebiyati_055",
+    "topic": "Halk Edebiyatı",
+    "subtopic": "",
+    "question": "Geleneksel Türk tiyatrosunda dekor ve kostüm yok denecek kadar azdır, ____________ olarak da bilinen doğaçlamaya dayalıdır; yanlış anlamaya dayalı ____________ yapılır, ağız ve ses taklitlerinden yararlanılır.",
+    "answers": [
+      "tuluat",
+      "dil oyunları"
+    ],
+    "source_file": "HALK EDEBİYATI(1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_halk_edebiyati_056",
+    "topic": "Halk Edebiyatı",
+    "subtopic": "",
+    "question": "Gölge oyunu, ____________ veya hayal oyunu olarak adlandırılan Karagöz; kurucusu Şeyh Küşteri olduğu için perdesine \"____________\" denir.",
+    "answers": [
+      "hayal-i zil",
+      "Küşteri Meydanı"
+    ],
+    "source_file": "HALK EDEBİYATI(1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_halk_edebiyati_057",
+    "topic": "Halk Edebiyatı",
+    "subtopic": "",
+    "question": "Yazılı bir metni olmayan, Karagöz ve Hacivat'ın başkişi olduğu oyunu sergileyen ve tasvirleri hareket ettiren kişiye ____________ (____________), tef çalana ____________, tasvirleri hazırlayana ise ____________ denir.",
+    "answers": [
+      "Hayali",
+      "Hayalbaz",
+      "Dayrezen",
+      "Sandıkkâr"
+    ],
+    "source_file": "HALK EDEBİYATI(1).txt",
+    "blank_count": 4
+  },
+  {
+    "id": "edebiyat_halk_edebiyati_058",
+    "topic": "Halk Edebiyatı",
+    "subtopic": "",
+    "question": "Karagöz oyununda mizahın kaynağı, eğitimsiz halkı temsil eden kişi ____________ iken; medrese eğitimi almış, didaktik şehirli aydını temsil eden kişi ____________'tır.",
+    "answers": [
+      "Karagöz",
+      "Hacivat"
+    ],
+    "source_file": "HALK EDEBİYATI(1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_halk_edebiyati_059",
+    "topic": "Halk Edebiyatı",
+    "subtopic": "",
+    "question": "Karagöz oyununun yardımcı kişileri arasında Çelebi, Tiryaki, ____________ ve Zenne yer alır; ayrıca Tuzsuz Deli Bekir gibi ____________ tipleri de bulunur.",
+    "answers": [
+      "Bebe Ruhi",
+      "kabadayı"
+    ],
+    "source_file": "HALK EDEBİYATI(1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_halk_edebiyati_060",
+    "topic": "Halk Edebiyatı",
+    "subtopic": "",
+    "question": "Karagöz oyununda Hacivat'ın semai okuyarak perdeye geldiği bölüme ____________ (Mukaddime), yanlış anlaşılmalara dayalı diyalogların olduğu bölüme ____________, asıl olayın sergilendiği ve oyunun adını belirleyen bölüme ise ____________ denir.",
+    "answers": [
+      "giriş",
+      "muhavere",
+      "fasıl"
+    ],
+    "source_file": "HALK EDEBİYATI(1).txt",
+    "blank_count": 3
+  },
+  {
+    "id": "edebiyat_halk_edebiyati_061",
+    "topic": "Halk Edebiyatı",
+    "subtopic": "",
+    "question": "Sahne, perde ve dekor kullanmadan halkın ortasında oynanan; kol oyunu, ____________ oyunu, taklit oyunu veya ____________ olarak da bilinen geleneksel tiyatroya Orta Oyunu denir.",
+    "answers": [
+      "meydan",
+      "zuhuri"
+    ],
+    "source_file": "HALK EDEBİYATI(1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_halk_edebiyati_062",
+    "topic": "Halk Edebiyatı",
+    "subtopic": "",
+    "question": "Orta oyununun oynandığı alana \"____________\", oyun alanının tamamına \"____________\" denir.",
+    "answers": [
+      "palanga",
+      "merg-i temaşa"
+    ],
+    "source_file": "HALK EDEBİYATI(1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_halk_edebiyati_063",
+    "topic": "Halk Edebiyatı",
+    "subtopic": "",
+    "question": "Orta oyununun başkişilerinden; halkı temsil eden ve Karagöz karakteriyle aynı olan ____________ iken; oyunun yöneticisi olan, Kavuklu'ya iş bulan ve Hacivat'ın karşılığı olan ____________'dır.",
+    "answers": [
+      "Kavuklu",
+      "Pişekâr"
+    ],
+    "source_file": "HALK EDEBİYATI(1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_halk_edebiyati_064",
+    "topic": "Halk Edebiyatı",
+    "subtopic": "",
+    "question": "Orta oyununda kadın tipine ____________ denir ancak erkekler tarafından canlandırılır; dekor olarak ev işlevi gören \"____________\" ve Kavuklu'nun iş yeri olan \"____________\" kullanılırken, tek aksesuar Pişekâr'ın \"____________\" (şakşak)ıdır.",
+    "answers": [
+      "Zenne",
+      "yeni dünya",
+      "dükkân",
+      "pastav"
+    ],
+    "source_file": "HALK EDEBİYATI(1).txt",
+    "blank_count": 4
+  },
+  {
+    "id": "edebiyat_halk_edebiyati_065",
+    "topic": "Halk Edebiyatı",
+    "subtopic": "",
+    "question": "Orta oyununun mekân kavramlarından oyun alanına ____________, erkek seyircilerin oturduğu bölüme ____________, kadın seyircilerin oturduğu bölüme ____________ ve oyuncuların giyindikleri yere sandık odası veya ____________ denir.",
+    "answers": [
+      "meydan",
+      "mevki",
+      "kafes",
+      "pusat odası"
+    ],
+    "source_file": "HALK EDEBİYATI(1).txt",
+    "blank_count": 4
+  },
+  {
+    "id": "edebiyat_halk_edebiyati_066",
+    "topic": "Halk Edebiyatı",
+    "subtopic": "",
+    "question": "Orta oyununun giriş bölümünde Pişekâr sahneye gelerek iki eliyle seyircileri selamlar ve ____________ ile hazırlık konuşması yapar; Kavuklu ise sahneye ____________ ile konuşarak girer.",
+    "answers": [
+      "zurnacı",
+      "Cüce"
+    ],
+    "source_file": "HALK EDEBİYATI(1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_halk_edebiyati_067",
+    "topic": "Halk Edebiyatı",
+    "subtopic": "",
+    "question": "Orta oyununun muhavere (karşılıklı konuşma) bölümü ikiye ayrılır; Pişekâr ile Kavuklu'nun yanlış anlamalarla tanışık çıktığı bölüme \"____________\", Kavuklu'nun olağanüstü olaylar anlattığı rüya bölümüne ise \"____________\" denir.",
+    "answers": [
+      "Arzbar",
+      "Tekerleme"
+    ],
+    "source_file": "HALK EDEBİYATI(1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_halk_edebiyati_068",
+    "topic": "Halk Edebiyatı",
+    "subtopic": "",
+    "question": "Orta oyununun ____________ bölümü Karagöz oyunundaki aynı adlı bölümle ortaklık gösterirken; bitiş bölümünde Pişekâr hatalar için \"Her ne kadar ____________ ettikse affola!\" sözüyle seyirciden özür diler.",
+    "answers": [
+      "Fasıl",
+      "sürç-i lisan"
+    ],
+    "source_file": "HALK EDEBİYATI(1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_halk_edebiyati_069",
+    "topic": "Halk Edebiyatı",
+    "subtopic": "",
+    "question": "Methedici taklitler yapıp hikâye anlatan, tek kişilik gösteri sunan ve tiyatronun tüm kişilerini varlığında birleştiren sanatçıya ____________ denir; bu sanatçının hazır metni yoktur ve ____________ sergiler.",
+    "answers": [
+      "meddah",
+      "doğaçlama"
+    ],
+    "source_file": "HALK EDEBİYATI(1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_halk_edebiyati_070",
+    "topic": "Halk Edebiyatı",
+    "subtopic": "",
+    "question": "Daha çok kahvehanelerde gösteri sunan meddahın aksesuarları arasında zenne kılığına girmek için kullandığı ____________ (makrame) ve efektten tüfeğe kadar birçok amaçla kullandığı ____________ (çevgân) vardır.",
+    "answers": [
+      "mendil",
+      "sopa"
+    ],
+    "source_file": "HALK EDEBİYATI(1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_halk_edebiyati_071",
+    "topic": "Halk Edebiyatı",
+    "subtopic": "",
+    "question": "Meddah gösterisine \"Hak dostum, Hak!\" sözüyle ve tekellemeyle girdiği ____________ bölümüyle başlar; kahramanı ve geçmişini anlattığı ____________ bölümünden sonra mâni ve türkü içeren olayların bulunduğu ____________ bölümüne geçer.",
+    "answers": [
+      "Başlangıç (Giriş)",
+      "Açıklama",
+      "Senaryo"
+    ],
+    "source_file": "HALK EDEBİYATI(1).txt",
+    "blank_count": 3
+  },
+  {
+    "id": "edebiyat_halk_edebiyati_072",
+    "topic": "Halk Edebiyatı",
+    "subtopic": "",
+    "question": "Meddah gösterisini bir ders (hisse) ile bitirdiği Bitiş bölümünde \"Sakiye sohbet kalmazmış baki. Her ne kadar ____________ ettikse affola!\" sözlerini söyler.",
+    "answers": [
+      "sürçülisan"
+    ],
+    "source_file": "HALK EDEBİYATI(1).txt",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_halk_edebiyati_073",
+    "topic": "Halk Edebiyatı",
+    "subtopic": "",
+    "question": "Düğün ve bayramlarda oynanan, kaynağı tarih öncesi ayinlere dayanan, eski-yeni, ölüp dirilme gibi motiflerin bulunduğu oyunlara ____________ veya dramatik köylü oyunları denir.",
+    "answers": [
+      "köy seyirlik oyunları / köy tiyatrosu"
+    ],
+    "source_file": "HALK EDEBİYATI(1).txt",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_halk_edebiyati_074",
+    "topic": "Halk Edebiyatı",
+    "subtopic": "",
+    "question": "Gönüllü bir yönetici ve köylülerle oynanan, yazın boş alanda kışın ____________ mekânlarda sergilenen bu oyunlarda ____________ taklide dayalıdır ve kılık değiştirmeye önem verilir.",
+    "answers": [
+      "kapalı",
+      "günlük yaşam ve doğa olayları"
+    ],
+    "source_file": "HALK EDEBİYATI(1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_halk_edebiyati_075",
+    "topic": "Halk Edebiyatı",
+    "subtopic": "",
+    "question": "İplikle veya eldiven gibi kesitle perde üzerinden oynatılan figürlere ____________ denir; bu türde İbiş mizahın kaynağı iken ____________ İbiş'in varlıklı patronudur.",
+    "answers": [
+      "kukla",
+      "İhtiyar"
+    ],
+    "source_file": "HALK EDEBİYATI(1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_halk_edebiyati_076",
+    "topic": "Halk Edebiyatı",
+    "subtopic": "",
+    "question": "Hayatın içinden, nükte barındıran kısa sözlü ürünlere halk fıkrası denir; medrese eğitimi almış ve Türk halk mizahının sembolü olmuş kişi ____________ iken, Bektaşi ve ____________ fıkraları da çok önemlidir.",
+    "answers": [
+      "Nasreddin Hoca",
+      "İncili Çavuş"
+    ],
+    "source_file": "HALK EDEBİYATI(1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_halk_edebiyati_077",
+    "topic": "Halk Edebiyatı",
+    "subtopic": "",
+    "question": "İslam'ın kabulünden önceki dönemden beri sav veya mesel olarak bilinen sözlere ____________ denir; bir şeyin adını anmadan niteliklerini söyleyip o şeyi buldurmaya dayalı oyuna ise ____________ denir.",
+    "answers": [
+      "atasözü",
+      "bilmece"
+    ],
+    "source_file": "HALK EDEBİYATI(1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_halk_edebiyati_078",
+    "topic": "Halk Edebiyatı",
+    "subtopic": "",
+    "question": "Manzum bilmecelere ____________ denirken; masalların başında bulunan uyaklı giriş veya ara sözlere ____________ denir.",
+    "answers": [
+      "muamma",
+      "tekerleme"
+    ],
+    "source_file": "HALK EDEBİYATI(1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_halk_edebiyati_079",
+    "topic": "Halk Edebiyatı",
+    "subtopic": "",
+    "question": "III. Murat dönemi seferlerine katılmış bir yeniçeri olan, \"Tüfek icat oldu mertlik bozuldu\" sözüyle özdeşleşen ve koçaklamalarıyla tanınan kişi ____________'dur.",
+    "answers": [
+      "Köroğlu"
+    ],
+    "source_file": "HALK EDEBİYATI(1).txt",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_halk_edebiyati_080",
+    "topic": "Halk Edebiyatı",
+    "subtopic": "",
+    "question": "Şiirlerini sadece hece ölçüsüyle yazıp divan şiirinden etkilenmeyen, \"Ben güzele güzel demem / Güzel benim olmayınca\" dizeleriyle meşhur şair ____________'dır ve kendi adına \"____________ ile İsmikan Sultan\" adlı hikâye oluşmuştur.",
+    "answers": [
+      "Karacaoğlan",
+      "Karacaoğlan"
+    ],
+    "source_file": "HALK EDEBİYATI(1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_halk_edebiyati_081",
+    "topic": "Halk Edebiyatı",
+    "subtopic": "",
+    "question": "Yeniçeri ocağında görev yapıp aruz ve hece kullanan, \"Divan\" ve \"Şairnâme\" eserlerinin sahibi halk ozanı ____________'dir. Kendi mahlasıyla anılan musiki makamı olan ve etkilediği şairlerce üstat kabul edilen ozan ____________'dir.",
+    "answers": [
+      "Aşık Ömer",
+      "Gevheri"
+    ],
+    "source_file": "HALK EDEBİYATI(1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_halk_edebiyati_082",
+    "topic": "Halk Edebiyatı",
+    "subtopic": "",
+    "question": "Aşık Ömer'in etkisinde kalan ve tarihi olayları anlattığı \"Genç Osman Destanı\" ile tanınan ozan ____________'dır. \"Ferman padişahın dağlar bizimdir\" dizesiyle meşhur olan kişi ise ____________'dur.",
+    "answers": [
+      "Kayıkçı Kul Mustafa",
+      "Dadaloğlu"
+    ],
+    "source_file": "HALK EDEBİYATI(1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_halk_edebiyati_083",
+    "topic": "Halk Edebiyatı",
+    "subtopic": "",
+    "question": "Selvihan'ın peşinden diyar diyar dolaşan, sadece hece ölçüsü kullanan ve \"Emrah ile Selvihan\" hikâyesinin kahramanı olan halk ozanı ____________'dır.",
+    "answers": [
+      "Ercişli Emrah"
+    ],
+    "source_file": "HALK EDEBİYATI(1).txt",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_halk_edebiyati_084",
+    "topic": "Halk Edebiyatı",
+    "subtopic": "",
+    "question": "Bayburt'un Rus işgali üzerine yazdığı şiiriyle bilinen, Sergüzeştname ve Kitab-ı Hikaye-i Garibe eserlerinin yazarı ____________ iken; saz çalmanın günah olduğunu söyleyenlere karşı yazdığı \"Şeytan bunun neresinde\" taşlamasıyla tanınan kişi ____________'dir.",
+    "answers": [
+      "Bayburtlu Zihnî",
+      "Dertli"
+    ],
+    "source_file": "HALK EDEBİYATI(1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_halk_edebiyati_085",
+    "topic": "Halk Edebiyatı",
+    "subtopic": "",
+    "question": "Tuhfetü’l-Uşşâk, Risâle-i Devriyye ve Şerh-i Nutk-ı Yûnus Emre gibi eserlerin sahibi tasavvuf şairi ____________'dir. Onun etkisinde kalıp \"Marifetnâme\" eserini yazan şair ____________'dır.",
+    "answers": [
+      "Niyâzî-i Mısrî",
+      "Erzurumlu İbrahim Hakkı"
+    ],
+    "source_file": "HALK EDEBİYATI(1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_halk_edebiyati_086",
+    "topic": "Halk Edebiyatı",
+    "subtopic": "",
+    "question": "\"Makalât\", \"Besmele Şerhi\" ve \"Fatiha Suresi Tefsiri\" eserlerinin sahibi ____________ iken; \"Risâletü’n-Nushiyye\" ve \"Divan\"ın yazarı ____________'dir.",
+    "answers": [
+      "Hacı Bektaş Veli",
+      "Yunus Emre"
+    ],
+    "source_file": "HALK EDEBİYATI(1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_halk_edebiyati_087",
+    "topic": "Halk Edebiyatı",
+    "subtopic": "",
+    "question": "Hacı Bayram Veli'nin öğrencisi olan ve Müzekki’n-Nüfûs ile Tarikatnâme eserlerinin sahibi ____________'dir. Ankara'da Bayramiye tarikatını kuran şair ____________'dir.",
+    "answers": [
+      "Eşrefoğlu Rûmî",
+      "Hacı Bayram Veli"
+    ],
+    "source_file": "HALK EDEBİYATI(1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_halk_edebiyati_088",
+    "topic": "Halk Edebiyatı",
+    "subtopic": "",
+    "question": "Alevi-Bektaşi geleneğinin \"Yedi Ulu Ozan\"ından biri olan, sadece hece ölçüsü kullanan ve nefesleri ile tanınan XVI. yüzyıl şairi ____________'dur. Ondan etkilenen diğer \"Yedi Ulu Ozan\" ise ____________'tir.",
+    "answers": [
+      "Pir Sultan Abdal",
+      "Kul Himmet"
+    ],
+    "source_file": "HALK EDEBİYATI(1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_halk_edebiyati_089",
+    "topic": "Halk Edebiyatı",
+    "subtopic": "",
+    "question": "Budalanâme, Kitâb-ı Miglâte, Vücudnâme ve Saraynâme gibi eserleri yazan şair ____________'dur. Celvetiye tarikatının kurucusu olup Necâtü’l-Garîk ve Tarikatnâme eserlerini kaleme alan kişi ise ____________'dir.",
+    "answers": [
+      "Kaygusuz Abdal",
+      "Aziz Mahmut Hüdayi"
+    ],
+    "source_file": "HALK EDEBİYATI(1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_islamiyet_oncesi_turk_edebiyati_001",
+    "topic": "İslamiyet Öncesi Türk Edebiyatı",
+    "subtopic": "",
+    "question": "İslamiyet Öncesi dönemde sanat anlayışı \"____________\" ilkesine dayanırken, edebî ürünler ortaya koyan şairlere \"____________\" adı verilirdi ve eserlerde doğa, sevgi, ölüm gibi temalar işlenirdi.",
+    "answers": [
+      "Halk için",
+      "Şaman"
+    ],
+    "source_file": "İSLAMİYET ÖNCESİ TÜRK EDEBİYATI(1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_islamiyet_oncesi_turk_edebiyati_002",
+    "topic": "İslamiyet Öncesi Türk Edebiyatı",
+    "subtopic": "",
+    "question": "Geçiş Dönemi'nde sanat anlayışı \"____________\" amacı taşımış, dile ____________ terimleri girmeye başlamış ve şairler sadece halka değil hem halka hem de ____________ hitap etmiştir.",
+    "answers": [
+      "İslam için",
+      "Arapça ve Farsça",
+      "yüksek kesime"
+    ],
+    "source_file": "İSLAMİYET ÖNCESİ TÜRK EDEBİYATI(1).txt",
+    "blank_count": 3
+  },
+  {
+    "id": "edebiyat_islamiyet_oncesi_turk_edebiyati_003",
+    "topic": "İslamiyet Öncesi Türk Edebiyatı",
+    "subtopic": "",
+    "question": "Divan edebiyatında sanat anlayışı \"____________\" olarak belirlenmiş; dili Arapça ve Farsça kelimelerle ____________ bir yapıya bürünmüş, eğitimli şairler daha çok ____________ hitap etmiştir.",
+    "answers": [
+      "Sanat (maharet) için",
+      "yoğun, ağır",
+      "yüksek kesime"
+    ],
+    "source_file": "İSLAMİYET ÖNCESİ TÜRK EDEBİYATI(1).txt",
+    "blank_count": 3
+  },
+  {
+    "id": "edebiyat_islamiyet_oncesi_turk_edebiyati_004",
+    "topic": "İslamiyet Öncesi Türk Edebiyatı",
+    "subtopic": "",
+    "question": "Halk edebiyatında şairler \"____________\" ilişkisiyle yetişmiş, eserlerde günlük ____________ kullanılmış ve tıpkı İslam öncesindeki gibi sanat \"____________\" ilkesiyle icra edilmiştir.",
+    "answers": [
+      "Usta-çırak",
+      "konuşma dili",
+      "Halk için"
+    ],
+    "source_file": "İSLAMİYET ÖNCESİ TÜRK EDEBİYATI(1).txt",
+    "blank_count": 3
+  },
+  {
+    "id": "edebiyat_islamiyet_oncesi_turk_edebiyati_005",
+    "topic": "İslamiyet Öncesi Türk Edebiyatı",
+    "subtopic": "",
+    "question": "İslamiyet'in Kabulünden Önceki Türk Edebiyatı'nda ____________ kültürü egemen olup; \"____________\" adı verilen dinsel av törenleri ile \"____________\" adı verilen toplu ziyafetler düzenlenirdi.",
+    "answers": [
+      "Göçebe / bozkır",
+      "Sığır",
+      "Şölen (toy)"
+    ],
+    "source_file": "İSLAMİYET ÖNCESİ TÜRK EDEBİYATI(1).txt",
+    "blank_count": 3
+  },
+  {
+    "id": "edebiyat_islamiyet_oncesi_turk_edebiyati_006",
+    "topic": "İslamiyet Öncesi Türk Edebiyatı",
+    "subtopic": "",
+    "question": "İslamiyet öncesi edebiyatta ölçü ve nazım biçimleri dâhil olmak üzere ____________ özellikler egemendir; dil yabancı etkilerden uzaktır ve bu dönemde ilk ____________ ortaya çıkmıştır.",
+    "answers": [
+      "Millî / kavmî",
+      "destanlar"
+    ],
+    "source_file": "İSLAMİYET ÖNCESİ TÜRK EDEBİYATI(1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_islamiyet_oncesi_turk_edebiyati_007",
+    "topic": "İslamiyet Öncesi Türk Edebiyatı",
+    "subtopic": "",
+    "question": "İslamiyet öncesinde günümüz sanatçılarına benzeyen ve \"____________\" adıyla da anılan Şamanların; din adamı, ____________, doktor, büyücü ve müzisyen gibi çok yönlü görevleri bulunup, şiirlerini \"____________\" çalarak söylerlerdi.",
+    "answers": [
+      "baksı, kam, ozan, oyun",
+      "yargıç",
+      "kopuz"
+    ],
+    "source_file": "İSLAMİYET ÖNCESİ TÜRK EDEBİYATI(1).txt",
+    "blank_count": 3
+  },
+  {
+    "id": "edebiyat_islamiyet_oncesi_turk_edebiyati_008",
+    "topic": "İslamiyet Öncesi Türk Edebiyatı",
+    "subtopic": "",
+    "question": "Sözlü Edebiyat Dönemi'nde kutsal sayılan Tibet öküzünün avlandığı dinsel nitelikli sürek avlarına \"____________\" denirken; sevinç verici olayları kutlamak için kutsal hayvanın kurban edilip yendiği oyunlu törenlere \"____________\" adı verilir.",
+    "answers": [
+      "Sığır",
+      "Şölen (Toy)"
+    ],
+    "source_file": "İSLAMİYET ÖNCESİ TÜRK EDEBİYATI(1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_islamiyet_oncesi_turk_edebiyati_009",
+    "topic": "İslamiyet Öncesi Türk Edebiyatı",
+    "subtopic": "",
+    "question": "Sevilen ve sayılan kişilerin ölümünden sonra düzenlenen cenaze ve yas törenlerine Sözlü Edebiyat Dönemi'nde \"____________\" adı verilir.",
+    "answers": [
+      "Yuğ"
+    ],
+    "source_file": "İSLAMİYET ÖNCESİ TÜRK EDEBİYATI(1).txt",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_islamiyet_oncesi_turk_edebiyati_010",
+    "topic": "İslamiyet Öncesi Türk Edebiyatı",
+    "subtopic": "",
+    "question": "Sözlü Edebiyat Dönemi'nin genel özelliklerine bakıldığında; Şaman adı verilen sanatçıların kopuz adlı telli Türk sazı eşliğinde \"____________\" gibi ürünler oluşturduğu ve şiirlerde daha çok ____________ temalarının işlendiği görülür.",
+    "answers": [
+      "koşuk, sagu ve savlar",
+      "doğa, aşk ve ölüm"
+    ],
+    "source_file": "İSLAMİYET ÖNCESİ TÜRK EDEBİYATI(1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_islamiyet_oncesi_turk_edebiyati_011",
+    "topic": "İslamiyet Öncesi Türk Edebiyatı",
+    "subtopic": "",
+    "question": "Sığır, şölen (toy) ve yuğ törenlerinden doğan Sözlü Edebiyat Dönemi şiirinde nazım birimi ____________ olup, daha çok ____________ uyak ve redif tercih edilmiş, ayrıca ____________ benzetmeler yapılmıştır.",
+    "answers": [
+      "dörtlük",
+      "yarım",
+      "somut"
+    ],
+    "source_file": "İSLAMİYET ÖNCESİ TÜRK EDEBİYATI(1).txt",
+    "blank_count": 3
+  },
+  {
+    "id": "edebiyat_islamiyet_oncesi_turk_edebiyati_012",
+    "topic": "İslamiyet Öncesi Türk Edebiyatı",
+    "subtopic": "",
+    "question": "Dinsel sürgün avları olan sığır ve şölen törenlerinde kopuz eşliğinde söylenen, genellikle aşk, doğa ve yiğitlik konularını işleyen şiirlere \"____________\" denir.",
+    "answers": [
+      "koşuk"
+    ],
+    "source_file": "İSLAMİYET ÖNCESİ TÜRK EDEBİYATI(1).txt",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_islamiyet_oncesi_turk_edebiyati_013",
+    "topic": "İslamiyet Öncesi Türk Edebiyatı",
+    "subtopic": "",
+    "question": "Koşuklar ____________ hece ölçüsü kalıplarıyla söylenmiş olup, bu türe ait derlenmiş örneklere ile şiir biçimindeki destan parçası derlemelerine Kaşgarlı Mahmut'un \"____________\" adlı eserinde rastlanır.",
+    "answers": [
+      "7'li, 8'li veya 11'li",
+      "Divânu Lugâti't-Türk"
+    ],
+    "source_file": "İSLAMİYET ÖNCESİ TÜRK EDEBİYATI(1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_islamiyet_oncesi_turk_edebiyati_014",
+    "topic": "İslamiyet Öncesi Türk Edebiyatı",
+    "subtopic": "",
+    "question": "Koşuğun halk edebiyatındaki karşılığına \"____________\", divan edebiyatındaki karşılığına ise \"____________\" adı verilir.",
+    "answers": [
+      "koşma",
+      "gazel"
+    ],
+    "source_file": "İSLAMİYET ÖNCESİ TÜRK EDEBİYATI(1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_islamiyet_oncesi_turk_edebiyati_015",
+    "topic": "İslamiyet Öncesi Türk Edebiyatı",
+    "subtopic": "",
+    "question": "Yuğ törenlerinde söylenen ve ölen kişinin cesaretinden, kahramanlığından, ____________ ve ölümünden duyulan üzüntüden söz edilen şiirlere \"____________\" denir.",
+    "answers": [
+      "faziletlerinden",
+      "sagu"
+    ],
+    "source_file": "İSLAMİYET ÖNCESİ TÜRK EDEBİYATI(1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_islamiyet_oncesi_turk_edebiyati_016",
+    "topic": "İslamiyet Öncesi Türk Edebiyatı",
+    "subtopic": "",
+    "question": "Derlenmiş örnekleri Divânu Lugâti't-Türk'te yer alan sagunun en önemli örneği \"____________\" olup, bu türün halk edebiyatındaki karşılığı \"____________\", divan edebiyatındaki karşılığı ise \"____________\"dir.",
+    "answers": [
+      "Alp Er Tunga Sagusu",
+      "ağıt",
+      "mersiye"
+    ],
+    "source_file": "İSLAMİYET ÖNCESİ TÜRK EDEBİYATI(1).txt",
+    "blank_count": 3
+  },
+  {
+    "id": "edebiyat_islamiyet_oncesi_turk_edebiyati_017",
+    "topic": "İslamiyet Öncesi Türk Edebiyatı",
+    "subtopic": "",
+    "question": "Sözlü Edebiyat Dönemi'nde bugünkü atasözlerinin karşılığı olan ve az sözle derin anlamlar ifade eden özlü sözlere \"____________\" adı verilir.",
+    "answers": [
+      "sav"
+    ],
+    "source_file": "İSLAMİYET ÖNCESİ TÜRK EDEBİYATI(1).txt",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_islamiyet_oncesi_turk_edebiyati_018",
+    "topic": "İslamiyet Öncesi Türk Edebiyatı",
+    "subtopic": "",
+    "question": "Türk edebiyatında söylev, anı, otobiyografi, ____________, siyasetname ve tarih türlerinin ilk örnekleri olan ____________, taş üzerine ____________ ve yukarıdan aşağıya okunacak şekilde yazılmıştır.",
+    "answers": [
+      "biyografi",
+      "Göktürk Yazıtları (Orhun Abideleri)",
+      "sağdan sola"
+    ],
+    "source_file": "İSLAMİYET ÖNCESİ TÜRK EDEBİYATI(1).txt",
+    "blank_count": 3
+  },
+  {
+    "id": "edebiyat_islamiyet_oncesi_turk_edebiyati_019",
+    "topic": "İslamiyet Öncesi Türk Edebiyatı",
+    "subtopic": "",
+    "question": "Yazarı Yolluğ Tigin olan ve ____________ tekniği kullanılarak oluşturulan Göktürk Yazıtları'nı 1709'da ____________ keşfetmiş, 1891'de Radloff (Radlof) incelemiş ve 1893'te ____________ okumuştur.",
+    "answers": [
+      "kazıma",
+      "Strahlenberg (Şitralinberg)",
+      "Wilhelm Thomsen (Vilhelm Tomsen)"
+    ],
+    "source_file": "İSLAMİYET ÖNCESİ TÜRK EDEBİYATI(1).txt",
+    "blank_count": 3
+  },
+  {
+    "id": "edebiyat_islamiyet_oncesi_turk_edebiyati_020",
+    "topic": "İslamiyet Öncesi Türk Edebiyatı",
+    "subtopic": "",
+    "question": "Bilge Kağan'ın başveziri olan büyük devlet adamı ve ____________ Tonyukuk'un, kendi adına 720'de ihtiyarlığında diktirdiği yazıtta anlatıcı kendisidir ve bu yazıt ____________ iki taştan oluşur.",
+    "answers": [
+      "siyasetçi",
+      "dört yönlü"
+    ],
+    "source_file": "İSLAMİYET ÖNCESİ TÜRK EDEBİYATI(1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_islamiyet_oncesi_turk_edebiyati_021",
+    "topic": "İslamiyet Öncesi Türk Edebiyatı",
+    "subtopic": "",
+    "question": "Tonyukuk Yazıtı'nda anlatıcı, ____________ geçirdiği yılları ve Göktürk tarihini anlatarak Türk milletine öğütler vermiştir.",
+    "answers": [
+      "Çin esaretindeki"
+    ],
+    "source_file": "İSLAMİYET ÖNCESİ TÜRK EDEBİYATI(1).txt",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_islamiyet_oncesi_turk_edebiyati_022",
+    "topic": "İslamiyet Öncesi Türk Edebiyatı",
+    "subtopic": "",
+    "question": "Bilge Kağan'ın kardeşi ve ____________ komutanı olan Kül Tigin'in 731'de savaşta ölmesi üzerine 732'de dikilen Kül Tigin Yazıtı'nda anlatıcı \"____________\"dır.",
+    "answers": [
+      "ordu",
+      "Bilge Kağan"
+    ],
+    "source_file": "İSLAMİYET ÖNCESİ TÜRK EDEBİYATI(1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_islamiyet_oncesi_turk_edebiyati_023",
+    "topic": "İslamiyet Öncesi Türk Edebiyatı",
+    "subtopic": "",
+    "question": "Kaplumbağa kabartmalı bir kaide üzerinde yer alan ve batı yüzü ____________, diğer üç yüzü Türkçe olan Kül Tigin Yazıtı ____________ tarafından yazılmıştır.",
+    "answers": [
+      "Çince",
+      "Yolluğ Tigin"
+    ],
+    "source_file": "İSLAMİYET ÖNCESİ TÜRK EDEBİYATI(1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_islamiyet_oncesi_turk_edebiyati_024",
+    "topic": "İslamiyet Öncesi Türk Edebiyatı",
+    "subtopic": "",
+    "question": "II. Göktürk Devleti'nin lideri adına oğlu \"____________\" tarafından 735'te dikilen Bilge Kağan Yazıtı, ____________ yüzlü bir mezar taşı niteliğindedir.",
+    "answers": [
+      "Tengri Kağan",
+      "dört"
+    ],
+    "source_file": "İSLAMİYET ÖNCESİ TÜRK EDEBİYATI(1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_islamiyet_oncesi_turk_edebiyati_025",
+    "topic": "İslamiyet Öncesi Türk Edebiyatı",
+    "subtopic": "",
+    "question": "Bir kısmı Kül Tigin Yazıtı'yla aynı olan, batı yüzü Çince diğer yüzleri Türkçe olan Bilge Kağan Yazıtı'nda anlatıcı Bilge Kağan'dır ve bu eserde yaptıklarını anlatarak Türk milletine \"____________\".",
+    "answers": [
+      "hesap vermiştir"
+    ],
+    "source_file": "İSLAMİYET ÖNCESİ TÜRK EDEBİYATI(1).txt",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_islamiyet_oncesi_turk_edebiyati_026",
+    "topic": "İslamiyet Öncesi Türk Edebiyatı",
+    "subtopic": "",
+    "question": "Bögü Kağan'ın 762'de \"____________\" dinini kabul etmesiyle bu dine geçen Uygurların eserlerinin çoğu Uygur alfabesiyle yazılmışken, \"____________\" adlı eser Köktürk alfabesiyle yazılmıştır.",
+    "answers": [
+      "Mani",
+      "Irk Bitig"
+    ],
+    "source_file": "İSLAMİYET ÖNCESİ TÜRK EDEBİYATI(1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_islamiyet_oncesi_turk_edebiyati_027",
+    "topic": "İslamiyet Öncesi Türk Edebiyatı",
+    "subtopic": "",
+    "question": "Uygurlar döneminde yaşamış olan ve Türk edebiyatının bilinen ilk şairi kabul edilen kişi \"____________\"dir.",
+    "answers": [
+      "Aprınçur Tigin"
+    ],
+    "source_file": "İSLAMİYET ÖNCESİ TÜRK EDEBİYATI(1).txt",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_islamiyet_oncesi_turk_edebiyati_028",
+    "topic": "İslamiyet Öncesi Türk Edebiyatı",
+    "subtopic": "",
+    "question": "Uygur metinlerinden olup IX. yüzyılda Köktürk alfabesiyle ____________ yorumlamak amacıyla hazırlanan esere \"Irk Bitig\" denirken; X. yüzyılda ____________ tarafından Çinceden çevrilen ve Budizm'in esaslarını anlatan dinî metne \"Altun Yaruk\" adı verilir.",
+    "answers": [
+      "fal",
+      "Şingko Şeli Tutung"
+    ],
+    "source_file": "İSLAMİYET ÖNCESİ TÜRK EDEBİYATI(1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_islamiyet_oncesi_turk_edebiyati_029",
+    "topic": "İslamiyet Öncesi Türk Edebiyatı",
+    "subtopic": "",
+    "question": "Çinceden çevrilen ve ____________ yaymak amacıyla yazılan \"Sekiz Yükmek\", ____________ organı ile bazı manevî bilgileri anlatan sekiz bölümden oluşur.",
+    "answers": [
+      "Budizmi",
+      "beş duyu"
+    ],
+    "source_file": "İSLAMİYET ÖNCESİ TÜRK EDEBİYATI(1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_islamiyet_oncesi_turk_edebiyati_030",
+    "topic": "İslamiyet Öncesi Türk Edebiyatı",
+    "subtopic": "",
+    "question": "Aslı ____________ olup Uygurcaya çevrilen \"Kalyanamkara ve Papamkara\", Budizm felsefesini anlatan bir hikâyedir.",
+    "answers": [
+      "Sanskritçe"
+    ],
+    "source_file": "İSLAMİYET ÖNCESİ TÜRK EDEBİYATI(1).txt",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_islamiyet_oncesi_turk_edebiyati_031",
+    "topic": "İslamiyet Öncesi Türk Edebiyatı",
+    "subtopic": "",
+    "question": "İslamiyet'in kabulünden önceki destanlardan olan Yaratılış Destanı'nda \"____________\" ve \"toprak\" motifleri dikkati çekerken; MÖ VII. yy'da yaşayan Saka hükümdarı \"____________\" Destanı'nda İranlılarla yapılan mücadeleler anlatılır.",
+    "answers": [
+      "su",
+      "Alp Er Tunga"
+    ],
+    "source_file": "İSLAMİYET ÖNCESİ TÜRK EDEBİYATI(1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_islamiyet_oncesi_turk_edebiyati_032",
+    "topic": "İslamiyet Öncesi Türk Edebiyatı",
+    "subtopic": "",
+    "question": "MÖ IV. yy'da yaşayan Saka hükümdarının MÖ 330-327 yıllarında ____________ ile yaptığı mücadeleleri anlatan destana \"____________\" Destanı denir.",
+    "answers": [
+      "Makedonyalı Büyük İskender",
+      "Şu"
+    ],
+    "source_file": "İSLAMİYET ÖNCESİ TÜRK EDEBİYATI(1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_islamiyet_oncesi_turk_edebiyati_033",
+    "topic": "İslamiyet Öncesi Türk Edebiyatı",
+    "subtopic": "",
+    "question": "Mete Han'ın işlendiği ve \"____________\" gibi motiflerin bulunduğu destana Oğuz Kağan Destanı denirken; V. yüzyılda Avrupa'daki fetihleri anlatılan 395-453 yılları arasında yaşamış Hun hükümdarının destanına \"____________\" Destanı denir.",
+    "answers": [
+      "Işık, ağaç, at, kurt, rüya, kırklar, ok ve yay",
+      "Attila"
+    ],
+    "source_file": "İSLAMİYET ÖNCESİ TÜRK EDEBİYATI(1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_islamiyet_oncesi_turk_edebiyati_034",
+    "topic": "İslamiyet Öncesi Türk Edebiyatı",
+    "subtopic": "",
+    "question": "Köktürklerin bir çocukla \"____________\" adlı bir kurttan türemesini anlatan \"____________\" Destanı'dır.",
+    "answers": [
+      "Aşina (Asena)",
+      "Bozkurt"
+    ],
+    "source_file": "İSLAMİYET ÖNCESİ TÜRK EDEBİYATI(1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_islamiyet_oncesi_turk_edebiyati_035",
+    "topic": "İslamiyet Öncesi Türk Edebiyatı",
+    "subtopic": "",
+    "question": "Bozkurt Destanı'nın devamı niteliğindeki destanda, sığındıkları yerden ____________ eriterek çıkan Türklerin öyküsünün anlatıldığı destana \"____________\" Destanı denir.",
+    "answers": [
+      "demirden dağı",
+      "Ergenekon"
+    ],
+    "source_file": "İSLAMİYET ÖNCESİ TÜRK EDEBİYATI(1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_islamiyet_oncesi_turk_edebiyati_036",
+    "topic": "İslamiyet Öncesi Türk Edebiyatı",
+    "subtopic": "",
+    "question": "Kurt kılığına giren tanrının hakanın üç kızıyla evlenmesi sonucu Uygurların çoğalmasını anlatan destan \"____________\" Destanı; Tula ve Selenge nehirleri arasındaki ____________ Dağı'nda geçen destan ise Göç Destanı'dır.",
+    "answers": [
+      "Türeyiş",
+      "Hulin"
+    ],
+    "source_file": "İSLAMİYET ÖNCESİ TÜRK EDEBİYATI(1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_islamiyet_oncesi_turk_edebiyati_037",
+    "topic": "İslamiyet Öncesi Türk Edebiyatı",
+    "subtopic": "",
+    "question": "İslamiyet sonrası destanlarda Karahanlı hükümdarının İslam'ı yaymasını anlatan destana \"____________\" Destanı denirken; Altınordu hanlarından Edige Mirza Bahadır'ın devletini ayakta tutma çabası \"____________\" Destanı'nda konu edilir.",
+    "answers": [
+      "Satuk Buğra Han",
+      "Edige"
+    ],
+    "source_file": "İSLAMİYET ÖNCESİ TÜRK EDEBİYATI(1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_islamiyet_oncesi_turk_edebiyati_038",
+    "topic": "İslamiyet Öncesi Türk Edebiyatı",
+    "subtopic": "",
+    "question": "Kırgız Türklerinin folkloru, hayat tarzı ve inanışlarını yansıtan, bilim dünyasına ____________ tarafından tanıtılan dünyanın en uzun kahramanlık destanlarından birine \"____________\" Destanı denir.",
+    "answers": [
+      "Çokan Velihanoğlu",
+      "Manas"
+    ],
+    "source_file": "İSLAMİYET ÖNCESİ TÜRK EDEBİYATI(1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_islamiyet_oncesi_turk_edebiyati_039",
+    "topic": "İslamiyet Öncesi Türk Edebiyatı",
+    "subtopic": "",
+    "question": "Cengiz Han Destanı'nda Cengiz Han bir \"____________\" kahramanı olarak anlatılır; Timur Devleti'nin kurucusu Emir Timur'un hayatı ve savaşları ise \"____________\" Destanı'nda işlenir.",
+    "answers": [
+      "Türk",
+      "Timur"
+    ],
+    "source_file": "İSLAMİYET ÖNCESİ TÜRK EDEBİYATI(1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_islamiyet_oncesi_turk_edebiyati_040",
+    "topic": "İslamiyet Öncesi Türk Edebiyatı",
+    "subtopic": "",
+    "question": "Bilgili, dindar ve ____________ bir kahraman olan Seyit Battal'ın İslam'ı yaymak için yaptığı mücadelelerin anlatıldığı destanın adı \"____________\" Destanı, diğer adıyla \"Battalname\"dir.",
+    "answers": [
+      "cömert",
+      "Battal Gazi"
+    ],
+    "source_file": "İSLAMİYET ÖNCESİ TÜRK EDEBİYATI(1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_islamiyet_oncesi_turk_edebiyati_041",
+    "topic": "İslamiyet Öncesi Türk Edebiyatı",
+    "subtopic": "",
+    "question": "Türk destanlarında Kurt (Bozkurt), Ağaç, Su, Demir, Gümüş, Altın, Işık, Aslan, Geyik, Altın Yay, Gümüş Ok, ____________, Kırklar ve Mağara gibi motiflerin yanı sıra kahramanların anıldığı \"____________\" motifi de çok önemlidir.",
+    "answers": [
+      "Düş (Rüya)",
+      "At"
+    ],
+    "source_file": "İSLAMİYET ÖNCESİ TÜRK EDEBİYATI(1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_islamiyet_oncesi_turk_edebiyati_042",
+    "topic": "İslamiyet Öncesi Türk Edebiyatı",
+    "subtopic": "",
+    "question": "Destan kahramanlarının özel adlara sahip atlarından Manas'ın atı \"____________\", Battal Gazi'nin atı \"____________\", Köroğlu'nun atı ise \"____________\"tır.",
+    "answers": [
+      "Akkula",
+      "Aşkar Divzâde (Devzâde)",
+      "Kırat"
+    ],
+    "source_file": "İSLAMİYET ÖNCESİ TÜRK EDEBİYATI(1).txt",
+    "blank_count": 3
+  },
+  {
+    "id": "edebiyat_islamiyet_oncesi_turk_edebiyati_043",
+    "topic": "İslamiyet Öncesi Türk Edebiyatı",
+    "subtopic": "",
+    "question": "Türk destanlarındaki belirli tipler; kahramanlığı simgeleyen \"____________\", pir veya ak sakallı yaşlı adamı temsil eden \"____________\" ve toplumda önemli yeri olan \"____________\" tipidir.",
+    "answers": [
+      "Alp",
+      "Bilge",
+      "Kadın"
+    ],
+    "source_file": "İSLAMİYET ÖNCESİ TÜRK EDEBİYATI(1).txt",
+    "blank_count": 3
+  },
+  {
+    "id": "edebiyat_islamiyet_oncesi_turk_edebiyati_044",
+    "topic": "İslamiyet Öncesi Türk Edebiyatı",
+    "subtopic": "",
+    "question": "Yapay destan örneklerinden Genç Osman Destanı'nı \"____________\", Çanakkale Şehitlerine adlı eseri \"____________\", Kuvâyi Milliye destanını ise \"____________\" kaleme almıştır.",
+    "answers": [
+      "Kayıkçı Kul Mustafa",
+      "Mehmet Âkif Ersoy",
+      "Nâzım Hikmet"
+    ],
+    "source_file": "İSLAMİYET ÖNCESİ TÜRK EDEBİYATI(1).txt",
+    "blank_count": 3
+  },
+  {
+    "id": "edebiyat_islamiyet_oncesi_turk_edebiyati_045",
+    "topic": "İslamiyet Öncesi Türk Edebiyatı",
+    "subtopic": "",
+    "question": "Yapay destan yazarlarından Ceyhun Atuf Kansu \"____________\" Savaşı'nı destanlaştırmış, Cahit Külebi \"____________\" adlı eseri yazmış, Gülten Akın ise \"____________\" ve Ökkeş'in Destanı'nı kaleme almıştır.",
+    "answers": [
+      "Sakarya Meydan",
+      "Atatürk Kurtuluş Savaşı'nda",
+      "Maraş'ın"
+    ],
+    "source_file": "İSLAMİYET ÖNCESİ TÜRK EDEBİYATI(1).txt",
+    "blank_count": 3
+  },
+  {
+    "id": "edebiyat_islamiyet_oncesi_turk_edebiyati_046",
+    "topic": "İslamiyet Öncesi Türk Edebiyatı",
+    "subtopic": "",
+    "question": "Edebiyatımızda İstanbul Fetih Destanı, Çanakkale Destanı, 19 Mayıs Destanı, Üç Şehitler Destanı ve Çakır'ın Destanı gibi çok sayıda yapay destanın şairi \"____________\"dır.",
+    "answers": [
+      "Fazıl Hüsnü Dağlarca"
+    ],
+    "source_file": "İSLAMİYET ÖNCESİ TÜRK EDEBİYATI(1).txt",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_milli_edebiyat_donemi_001",
+    "topic": "Millî Edebiyat Dönemi",
+    "subtopic": "",
+    "question": "Millî Edebiyat döneminde ____________ yöneliş ile \"____________\" anlayışı benimsenmiş ve ____________ nazım biçimlerinin kullanımı artmıştır.",
+    "answers": [
+      "Millî kaynaklara",
+      "halka doğru",
+      "halk edebiyatı"
+    ],
+    "source_file": "MİLLİ EDEBİYAT DÖNEMİ(1).txt",
+    "blank_count": 3
+  },
+  {
+    "id": "edebiyat_milli_edebiyat_donemi_002",
+    "topic": "Millî Edebiyat Dönemi",
+    "subtopic": "",
+    "question": "Bu dönemde edebiyat üzerinde ____________ ve ____________ akımları etkili olmuştur.",
+    "answers": [
+      "Milliyetçilik",
+      "Türkçülük"
+    ],
+    "source_file": "MİLLİ EDEBİYAT DÖNEMİ(1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_milli_edebiyat_donemi_003",
+    "topic": "Millî Edebiyat Dönemi",
+    "subtopic": "",
+    "question": "Dönem edebiyatında \"____________\" hareketiyle dilde ____________ anlayışı gelişmiştir.",
+    "answers": [
+      "Yeni Lisan",
+      "sadeleşme"
+    ],
+    "source_file": "MİLLİ EDEBİYAT DÖNEMİ(1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_milli_edebiyat_donemi_004",
+    "topic": "Millî Edebiyat Dönemi",
+    "subtopic": "",
+    "question": "Şiirde ____________ ölçüsünün benimsendiği bu dönemde, eserlerde ____________ temel tema olmuştur.",
+    "answers": [
+      "hece",
+      "Millî Mücadele"
+    ],
+    "source_file": "MİLLİ EDEBİYAT DÖNEMİ(1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_milli_edebiyat_donemi_005",
+    "topic": "Millî Edebiyat Dönemi",
+    "subtopic": "",
+    "question": "____________ ve ____________ bu dönemde yaşamalarına rağmen Millî Edebiyatçılardan kabul edilmezler; sanat çizgilerinde ____________ kalmışlardır.",
+    "answers": [
+      "Yahya Kemal",
+      "M.A. Ersoy",
+      "bağımsız"
+    ],
+    "source_file": "MİLLİ EDEBİYAT DÖNEMİ(1).txt",
+    "blank_count": 3
+  },
+  {
+    "id": "edebiyat_servetifunun_001",
+    "topic": "Servetifünun",
+    "subtopic": "",
+    "question": "Servetifünun Edebiyatı, ____________'in ____________'i derginin başına getirmesiyle başlar.",
+    "answers": [
+      "R.M.Ekrem",
+      "T.Fikret"
+    ],
+    "source_file": "SERVETİ FÜNUN(1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_servetifunun_002",
+    "topic": "Servetifünun",
+    "subtopic": "",
+    "question": "Batı'ya hayranlıkta sınır aşılınca ____________ \"____________\" ifadesiyle Servetifünuncuları eleştirir.",
+    "answers": [
+      "A.M.Efendi",
+      "Dekadanlar"
+    ],
+    "source_file": "SERVETİ FÜNUN(1).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_servetifunun_003",
+    "topic": "Servetifünun",
+    "subtopic": "",
+    "question": "Dönemin en büyük şairi olan ____________; ____________ Türkçeye uygulamadaki başarısı, ____________ nazım şeklini kullanması ve ____________ kavramını şiire uygulaması gibi birçok yönden önem taşımaktadır.",
+    "answers": [
+      "Tevfik Fikret",
+      "aruzu",
+      "serbest müstezat",
+      "anjambman"
+    ],
+    "source_file": "SERVETİ FÜNUN(1).txt",
+    "blank_count": 4
+  },
+  {
+    "id": "edebiyat_servetifunun_004",
+    "topic": "Servetifünun",
+    "subtopic": "",
+    "question": "Şiirde cümlenin veya anlam bütünlüğünün bir dizede (veya beyitte) tamamlanmayıp alt dizelere kaymasına ____________ denir.",
+    "answers": [
+      "anjambman"
+    ],
+    "source_file": "SERVETİ FÜNUN(1).txt",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_servetifunun_005",
+    "topic": "Servetifünun",
+    "subtopic": "",
+    "question": "Rübab-ı Şikeste, ____________, Haluk'un Defteri, ____________, Balıkçılar, ____________ ve Ramazan Sadakası önemli ____________ eserleridir.",
+    "answers": [
+      "Tarih-i Kadim",
+      "Sis",
+      "Han-ı Yağma",
+      "Tevfik Fikret"
+    ],
+    "source_file": "SERVETİ FÜNUN(1).txt",
+    "blank_count": 4
+  },
+  {
+    "id": "edebiyat_servetifunun_006",
+    "topic": "Servetifünun",
+    "subtopic": "",
+    "question": "Teknik açıdan ____________ eserler yazmasının yanında; alışılmışın dışındaki cümle düzeni, ____________ kurucusu olması ve kahramanları ____________ göre konuşturması gibi birçok yönden en önemli yazar ____________'dir.",
+    "answers": [
+      "kusursuz",
+      "modern Türk romanının",
+      "yaşadıkları çevreye",
+      "H.Z.Uşaklıgil"
+    ],
+    "source_file": "SERVETİ FÜNUN(1).txt",
+    "blank_count": 4
+  },
+  {
+    "id": "edebiyat_servetifunun_007",
+    "topic": "Servetifünun",
+    "subtopic": "",
+    "question": "En önemli eserleri ____________ ve ____________ olan H.Z.Uşaklıgil; aynı zamanda ____________, Nemide, ____________, Kırk Yıl, ____________ ve Kırık Hayatlar gibi birçok esere imza atmıştır.",
+    "answers": [
+      "Aşk-ı Memnu",
+      "Mai ve Siyah",
+      "Sefile",
+      "Mezardan Sesler",
+      "Saray ve Ötesi"
+    ],
+    "source_file": "SERVETİ FÜNUN(1).txt",
+    "blank_count": 5
+  },
+  {
+    "id": "edebiyat_soz_sanatlari_001",
+    "topic": "Söz Sanatları",
+    "subtopic": "",
+    "question": "Aralarında benzerlik ilgisi kurulan varlık veya kavramlardan nitelikçe zayıf olanın, kuvvetli olanın özellikleriyle anlatılmasına ____________ denir; \"Kömür gibi kara gözlerin aldı beni benden\" dizesi buna örnektir.",
+    "answers": [
+      "teşbih / benzetme"
+    ],
+    "source_file": "SÖZ SANATLARI(3).txt",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_soz_sanatlari_002",
+    "topic": "Söz Sanatları",
+    "subtopic": "",
+    "question": "Sadece benzeyenle kendisine benzetilenin bulunduğu benzetme türüne ____________ denir ve \"Kömür gözlerin aldı beni benden\" örneği bu sanatla açıklanır.",
+    "answers": [
+      "teşbihibelig / güzel benzetme / yalın benzetme"
+    ],
+    "source_file": "SÖZ SANATLARI(3).txt",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_soz_sanatlari_003",
+    "topic": "Söz Sanatları",
+    "subtopic": "",
+    "question": "Benzetmenin asıl unsurlarından sadece birinin kullanılmasıyla gerçekleştirilen edebi sanata ____________ adı verilir.",
+    "answers": [
+      "istiare / eğretileme"
+    ],
+    "source_file": "SÖZ SANATLARI(3).txt",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_soz_sanatlari_004",
+    "topic": "Söz Sanatları",
+    "subtopic": "",
+    "question": "Benzetme unsurlarından kendisine benzetilenin verilerek benzeyen unsurun söylenmemesine ____________ denir; \"Garbın ucunda, son kıyıdan, en gürültülü / Bir med zamanı gökyüzü kurşunla örtülü\" dizeleri buna örnektir.",
+    "answers": [
+      "açık istiare"
+    ],
+    "source_file": "SÖZ SANATLARI(3).txt",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_soz_sanatlari_005",
+    "topic": "Söz Sanatları",
+    "subtopic": "",
+    "question": "Benzetme unsurlarından benzeyeninin verilerek kendisine benzetilenin söylenmediği ve benzerlik ilgisinin benzetme yönü ile kurulduğu sanata ____________ denir; \"Yaldızlı perçemlerin ıslandıkça uzuyor\" dizesindeki gibi.",
+    "answers": [
+      "kapalı istiare"
+    ],
+    "source_file": "SÖZ SANATLARI(3).txt",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_soz_sanatlari_006",
+    "topic": "Söz Sanatları",
+    "subtopic": "",
+    "question": "Bir varlığı, kavramı, durumu daha canlı ve daha duygulu anlatmak için onu başka varlık, kavram veya durumların çizgileri ve şekilleri içinde tasarlayışa ____________ denir; \"Cennette bugün gülleri açmış görürüz de / Hâlâ o kızıl hatıra titrer gözümüzde!\" dizelerinde olduğu gibi.",
+    "answers": [
+      "imge"
+    ],
+    "source_file": "SÖZ SANATLARI(3).txt",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_soz_sanatlari_007",
+    "topic": "Söz Sanatları",
+    "subtopic": "",
+    "question": "Bir sözü, benzetme amacı taşımadan, başka bir sözün yerine kullanmaya ____________ denir.",
+    "answers": [
+      "mecazımürsel / ad aktarması"
+    ],
+    "source_file": "SÖZ SANATLARI(3).txt",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_soz_sanatlari_008",
+    "topic": "Söz Sanatları",
+    "subtopic": "",
+    "question": "Parçanın söylenip bütünün kastedildiği, \"Dalgalan sen de şafaklar gibi ey şanlı hilâl / Olsun artık dökülen kanlarımın hepsi helâl\" örneğindeki mecazımürsel ilgisi ____________ ilişkisidir.",
+    "answers": [
+      "parça-bütün"
+    ],
+    "source_file": "SÖZ SANATLARI(3).txt",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_soz_sanatlari_009",
+    "topic": "Söz Sanatları",
+    "subtopic": "",
+    "question": "Yerin söylenip orada yaşayanların kastedildiği, \"Hayattan canlı ölüm, günahtan baskın rahmet / Beyoğlu tepinirken ağlar Karacaahmet\" dizelerinde görülen mecazımürsel ilgisi ____________ ilişkisidir.",
+    "answers": [
+      "yer-insan"
+    ],
+    "source_file": "SÖZ SANATLARI(3).txt",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_soz_sanatlari_010",
+    "topic": "Söz Sanatları",
+    "subtopic": "",
+    "question": "Yönün söylenip o yönde bulunan ülkeler veya o ülkelerde yaşayanların kastedildiği, \"Büyük şiirler tasarladı trajik ve ağır / Batı'nın uçarlığına ve Doğu'nun kaderine dair\" örneğindeki mecazımürsel ilgisi ____________ ilişkisidir.",
+    "answers": [
+      "yön-toplum"
+    ],
+    "source_file": "SÖZ SANATLARI(3).txt",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_soz_sanatlari_011",
+    "topic": "Söz Sanatları",
+    "subtopic": "",
+    "question": "Sanatçının söylenip eserin kastedildiği, \"Zihnim bu şehirden, bu devirden çok uzakta / Tanbûri Cemil Bey çalıyor eski plakta\" dizelerinde kullanılan mecazımürsel ilgisi ____________ ilişkisidir.",
+    "answers": [
+      "sanatçı-eser"
+    ],
+    "source_file": "SÖZ SANATLARI(3).txt",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_soz_sanatlari_012",
+    "topic": "Söz Sanatları",
+    "subtopic": "",
+    "question": "Dışın söylenip için kastedildiği, \"Bizden evvel buraya inen üç dört arkadaş / Kurmuştular tutuşan ocağa karşı bağdaş\" örneğindeki mecazımürsel ilgisi ____________ ilişkisidir.",
+    "answers": [
+      "dış-iç"
+    ],
+    "source_file": "SÖZ SANATLARI(3).txt",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_soz_sanatlari_013",
+    "topic": "Söz Sanatları",
+    "subtopic": "",
+    "question": "Sonucun söylenip sebebin kastedildiği, \"Baharda semadan bereket yağar / Bu mevsim gündüzler geceyi boğar\" dizelerinde yer alan mecazımürsel ilgisi ____________ ilişkisidir.",
+    "answers": [
+      "sebep-sonuç"
+    ],
+    "source_file": "SÖZ SANATLARI(3).txt",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_soz_sanatlari_014",
+    "topic": "Söz Sanatları",
+    "subtopic": "",
+    "question": "İnsan dışındaki varlık ve kavramlara insana ait duyuş ve davranış özellikleri yüklemeye ____________ denir; \"Söğüt giz fısıldar, sayıklar meşe\" dizesinde olduğu gibi.",
+    "answers": [
+      "teşhis / kişileştirme"
+    ],
+    "source_file": "SÖZ SANATLARI(3).txt",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_soz_sanatlari_015",
+    "topic": "Söz Sanatları",
+    "subtopic": "",
+    "question": "Şiirde atasözü veya vecize (özdeyiş) kullanma sanatına ____________ denir; \"Balık baştan kokar, bunu bilmemek / Seyrâni gafilin ahmaklığından\" örneğindeki gibi.",
+    "answers": [
+      "irsalimessel / özlü söz"
+    ],
+    "source_file": "SÖZ SANATLARI(3).txt",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_soz_sanatlari_016",
+    "topic": "Söz Sanatları",
+    "subtopic": "",
+    "question": "Kişileştirilen varlık veya kavramın konuşturulmasına ____________ denir ve bu sanatın olduğu her yerde teşhis de vardır; \"Dal bir gün dedi ki tomurcuğuna: / — Tenimde bir yara işler gibisin!\" örneğindeki gibi.",
+    "answers": [
+      "intak / konuşturma"
+    ],
+    "source_file": "SÖZ SANATLARI(3).txt",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_soz_sanatlari_017",
+    "topic": "Söz Sanatları",
+    "subtopic": "",
+    "question": "Şiirde ayet, hadis veya başka bir şaire ait sözü aktarmaya ____________ denir; \"Bir şarkı dökülüyor sokağa / Unutulmuş bir pencereden / “Geçtim yine dün eski hazan bahçelerinden”\" dizelerindeki gibi.",
+    "answers": [
+      "iktibas / alıntı"
+    ],
+    "source_file": "SÖZ SANATLARI(3).txt",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_soz_sanatlari_018",
+    "topic": "Söz Sanatları",
+    "subtopic": "",
+    "question": "Gerçek anlamı da düşünülebilecek bir sözü gerçek anlamı dışında (mecaz anlamıyla) kullanmaya ____________ denir; \"Şu karşıma göğüs geren / Taş bağırlı dağlar mısın\" örneğinde görüldüğü gibi.",
+    "answers": [
+      "kinaye / değinmece"
+    ],
+    "source_file": "SÖZ SANATLARI(3).txt",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_soz_sanatlari_019",
+    "topic": "Söz Sanatları",
+    "subtopic": "",
+    "question": "Bir sözü, alay ve eleştiri amaçlı olarak tersini kastederek kullanmaya ____________ denir; \"Bir saatte söyle yüz bin yalanı / El bir doğru söz söylerse inanma\" örneğindeki gibi.",
+    "answers": [
+      "tariz / iğneleme"
+    ],
+    "source_file": "SÖZ SANATLARI(3).txt",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_soz_sanatlari_020",
+    "topic": "Söz Sanatları",
+    "subtopic": "",
+    "question": "Birden çok anlamı olan bir sözün uzak anlamı kastedilerek kullanılmasına ____________ denir; \"Bu kadar letafet çünkü sende var / Beyaz gerdanında bir de ben gerek\" dizesindeki gibi.",
+    "answers": [
+      "tevriye / iki anlamlılık"
+    ],
+    "source_file": "SÖZ SANATLARI(3).txt",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_soz_sanatlari_021",
+    "topic": "Söz Sanatları",
+    "subtopic": "",
+    "question": "Karşıt duygu, düşünce, hayal ve durumları ifade eden kavramları bir arada kullanmaya ____________ denir; \"Aydınlığa koştum, karanlık çıktı / Her sevgi, her vefa bir anlık çıktı\" örneğindeki gibi.",
+    "answers": [
+      "tezat / karşıtlık / zıtlık"
+    ],
+    "source_file": "SÖZ SANATLARI(3).txt",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_soz_sanatlari_022",
+    "topic": "Söz Sanatları",
+    "subtopic": "",
+    "question": "Hemen herkesin bildiği bir olay, durum veya kişiye gönderme yaparak onları hatırlatmaya ____________ denir; \"Yeter yüreğime düşen ateş / İbrahim'de güle çevrilen ateş\" örneğindeki gibi.",
+    "answers": [
+      "telmih / hatırlatma"
+    ],
+    "source_file": "SÖZ SANATLARI(3).txt",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_soz_sanatlari_023",
+    "topic": "Söz Sanatları",
+    "subtopic": "",
+    "question": "Bildiği bir şeyi bilmez görünme, bilmezlikten gelmeye ____________ denir; \"Şakaklarıma kar mı yağdı, ne var / Benim mi Allah’ım, bu çizgili yüz\" örneğindeki gibi.",
+    "answers": [
+      "tecahülüarif / bilmezden gelme"
+    ],
+    "source_file": "SÖZ SANATLARI(3).txt",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_soz_sanatlari_024",
+    "topic": "Söz Sanatları",
+    "subtopic": "",
+    "question": "Bir olayı gerçek nedeninin dışında bir nedene, çoğunlukla da güzel bir nedene bağlamaya ____________ denir; \"Bir an önce görülsün diye Akdeniz / Toroslarda ağaçlar hep çocuk kalır\" dizelerindeki gibi.",
+    "answers": [
+      "hüsnütalil / güzel nedene bağlama"
+    ],
+    "source_file": "SÖZ SANATLARI(3).txt",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_soz_sanatlari_025",
+    "topic": "Söz Sanatları",
+    "subtopic": "",
+    "question": "Anlatımı daha etkili hâle getirmek için cevap alma amacı taşımadan soru sormaya ____________ denir; \"Kim bu cennet vatanın uğruna olmaz ki feda / Şüheda fışkıracak toprağı sıksan şüheda\" örneğindeki gibi.",
+    "answers": [
+      "istifham / soru sorma"
+    ],
+    "source_file": "SÖZ SANATLARI(3).txt",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_soz_sanatlari_026",
+    "topic": "Söz Sanatları",
+    "subtopic": "",
+    "question": "Bir durum, olay ya da varlığın olduğundan büyük/çok veya küçük/az gösterilmesine ____________ denir; \"Bir ah çeksem dağı taşı eritir / Gözüm yaşı değirmeni yürütür\" örneğindeki gibi.",
+    "answers": [
+      "mübalağa / abartma"
+    ],
+    "source_file": "SÖZ SANATLARI(3).txt",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_soz_sanatlari_027",
+    "topic": "Söz Sanatları",
+    "subtopic": "",
+    "question": "Şairin kendisini duygulandıran olay, durum ve varlıklara “ey, hey” gibi ünlemlerle seslenmesine ____________ denir; \"Ey mavi göklerin beyaz ve kızıl süsü / Kız kardeşimin gelinliği, şehidimin son örtüsü\" örneğindeki gibi.",
+    "answers": [
+      "nida / seslenme"
+    ],
+    "source_file": "SÖZ SANATLARI(3).txt",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_soz_sanatlari_028",
+    "topic": "Söz Sanatları",
+    "subtopic": "",
+    "question": "Kolay görünmekle birlikte benzerinin söylenmesi çok zor olan söze ____________ denir; \"Söz ola kese savaşı söz ola bitüre başı / Söz ola ağulu aşı bal ile yağ ide bir söz\" örneğindeki gibi.",
+    "answers": [
+      "sihr-i mübeyyen"
+    ],
+    "source_file": "SÖZ SANATLARI(3).txt",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_soz_sanatlari_029",
+    "topic": "Söz Sanatları",
+    "subtopic": "",
+    "question": "Anlamca birbiriyle ilgili kelimelerin bir arada kullanılmasına ____________ denir; \"Artık demir almak günü gelmişse zamandan / Meçhule giden bir gemi kalkar bu limandan\" örneğindeki gibi.",
+    "answers": [
+      "tenasüp / uygunluk"
+    ],
+    "source_file": "SÖZ SANATLARI(3).txt",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_soz_sanatlari_030",
+    "topic": "Söz Sanatları",
+    "subtopic": "",
+    "question": "Bir düşünceyi daha güçlü anlatmak için, söylenen sözden dönmüş gibi davranmaya ____________ denir; \"Erbâb-ı teşâür çoğalıp şâir azaldı / Yok öyle değil şâirin ancak adı kaldı\" örneğindeki gibi.",
+    "answers": [
+      "rücu / geri dönüş"
+    ],
+    "source_file": "SÖZ SANATLARI(3).txt",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_soz_sanatlari_031",
+    "topic": "Söz Sanatları",
+    "subtopic": "",
+    "question": "En az iki kavramı, varlığı belirttikten sonra bunların özelliklerini veya eylemlerini sıralamaya ____________ denir; \"Gönlümde ateştin, gözümde yaştın / Ne diye tutuştun, ne diye taştın\" örneğinde görüldüğü gibi.",
+    "answers": [
+      "lefüneşr / toplayıp dağıtma"
+    ],
+    "source_file": "SÖZ SANATLARI(3).txt",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_soz_sanatlari_032",
+    "topic": "Söz Sanatları",
+    "subtopic": "",
+    "question": "Sözün etkisini güçlendirmek veya ahengi sağlamak için bazı sözcük veya söz öbeklerini tekrarlamaya ____________ denir; \"Akşam, yine akşam, yine akşam\" örneğindeki gibi.",
+    "answers": [
+      "tekrir / yineleme"
+    ],
+    "source_file": "SÖZ SANATLARI(3).txt",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_soz_sanatlari_033",
+    "topic": "Söz Sanatları",
+    "subtopic": "",
+    "question": "Dize veya cümledeki bir sözün sonunu başa, başını sona alarak yeni ifade oluşturmaya ____________ denir; \"Gamzen ciğerim deldi, deldi ciğerim gamzen\" örneğindeki gibi.",
+    "answers": [
+      "akis / aks"
+    ],
+    "source_file": "SÖZ SANATLARI(3).txt",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_soz_sanatlari_034",
+    "topic": "Söz Sanatları",
+    "subtopic": "",
+    "question": "Yazılışları ve söylenişleri aynı, anlamları farklı sözcükleri birlikte kullanmaya ____________ denir; \"Kalem böyle çalınmıştır yazıma / Yazım kışa uymaz, kışım yazıma\" dizelerindeki gibi.",
+    "answers": [
+      "cinas / eş seslilik"
+    ],
+    "source_file": "SÖZ SANATLARI(3).txt",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_soz_sanatlari_035",
+    "topic": "Söz Sanatları",
+    "subtopic": "",
+    "question": "Düzyazılarda ses benzerliği olan sözcüklerin kullanılmasına ____________ denir; \"İlâhi, kabul senden, ret senden, şifa senden, dert senden... İlâhi, iman verdin, daim eyle; ihsan verdin, kaim eyle\" örneğinde olduğu gibi.",
+    "answers": [
+      "seci / nesir uyağı / iç uyak"
+    ],
+    "source_file": "SÖZ SANATLARI(3).txt",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_soz_sanatlari_036",
+    "topic": "Söz Sanatları",
+    "subtopic": "",
+    "question": "İçinde \"b, f, m, p, v\" dudak ünsüzleri bulunmayan sözcüklerle şiir oluşturmaya ____________ denir; \"Her şey ne sıcaktı, her şey ne iyi / Hatta o karanlık, aysız geceler\" örneğinde olduğu gibi.",
+    "answers": [
+      "lebdeğmez / dudak değmez"
+    ],
+    "source_file": "SÖZ SANATLARI(3).txt",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_soz_sanatlari_037",
+    "topic": "Söz Sanatları",
+    "subtopic": "",
+    "question": "Bir sözcüğün sonunda bulunan ünsüz harfin kendinden sonra gelen ve ünlü harfle başlayan sözcüğe bitişik okunmasına ____________ denir; \"Derken bir düdük öttü ansızın / Rıhtımda bir adam kaldı\" örneğindeki gibi.",
+    "answers": [
+      "ulama"
+    ],
+    "source_file": "SÖZ SANATLARI(3).txt",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_soz_sanatlari_038",
+    "topic": "Söz Sanatları",
+    "subtopic": "",
+    "question": "Sözü beklenmedik biçimde bitirme sanatına ____________ denir; \"Saçların mı ağardı? Yaşlanıyor musun? Rahat ol. Bir ayağın çukurda\" örneğindeki gibi.",
+    "answers": [
+      "terdit / şaşırtma / beklenmezlik"
+    ],
+    "source_file": "SÖZ SANATLARI(3).txt",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_soz_sanatlari_039",
+    "topic": "Söz Sanatları",
+    "subtopic": "",
+    "question": "Derece derece artırma ya da azaltmaya ____________ denir; \"Günler haftaları, haftalar ayları, aylar yılları kovaladı\" örneğindeki gibi.",
+    "answers": [
+      "tedric / derecelendirme"
+    ],
+    "source_file": "SÖZ SANATLARI(3).txt",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_soz_sanatlari_040",
+    "topic": "Söz Sanatları",
+    "subtopic": "",
+    "question": "Aynı kökten türeyen sözcükleri kullanma sanatına ____________ denir; \"Kitaba mektubu katip yazdı\" örneğindeki gibi.",
+    "answers": [
+      "iştikak / türetme"
+    ],
+    "source_file": "SÖZ SANATLARI(3).txt",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_tanzimat_001",
+    "topic": "Tanzimat",
+    "subtopic": "",
+    "question": "1831'de II. Mahmut Dönemi'nde çıkan, günümüzün Resmî Gazete'si niteliğindeki ____________ gazetesi ____________'dir.",
+    "answers": [
+      "ilk resmî",
+      "Takvim-i Vakayi"
+    ],
+    "source_file": "TANZİMAT(3).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_tanzimat_002",
+    "topic": "Tanzimat",
+    "subtopic": "",
+    "question": "1840'ta ____________ tarafından çıkarılan Ceride-i Havadis, muhabir çalıştırma ve ____________ gibi ilklere imza atmış ____________ gazetedir.",
+    "answers": [
+      "William Churchill",
+      "tefrika",
+      "ilk yarı resmî"
+    ],
+    "source_file": "TANZİMAT(3).txt",
+    "blank_count": 3
+  },
+  {
+    "id": "edebiyat_tanzimat_003",
+    "topic": "Tanzimat",
+    "subtopic": "",
+    "question": "1860'ta ____________ ve ____________'nin çıkardığı Tercüman-ı Ahval, ____________ gazetesidir ve bu gazetenin çıkışı ____________ başlangıcı sayılır.",
+    "answers": [
+      "Agâh Efendi",
+      "Şinasi",
+      "ilk özel Türk",
+      "Tanzimat edebiyatının"
+    ],
+    "source_file": "TANZİMAT(3).txt",
+    "blank_count": 4
+  },
+  {
+    "id": "edebiyat_tanzimat_004",
+    "topic": "Tanzimat",
+    "subtopic": "",
+    "question": "1862'de Şinasi'nin çıkardığı, sonrasında ____________ ve ____________ tarafından da yürütülen Tasvir-i Efkâr; ____________ ayrımı, ____________ ve modern sayfa düzeni gibi yenilikler getirmiştir.",
+    "answers": [
+      "Namık Kemal",
+      "Recaizade Mahmut Ekrem",
+      "İç/dış haber",
+      "köşe yazısı"
+    ],
+    "source_file": "TANZİMAT(3).txt",
+    "blank_count": 4
+  },
+  {
+    "id": "edebiyat_tanzimat_005",
+    "topic": "Tanzimat",
+    "subtopic": "",
+    "question": "Tanzimat 1. Dönemde \"____________\", 2. Dönemde ise \"____________\" anlayışı benimsenmiştir.",
+    "answers": [
+      "toplum için sanat",
+      "sanat için sanat"
+    ],
+    "source_file": "TANZİMAT(3).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_tanzimat_006",
+    "topic": "Tanzimat",
+    "subtopic": "",
+    "question": "Tanzimat 1. Dönemde eserlerde ____________ önemliyken, 2. Dönemde ise ____________ ve ____________ önem kazanmıştır.",
+    "answers": [
+      "içerik",
+      "estetik",
+      "üslup"
+    ],
+    "source_file": "TANZİMAT(3).txt",
+    "blank_count": 3
+  },
+  {
+    "id": "edebiyat_tanzimat_007",
+    "topic": "Tanzimat",
+    "subtopic": "",
+    "question": "Tanzimat edebiyatında Batı'dan alınan yeni türler 1. Dönemde edebiyatımıza ____________, 2. Dönemde ise bu türler ____________ .",
+    "answers": [
+      "alınmış",
+      "geliştirilmiştir"
+    ],
+    "source_file": "TANZİMAT(3).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_tanzimat_008",
+    "topic": "Tanzimat",
+    "subtopic": "",
+    "question": "Tanzimat 1. Dönemde eserlerde ____________ gibi toplumsal konular işlenmiş, 2. Dönemde ise ____________ gibi bireysel konular işlenmiştir.",
+    "answers": [
+      "vatan, millet",
+      "aşk, kadın, doğa"
+    ],
+    "source_file": "TANZİMAT(3).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_tanzimat_009",
+    "topic": "Tanzimat",
+    "subtopic": "",
+    "question": "Tanzimat edebiyatının 1. döneminde ____________ ve ____________ akımları etkiliyken, 2. döneminde ____________ ve ____________ akımlarının etkisi görülür.",
+    "answers": [
+      "klasisizm",
+      "romantizm",
+      "realizm",
+      "natüralizm"
+    ],
+    "source_file": "TANZİMAT(3).txt",
+    "blank_count": 4
+  },
+  {
+    "id": "edebiyat_tanzimat_010",
+    "topic": "Tanzimat",
+    "subtopic": "",
+    "question": "Tanzimat edebiyatının hem 1. Döneminde hem de 2. Döneminde ____________ örnek alınmıştır.",
+    "answers": [
+      "Fransız edebiyatı"
+    ],
+    "source_file": "TANZİMAT(3).txt",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_tanzimat_011",
+    "topic": "Tanzimat",
+    "subtopic": "",
+    "question": "Akıl ve medeniyet gibi kavramları işleyen, dilde sadeleşme konusunda dönemin en önemli ismi olan ve ____________ adlı eseriyle atasözlerini derleyen sanatçı ____________'dir.",
+    "answers": [
+      "Durub-u Emsal-i Osmaniye",
+      "İbrahim Şinasi"
+    ],
+    "source_file": "TANZİMAT(3).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_tanzimat_012",
+    "topic": "Tanzimat",
+    "subtopic": "",
+    "question": "\"____________\" olarak bilinmesinin ötesinde tiyatronun ____________ olacağını söyleyen sanatçı ____________'dir.",
+    "answers": [
+      "Vatan Şairi",
+      "faydalı bir eğlence",
+      "Namık Kemal"
+    ],
+    "source_file": "TANZİMAT(3).txt",
+    "blank_count": 3
+  },
+  {
+    "id": "edebiyat_tanzimat_013",
+    "topic": "Tanzimat",
+    "subtopic": "",
+    "question": "\"____________\" adlı makalesinde halk şiirini, \"____________\" adlı eserinin ön sözünde ise divan şiirini savunan sanatçı ____________'dır.",
+    "answers": [
+      "Şiir ve İnşa",
+      "Harabat",
+      "Ziya Paşa"
+    ],
+    "source_file": "TANZİMAT(3).txt",
+    "blank_count": 3
+  },
+  {
+    "id": "edebiyat_tanzimat_014",
+    "topic": "Tanzimat",
+    "subtopic": "",
+    "question": "\"____________\" lakabıyla da tanınan ve Batılı anlamda ilk yerli hikâyeler olan ____________'ı yazan sanatçı ____________'dir.",
+    "answers": [
+      "Hace-i Evvel",
+      "Letaif-i Rivayat",
+      "Ahmet Mithat Efendi"
+    ],
+    "source_file": "TANZİMAT(3).txt",
+    "blank_count": 3
+  },
+  {
+    "id": "edebiyat_tanzimat_015",
+    "topic": "Tanzimat",
+    "subtopic": "",
+    "question": "Türk dili alanında yaptığı çalışmalarla bilinen ve edebiyatımızdaki ____________ yazarı olan sanatçı ____________'dir.",
+    "answers": [
+      "ilk yerli romanın",
+      "Şemsettin Sami"
+    ],
+    "source_file": "TANZİMAT(3).txt",
+    "blank_count": 2
+  },
+  {
+    "id": "edebiyat_tanzimat_016",
+    "topic": "Tanzimat",
+    "subtopic": "",
+    "question": "____________'nin hemen hemen bütün komedilerini çeviren ve ____________ akımının öncülerinden olan sanatçı ____________'dır.",
+    "answers": [
+      "Moliere",
+      "Türkçülük",
+      "Ahmet Vefik Paşa"
+    ],
+    "source_file": "TANZİMAT(3).txt",
+    "blank_count": 3
+  },
+  {
+    "id": "edebiyat_tanzimat_017",
+    "topic": "Tanzimat",
+    "subtopic": "",
+    "question": "\"____________\" kafiye anlayışını savunan ve ____________ edebiyatının kurulmasını sağlayan sanatçı ____________'dir.",
+    "answers": [
+      "Kulak için",
+      "Servetifünun",
+      "Recaizade Mahmut Ekrem"
+    ],
+    "source_file": "TANZİMAT(3).txt",
+    "blank_count": 3
+  },
+  {
+    "id": "edebiyat_tanzimat_018",
+    "topic": "Tanzimat",
+    "subtopic": "",
+    "question": "\"____________\" kafiye anlayışını savunan ve edebiyatta ____________ temsilcisi olan sanatçı ____________'dir.",
+    "answers": [
+      "Göz için",
+      "eskinin (eski edebiyatın)",
+      "Muallim Naci"
+    ],
+    "source_file": "TANZİMAT(3).txt",
+    "blank_count": 3
+  },
+  {
+    "id": "edebiyat_tanzimat_019",
+    "topic": "Tanzimat",
+    "subtopic": "",
+    "question": "Tezatlar Şairi, Lirik Şair ve \"____________\" olarak bilinen; edebiyatımızda ilk ____________ örneğini veren sanatçı ____________'dır.",
+    "answers": [
+      "Şair-i Azam",
+      "pastoral şiirin",
+      "Abdülhak Hamit Tarhan"
+    ],
+    "source_file": "TANZİMAT(3).txt",
+    "blank_count": 3
+  },
+  {
+    "id": "edebiyat_tanzimat_020",
+    "topic": "Tanzimat",
+    "subtopic": "",
+    "question": "Batılı anlamda ilk modern hikâyeler kabul edilen ____________'in yazarı ____________ iken; edebiyatımızdaki ilk köy romanı olan ____________'in yazarı ____________'dır.",
+    "answers": [
+      "Küçük Şeyler",
+      "Samipaşazade Sezai",
+      "Karabibik",
+      "Nabizade Nazım"
+    ],
+    "source_file": "TANZİMAT(3).txt",
+    "blank_count": 4
+  },
+  {
+    "id": "edebiyat_eser_yazar_001",
+    "topic": "Eser-Yazar Eşleştirmeleri",
+    "subtopic": "",
+    "question": "Makber, Sahra ve Eşber eserleri ____________ tarafından yazılmıştır.",
+    "answers": [
+      "Abdülhak Hamit Tarhan"
+    ],
+    "source_file": "eseryazar(2).json",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_eser_yazar_002",
+    "topic": "Eser-Yazar Eşleştirmeleri",
+    "subtopic": "",
+    "question": "Felâtun Bey ile Râkım Efendi eseri ____________ tarafından yazılmıştır.",
+    "answers": [
+      "Ahmet Mithat Efendi"
+    ],
+    "source_file": "eseryazar(2).json",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_eser_yazar_003",
+    "topic": "Eser-Yazar Eşleştirmeleri",
+    "subtopic": "",
+    "question": "Şair Evlenmesi ve Tercüman-ı Ahvâl Mukaddimesi ____________ eserleridir.",
+    "answers": [
+      "İbrahim Şinasi"
+    ],
+    "source_file": "eseryazar(2).json",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_eser_yazar_004",
+    "topic": "Eser-Yazar Eşleştirmeleri",
+    "subtopic": "",
+    "question": "Ateşpâre, Şerâre ve Füruzan eserleri ____________ tarafından yazılmıştır.",
+    "answers": [
+      "Muallim Naci"
+    ],
+    "source_file": "eseryazar(2).json",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_eser_yazar_005",
+    "topic": "Eser-Yazar Eşleştirmeleri",
+    "subtopic": "",
+    "question": "Karabibik ve Zehra eserleri ____________ tarafından yazılmıştır.",
+    "answers": [
+      "Nabizade Nazım"
+    ],
+    "source_file": "eseryazar(2).json",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_eser_yazar_006",
+    "topic": "Eser-Yazar Eşleştirmeleri",
+    "subtopic": "",
+    "question": "İntibah, Cezmi ve Vatan Yahut Silistre eserleri ____________ tarafından yazılmıştır.",
+    "answers": [
+      "Namık Kemal"
+    ],
+    "source_file": "eseryazar(2).json",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_eser_yazar_007",
+    "topic": "Eser-Yazar Eşleştirmeleri",
+    "subtopic": "",
+    "question": "Araba Sevdası ve Çok Bilen Çok Yanılır eserleri ____________ tarafından yazılmıştır.",
+    "answers": [
+      "Recaizade Mahmut Ekrem"
+    ],
+    "source_file": "eseryazar(2).json",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_eser_yazar_008",
+    "topic": "Eser-Yazar Eşleştirmeleri",
+    "subtopic": "",
+    "question": "Sergüzeşt ve Pandomima eserleri ____________ tarafından yazılmıştır.",
+    "answers": [
+      "Sami Paşazade Sezai"
+    ],
+    "source_file": "eseryazar(2).json",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_eser_yazar_009",
+    "topic": "Eser-Yazar Eşleştirmeleri",
+    "subtopic": "",
+    "question": "Taaşşuk-ı Talat ve Fitnat eseri ____________ tarafından yazılmıştır.",
+    "answers": [
+      "Şemsettin Sami"
+    ],
+    "source_file": "eseryazar(2).json",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_eser_yazar_010",
+    "topic": "Eser-Yazar Eşleştirmeleri",
+    "subtopic": "",
+    "question": "Terkibibent, Harabat ve Zafername eserleri ____________ tarafından yazılmıştır.",
+    "answers": [
+      "Ziya Paşa"
+    ],
+    "source_file": "eseryazar(2).json",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_eser_yazar_011",
+    "topic": "Eser-Yazar Eşleştirmeleri",
+    "subtopic": "",
+    "question": "Mai ve Siyah, Aşk-ı Memnu ve Kırık Hayatlar eserleri ____________ tarafından yazılmıştır.",
+    "answers": [
+      "Halit Ziya Uşaklıgil"
+    ],
+    "source_file": "eseryazar(2).json",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_eser_yazar_012",
+    "topic": "Eser-Yazar Eşleştirmeleri",
+    "subtopic": "",
+    "question": "Eylül, Genç Kız Kalbi ve Halas eserleri ____________ tarafından yazılmıştır.",
+    "answers": [
+      "Mehmet Rauf"
+    ],
+    "source_file": "eseryazar(2).json",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_eser_yazar_013",
+    "topic": "Eser-Yazar Eşleştirmeleri",
+    "subtopic": "",
+    "question": "Sis, Rübâb-ı Şikeste ve Haluk’un Defteri eserleri ____________ tarafından yazılmıştır.",
+    "answers": [
+      "Tevfik Fikret"
+    ],
+    "source_file": "eseryazar(2).json",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_eser_yazar_014",
+    "topic": "Eser-Yazar Eşleştirmeleri",
+    "subtopic": "",
+    "question": "Elhan-ı Şita, Hac Yolunda ve Tamat eserleri ____________ tarafından yazılmıştır.",
+    "answers": [
+      "Cenap Şahabettin"
+    ],
+    "source_file": "eseryazar(2).json",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_eser_yazar_015",
+    "topic": "Eser-Yazar Eşleştirmeleri",
+    "subtopic": "",
+    "question": "Falaka, Ramazan Sohbetleri ve Eşkâl-i Zaman eserleri ____________ tarafından yazılmıştır.",
+    "answers": [
+      "Ahmet Rasim"
+    ],
+    "source_file": "eseryazar(2).json",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_eser_yazar_016",
+    "topic": "Eser-Yazar Eşleştirmeleri",
+    "subtopic": "",
+    "question": "Şık, Şıpsevdi ve Mürebbiye eserleri ____________ tarafından yazılmıştır.",
+    "answers": [
+      "Hüseyin Rahmi Gürpınar"
+    ],
+    "source_file": "eseryazar(2).json",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_eser_yazar_017",
+    "topic": "Eser-Yazar Eşleştirmeleri",
+    "subtopic": "",
+    "question": "Piyâle, Göl Saatleri ve Merdiven ____________ eserleridir.",
+    "answers": [
+      "Ahmet Haşim"
+    ],
+    "source_file": "eseryazar(2).json",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_eser_yazar_018",
+    "topic": "Eser-Yazar Eşleştirmeleri",
+    "subtopic": "",
+    "question": "Divân-ı Hikmet eseri ____________ tarafından yazılmıştır.",
+    "answers": [
+      "Ahmet Yesevî"
+    ],
+    "source_file": "eseryazar(2).json",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_eser_yazar_019",
+    "topic": "Eser-Yazar Eşleştirmeleri",
+    "subtopic": "",
+    "question": "Atabetü’l Hakayık eseri ____________ tarafından yazılmıştır.",
+    "answers": [
+      "Edip Ahmet Yüknekî"
+    ],
+    "source_file": "eseryazar(2).json",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_eser_yazar_020",
+    "topic": "Eser-Yazar Eşleştirmeleri",
+    "subtopic": "",
+    "question": "Divânu Lugâti’t-Türk eseri ____________ tarafından yazılmıştır.",
+    "answers": [
+      "Kaşgarlı Mahmut"
+    ],
+    "source_file": "eseryazar(2).json",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_eser_yazar_021",
+    "topic": "Eser-Yazar Eşleştirmeleri",
+    "subtopic": "",
+    "question": "Kutadgu Bilig eseri ____________ tarafından yazılmıştır.",
+    "answers": [
+      "Yusuf Has Hacip"
+    ],
+    "source_file": "eseryazar(2).json",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_eser_yazar_022",
+    "topic": "Eser-Yazar Eşleştirmeleri",
+    "subtopic": "",
+    "question": "Makalat eseri ____________ tarafından yazılmıştır.",
+    "answers": [
+      "Hacı Bektaş-ı Veli"
+    ],
+    "source_file": "eseryazar(2).json",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_eser_yazar_023",
+    "topic": "Eser-Yazar Eşleştirmeleri",
+    "subtopic": "",
+    "question": "Risaletü’n-Nushiyye eseri ____________ tarafından yazılmıştır.",
+    "answers": [
+      "Yunus Emre"
+    ],
+    "source_file": "eseryazar(2).json",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_eser_yazar_024",
+    "topic": "Eser-Yazar Eşleştirmeleri",
+    "subtopic": "",
+    "question": "İskendernâme eseri ____________ tarafından yazılmıştır.",
+    "answers": [
+      "Ahmedî"
+    ],
+    "source_file": "eseryazar(2).json",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_eser_yazar_025",
+    "topic": "Eser-Yazar Eşleştirmeleri",
+    "subtopic": "",
+    "question": "Çengnâme eseri ____________ tarafından yazılmıştır.",
+    "answers": [
+      "Ahmed-i Dâî"
+    ],
+    "source_file": "eseryazar(2).json",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_eser_yazar_026",
+    "topic": "Eser-Yazar Eşleştirmeleri",
+    "subtopic": "",
+    "question": "Muhakemetü’l-Lügateyn ve Mecâlisü’n-Nefâis eserleri ____________ tarafından yazılmıştır.",
+    "answers": [
+      "Ali Şîr Nevâî"
+    ],
+    "source_file": "eseryazar(2).json",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_eser_yazar_027",
+    "topic": "Eser-Yazar Eşleştirmeleri",
+    "subtopic": "",
+    "question": "Garipnâme eseri ____________ tarafından yazılmıştır.",
+    "answers": [
+      "Âşık Paşa"
+    ],
+    "source_file": "eseryazar(2).json",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_eser_yazar_028",
+    "topic": "Eser-Yazar Eşleştirmeleri",
+    "subtopic": "",
+    "question": "Kanuni Mersiyesi ____________ tarafından yazılmıştır.",
+    "answers": [
+      "Bâkî"
+    ],
+    "source_file": "eseryazar(2).json",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_eser_yazar_029",
+    "topic": "Eser-Yazar Eşleştirmeleri",
+    "subtopic": "",
+    "question": "Leyla vü Mecnun ve Şikâyetnâme eserleri ____________ tarafından yazılmıştır.",
+    "answers": [
+      "Fuzûlî"
+    ],
+    "source_file": "eseryazar(2).json",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_eser_yazar_030",
+    "topic": "Eser-Yazar Eşleştirmeleri",
+    "subtopic": "",
+    "question": "Hayriyye ve Hayrâbâd eserleri ____________ tarafından yazılmıştır.",
+    "answers": [
+      "Nâbî"
+    ],
+    "source_file": "eseryazar(2).json",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_eser_yazar_031",
+    "topic": "Eser-Yazar Eşleştirmeleri",
+    "subtopic": "",
+    "question": "Siham-ı Kazâ eseri ____________ tarafından yazılmıştır.",
+    "answers": [
+      "Nef’î"
+    ],
+    "source_file": "eseryazar(2).json",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_eser_yazar_032",
+    "topic": "Eser-Yazar Eşleştirmeleri",
+    "subtopic": "",
+    "question": "Hüsn ü Aşk eseri ____________ tarafından yazılmıştır.",
+    "answers": [
+      "Şeyh Galip"
+    ],
+    "source_file": "eseryazar(2).json",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_eser_yazar_033",
+    "topic": "Eser-Yazar Eşleştirmeleri",
+    "subtopic": "",
+    "question": "Harnâme ve Hüsrev ü Şirin eserleri ____________ tarafından yazılmıştır.",
+    "answers": [
+      "Şeyhî"
+    ],
+    "source_file": "eseryazar(2).json",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_eser_yazar_034",
+    "topic": "Eser-Yazar Eşleştirmeleri",
+    "subtopic": "",
+    "question": "Paris Sefaretnamesi eseri ____________ tarafından yazılmıştır.",
+    "answers": [
+      "Yirmisekiz Mehmet Çelebi"
+    ],
+    "source_file": "eseryazar(2).json",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_eser_yazar_035",
+    "topic": "Eser-Yazar Eşleştirmeleri",
+    "subtopic": "",
+    "question": "Ateşten Gömlek, Vurun Kahpeye ve Sinekli Bakkal eserleri ____________ tarafından yazılmıştır.",
+    "answers": [
+      "Halide Edip Adıvar"
+    ],
+    "source_file": "eseryazar(2).json",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_eser_yazar_036",
+    "topic": "Eser-Yazar Eşleştirmeleri",
+    "subtopic": "",
+    "question": "Cenge Giderken ve Benim Şiirlerim eserleri ____________ tarafından yazılmıştır.",
+    "answers": [
+      "Mehmet Emin Yurdakul"
+    ],
+    "source_file": "eseryazar(2).json",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_eser_yazar_037",
+    "topic": "Eser-Yazar Eşleştirmeleri",
+    "subtopic": "",
+    "question": "Efruz Bey, Beyaz Lale ve Kaşağı eserleri ____________ tarafından yazılmıştır.",
+    "answers": [
+      "Ömer Seyfettin"
+    ],
+    "source_file": "eseryazar(2).json",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_eser_yazar_038",
+    "topic": "Eser-Yazar Eşleştirmeleri",
+    "subtopic": "",
+    "question": "Memleket Hikâyeleri ve Gurbet Hikâyeleri eserleri ____________ tarafından yazılmıştır.",
+    "answers": [
+      "Refik Halit Karay"
+    ],
+    "source_file": "eseryazar(2).json",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_eser_yazar_039",
+    "topic": "Eser-Yazar Eşleştirmeleri",
+    "subtopic": "",
+    "question": "Çalıkuşu, Yaprak Dökümü ve Acımak eserleri ____________ tarafından yazılmıştır.",
+    "answers": [
+      "Reşat Nuri Güntekin"
+    ],
+    "source_file": "eseryazar(2).json",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_eser_yazar_040",
+    "topic": "Eser-Yazar Eşleştirmeleri",
+    "subtopic": "",
+    "question": "Yaban, Ankara ve Kiralık Konak eserleri ____________ tarafından yazılmıştır.",
+    "answers": [
+      "Yakup Kadri Karaosmanoğlu"
+    ],
+    "source_file": "eseryazar(2).json",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_eser_yazar_041",
+    "topic": "Eser-Yazar Eşleştirmeleri",
+    "subtopic": "",
+    "question": "Kızıl Elma, Yeni Hayat ve Altın Işık eserleri ____________ tarafından yazılmıştır.",
+    "answers": [
+      "Ziya Gökalp"
+    ],
+    "source_file": "eseryazar(2).json",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_eser_yazar_042",
+    "topic": "Eser-Yazar Eşleştirmeleri",
+    "subtopic": "",
+    "question": "Safahat, Küfe ve Seyfi Baba eserleri ____________ tarafından yazılmıştır.",
+    "answers": [
+      "Mehmet Âkif Ersoy"
+    ],
+    "source_file": "eseryazar(2).json",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_eser_yazar_043",
+    "topic": "Eser-Yazar Eşleştirmeleri",
+    "subtopic": "",
+    "question": "Kendi Gök Kubbemiz ve Sessiz Gemi ____________ eserleridir.",
+    "answers": [
+      "Yahya Kemal Beyatlı"
+    ],
+    "source_file": "eseryazar(2).json",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_eser_yazar_044",
+    "topic": "Eser-Yazar Eşleştirmeleri",
+    "subtopic": "",
+    "question": "Saatleri Ayarlama Enstitüsü, Huzur ve Beş Şehir eserleri ____________ tarafından yazılmıştır.",
+    "answers": [
+      "Ahmet Hamdi Tanpınar"
+    ],
+    "source_file": "eseryazar(2).json",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_eser_yazar_045",
+    "topic": "Eser-Yazar Eşleştirmeleri",
+    "subtopic": "",
+    "question": "Ben Sana Mecburum, Sisler Bulvarı ve Duvar eserleri ____________ tarafından yazılmıştır.",
+    "answers": [
+      "Attilâ İlhan"
+    ],
+    "source_file": "eseryazar(2).json",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_eser_yazar_046",
+    "topic": "Eser-Yazar Eşleştirmeleri",
+    "subtopic": "",
+    "question": "Otuz Beş Yaş ve Gün Eksilmesin Penceremden ____________ eserleridir.",
+    "answers": [
+      "Cahit Sıtkı Tarancı"
+    ],
+    "source_file": "eseryazar(2).json",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_eser_yazar_047",
+    "topic": "Eser-Yazar Eşleştirmeleri",
+    "subtopic": "",
+    "question": "Han Duvarları, Çoban Çeşmesi ve Sanat eserleri ____________ tarafından yazılmıştır.",
+    "answers": [
+      "Faruk Nafiz Çamlıbel"
+    ],
+    "source_file": "eseryazar(2).json",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_eser_yazar_048",
+    "topic": "Eser-Yazar Eşleştirmeleri",
+    "subtopic": "",
+    "question": "Çocuk ve Allah, Çakır’ın Destanı ve Üç Şehitler Destanı eserleri ____________ tarafından yazılmıştır.",
+    "answers": [
+      "Fazıl Hüsnü Dağlarca"
+    ],
+    "source_file": "eseryazar(2).json",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_eser_yazar_049",
+    "topic": "Eser-Yazar Eşleştirmeleri",
+    "subtopic": "",
+    "question": "Devlet Ana, Yorgun Savaşçı ve Kurt Kanunu eserleri ____________ tarafından yazılmıştır.",
+    "answers": [
+      "Kemal Tahir"
+    ],
+    "source_file": "eseryazar(2).json",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_eser_yazar_050",
+    "topic": "Eser-Yazar Eşleştirmeleri",
+    "subtopic": "",
+    "question": "Kaldırımlar, Çile ve Sakarya Türküsü eserleri ____________ tarafından yazılmıştır.",
+    "answers": [
+      "Necip Fazıl Kısakürek"
+    ],
+    "source_file": "eseryazar(2).json",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_eser_yazar_051",
+    "topic": "Eser-Yazar Eşleştirmeleri",
+    "subtopic": "",
+    "question": "Tutunamayanlar eseri ____________ tarafından yazılmıştır.",
+    "answers": [
+      "Oğuz Atay"
+    ],
+    "source_file": "eseryazar(2).json",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_eser_yazar_052",
+    "topic": "Eser-Yazar Eşleştirmeleri",
+    "subtopic": "",
+    "question": "Dokuzuncu Hariciye Koğuşu, Fatih-Harbiye ve Yalnızız eserleri ____________ tarafından yazılmıştır.",
+    "answers": [
+      "Peyami Safa"
+    ],
+    "source_file": "eseryazar(2).json",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_eser_yazar_053",
+    "topic": "Eser-Yazar Eşleştirmeleri",
+    "subtopic": "",
+    "question": "Kuyucaklı Yusuf, İçimizdeki Şeytan ve Kürk Mantolu Madonna eserleri ____________ tarafından yazılmıştır.",
+    "answers": [
+      "Sabahattin Ali"
+    ],
+    "source_file": "eseryazar(2).json",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_eser_yazar_054",
+    "topic": "Eser-Yazar Eşleştirmeleri",
+    "subtopic": "",
+    "question": "Semaver, Lüzumsuz Adam ve Mahalle Kahvesi eserleri ____________ tarafından yazılmıştır.",
+    "answers": [
+      "Sait Faik Abasıyanık"
+    ],
+    "source_file": "eseryazar(2).json",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_eser_yazar_055",
+    "topic": "Eser-Yazar Eşleştirmeleri",
+    "subtopic": "",
+    "question": "Monna Rosa eseri ____________ tarafından yazılmıştır.",
+    "answers": [
+      "Sezai Karakoç"
+    ],
+    "source_file": "eseryazar(2).json",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_eser_yazar_056",
+    "topic": "Eser-Yazar Eşleştirmeleri",
+    "subtopic": "",
+    "question": "Küçük Ağa eseri ____________ tarafından yazılmıştır.",
+    "answers": [
+      "Tarık Buğra"
+    ],
+    "source_file": "eseryazar(2).json",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_eser_yazar_057",
+    "topic": "Eser-Yazar Eşleştirmeleri",
+    "subtopic": "",
+    "question": "İnce Memed, Yer Demir Gök Bakır ve Ağrı Dağı Efsanesi eserleri ____________ tarafından yazılmıştır.",
+    "answers": [
+      "Yaşar Kemal"
+    ],
+    "source_file": "eseryazar(2).json",
+    "blank_count": 1
+  },
+  {
+    "id": "edebiyat_eser_yazar_058",
+    "topic": "Eser-Yazar Eşleştirmeleri",
+    "subtopic": "",
+    "question": "Aylak Adam ve Anayurt Oteli eserleri ____________ tarafından yazılmıştır.",
+    "answers": [
+      "Yusuf Atılgan"
+    ],
+    "source_file": "eseryazar(2).json",
+    "blank_count": 1
+  }
+]
